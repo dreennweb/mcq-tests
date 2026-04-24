@@ -1,0 +1,48 @@
+{
+  "title": "Web Development",
+  "description": "Test your HTML, CSS, and web technologies knowledge",
+  "questions": [
+    {
+      "id": 1,
+      "text": "What does HTML stand for?",
+      "options": ["Hyper Text Markup Language", "High-Level Text Machine Language", "Hyper Transfer Markup Language", "Home Tool Markup Language"],
+      "correct": 0
+    },
+    {
+      "id": 2,
+      "text": "Which CSS property is used to change the background color of an element?",
+      "options": ["bgcolor", "background-color", "color", "background-style"],
+      "correct": 1
+    },
+    {
+      "id": 3,
+      "text": "What is the correct way to write a comment in HTML?",
+      "options": ["// comment", "<!-- comment -->", "/* comment */", "# comment"],
+      "correct": 1
+    },
+    {
+      "id": 4,
+      "text": "Which tag is used to link an external CSS file?",
+      "options": ["<css>", "<link>", "<style>", "<stylesheet>"],
+      "correct": 1
+    },
+    {
+      "id": 5,
+      "text": "What does CSS stand for?",
+      "options": ["Creative Style Sheets", "Computer Style Sheets", "Cascading Style Sheets", "Colorful Style Sheets"],
+      "correct": 2
+    },
+    {
+      "id": 6,
+      "text": "Which attribute is used to specify the URL of a link in HTML?",
+      "options": ["src", "href", "link", "url"],
+      "correct": 1
+    },
+    {
+      "id": 7,
+      "text": "What is the default position value in CSS?",
+      "options": ["relative", "absolute", "fixed", "static"],
+      "correct": 3
+    }
+  ]
+}

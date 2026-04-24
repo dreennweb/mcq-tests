@@ -1,0 +1,36 @@
+{
+  "title": "JavaScript Basics",
+  "description": "Test your core JavaScript knowledge",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Which of the following is used to declare a constant variable in JavaScript?",
+      "options": ["let", "var", "const", "constant"],
+      "correct": 2
+    },
+    {
+      "id": 2,
+      "text": "What does the '=== operator' check for?",
+      "options": ["Only value equality", "Only type equality", "Value and type equality", "Reference equality"],
+      "correct": 2
+    },
+    {
+      "id": 3,
+      "text": "Which built-in method adds one or more elements to the end of an array?",
+      "options": ["push()", "pop()", "shift()", "unshift()"],
+      "correct": 0
+    },
+    {
+      "id": 4,
+      "text": "What does the 'this' keyword refer to in a regular function (non-arrow) in a browser?",
+      "options": ["The global window object", "The function itself", "The parent object", "Undefined"],
+      "correct": 0
+    },
+    {
+      "id": 5,
+      "text": "Which of the following is NOT a JavaScript framework/library?",
+      "options": ["React", "Angular", "Django", "Vue.js"],
+      "correct": 2
+    }
+  ]
+}
