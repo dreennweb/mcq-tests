@@ -581,7 +581,7 @@
     {
       "id": 96,
       "text": "Under Section 88(2), the power to remove difficulties expires after how many years?",
-      "options": ["One year", "Three years", "Five years", "Seven years", "Ten years"],
+      "options": ["One year", "Three years", "Five years", "Eight years", "Ten years"],
       "correct": 3
     },
     {
