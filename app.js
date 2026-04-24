@@ -51,7 +51,8 @@ class QuizManager {
       { id: 'bsts', name: 'BSTS Basics', description: 'Test your core BSTS knowledge', icon: '📘' },
       { id: 'bsts-rules-basics', name: 'BSTS Rules', description: 'Test your BSTS Rules 2018 knowledge', icon: '🌐' },
       { id: 'economics-basic', name: 'Economics Basics', description: 'Economics basics', icon: '📈' },
-      { id: 'economics-advanced', name: 'Economics Advanced', description: 'Economics Advanced', icon: '🏛️' }
+      { id: 'economics-advanced', name: 'Economics Advanced', description: 'Economics Advanced', icon: '🏛️' },
+      { id: 'finance1', name: 'Finance 1', description: 'Finance 1', icon: '🏛️' },
     ];
     
     this.testListContainer.innerHTML = '';
