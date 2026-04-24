@@ -54,7 +54,8 @@ class QuizManager {
       { id: 'economics-advanced', name: 'Economics Advanced', description: 'Economics Advanced', icon: '🏛️' },
       { id: 'finance-basics', name: 'Finance Basics', description: 'Finance Basics', icon: '🏛️' },
       { id: 'finance1', name: 'Finance 1', description: 'Finance 1', icon: '🏛️' },
-      { id: 'income-tax', name: 'Income Tax', description: 'Income Tax', icon: '🏛️' }
+      { id: 'income-tax', name: 'Income Tax', description: 'Income Tax', icon: '🏛️' },
+      { id: 'sales-tax-1990', name: 'Sales Tax Act 1990', description: 'Federal Sales Tax', icon: '🏛️' }
     ];
     
     this.testListContainer.innerHTML = '';
