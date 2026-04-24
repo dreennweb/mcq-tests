@@ -1,0 +1,1206 @@
+{
+  "title": "The Balochistan Sales Tax on Services Rules, 2018 Examination",
+  "description": "Comprehensive 100-question bar-level assessment based on the 2018 Rules.",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Under Rule 1(3), when did the Balochistan Sales Tax on Services Rules, 2018 officially come into force?",
+      "options": [
+        "May 29, 2018",
+        "June 27, 2018",
+        "July 1, 2018",
+        "August 1, 2018",
+        "January 1, 2019"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 2,
+      "text": "According to the definitions in Rule 2, 'Beaching' is specifically defined as a service connected with:",
+      "options": [
+        "Guiding a ship to a parking slot near the shore",
+        "Bringing out a ship from deep water for the purpose of breaking",
+        "Dismantling an obsolete vessel for scrap",
+        "Making fast a boat with lines at a secured place",
+        "The conveyance of goods by watercraft"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 3,
+      "text": "The 'E-declaration administrator' must hold a rank not below which of the following?",
+      "options": [
+        "Assistant Commissioner",
+        "Deputy Commissioner",
+        "Additional Commissioner",
+        "Commissioner",
+        "Chairperson"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 4,
+      "text": "What is the specific 'Tax fraction' formula provided under Rule 2(30)?",
+      "options": [
+        "100 / (100 + a)",
+        "a / 100",
+        "(100 + a) / a",
+        "a / (100 + a)",
+        "a / (100 - a)"
+      ],
+      "correct": 3
+    },
+    {
+      "id": 5,
+      "text": "Under Rule 2(14), the act of guiding or providing a parking slot for a ship or vessel in water near the shore is termed:",
+      "options": [
+        "Mooring",
+        "Beaching",
+        "Pilotage",
+        "Ship Management",
+        "Stevedoring"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 6,
+      "text": "If a registered person provides taxable services from multiple premises but has a centralized billing system in the province, how many registrations are required under Rule 4(2)?",
+      "options": [
+        "One registration for each premises",
+        "One registration for each type of service",
+        "Two registrations: one for HQ and one for branches",
+        "One registration",
+        "Registration is not required for branches"
+      ],
+      "correct": 3
+    },
+    {
+      "id": 7,
+      "text": "Under Rule 5(3), the Authority shall issue a provisional certificate of registration within how many days of receipt of the application?",
+      "options": [
+        "24 hours",
+        "Two days",
+        "Three days",
+        "Seven days",
+        "Fifteen days"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 8,
+      "text": "According to Rule 5(4), the Authority shall regularize a provisional certificate of registration within a period of:",
+      "options": [
+        "Thirty days",
+        "Sixty days",
+        "Three months",
+        "Six months",
+        "One year"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 9,
+      "text": "Under Rule 6, taxpayers already registered with the FBR will be automatically registered and assigned an NTN with which prefix?",
+      "options": [
+        "BAL-",
+        "BRA-",
+        "S-",
+        "B-",
+        "BST-"
+      ],
+      "correct": 3
+    },
+    {
+      "id": 10,
+      "text": "Under Rule 9, a registered person must intimate any change in particulars of registration within how many days of such change?",
+      "options": [
+        "7 days",
+        "10 days",
+        "15 days",
+        "30 days",
+        "45 days"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 11,
+      "text": "Following an application for change in registration particulars, the Authority must approve or reject the request within how many days of receipt?",
+      "options": [
+        "15 days",
+        "30 days",
+        "60 days",
+        "90 days",
+        "Immediately"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 12,
+      "text": "According to Rule 11(3), an application for de-registration shall be disposed of within ____ days, extendable by ____ days.",
+      "options": [
+        "30; 30",
+        "60; 30",
+        "90; 60",
+        "120; 30",
+        "180; 90"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 13,
+      "text": "Rule 12(1) allows for temporary inactivation of registration if a person fails to file returns for how many consecutive tax periods?",
+      "options": [
+        "Two",
+        "Three",
+        "Four",
+        "Six",
+        "Twelve"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 14,
+      "text": "Once a registration is temporarily inactivated, Rule 12(2) requires the Authority to give notice stating reasons within how many days?",
+      "options": [
+        "Seven days",
+        "Ten days",
+        "Fifteen days",
+        "Twenty-one days",
+        "Thirty days"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 15,
+      "text": "Orders for suspension or cancellation of registration must be communicated to PRAL within how many days of the order date?",
+      "options": [
+        "One day",
+        "Three days",
+        "Seven days",
+        "Ten days",
+        "Fifteen days"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 16,
+      "text": "Rule 15 states that a return must be filed within how many days from the due date for payment of tax?",
+      "options": [
+        "Same day",
+        "Three days",
+        "Seven days",
+        "Ten days",
+        "Fifteen days"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 17,
+      "text": "Under Rule 17, the due date for payment of sales tax is usually the ____ day of the month following the tax period.",
+      "options": [
+        "10th",
+        "15th",
+        "18th",
+        "21st",
+        "Last"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 18,
+      "text": "According to Rule 21(1), a registered person may file a revised return resulting in increased tax payment within how many days of filing the original return?",
+      "options": [
+        "30 days",
+        "60 days",
+        "90 days",
+        "120 days",
+        "180 days"
+      ],
+      "correct": 3
+    },
+    {
+      "id": 19,
+      "text": "Rule 20 mandates a scanned attachment as evidence if input tax claimed on goods exceeds what percentage of output tax?",
+      "options": [
+        "10%",
+        "15%",
+        "20%",
+        "25%",
+        "50%"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 20,
+      "text": "Who is authorized to grant approval for amendments in a Computerized Payment Receipt (CPR) under Rule 18?",
+      "options": [
+        "Assistant Commissioner",
+        "Deputy Commissioner",
+        "Commissioner",
+        "E-declaration Administrator",
+        "Chairperson"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 21,
+      "text": "Under Rule 23(1), which of the following cannot be appointed as an e-intermediary?",
+      "options": [
+        "A firm approved by ICAP",
+        "A person qualified as an authorized representative under Sales Tax Rules, 2006",
+        "A registered Income Tax Practitioner",
+        "A person approved by the Authority",
+        "A person convicted of an offense under the Act within the last 5 years"
+      ],
+      "correct": 4
+    },
+    {
+      "id": 22,
+      "text": "What action may the Authority take under Rule 24(2) pending consideration of an e-intermediary's cancellation?",
+      "options": [
+        "Issue a fine",
+        "Inactivate their NTN",
+        "Suspend the appointment",
+        "Notify all their clients",
+        "Require a fresh security deposit"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 23,
+      "text": "Rule 26(1) allows a registered person to claim missed input tax adjustment in returns for any of the ____ succeeding tax periods.",
+      "options": [
+        "Three",
+        "Six",
+        "Twelve",
+        "Twenty-four",
+        "Thirty-six"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 24,
+      "text": "Under Rule 27, input tax credit is specifically NOT allowed for which of the following?",
+      "options": [
+        "Goods acquired as stock in trade",
+        "Utilities in the name of the registered person",
+        "Vehicles falling under Chapter 87 of the First Schedule to the Customs Act",
+        "Services used for taxable economic activity",
+        "Goods purchased 15 days before registration application"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 25,
+      "text": "Input tax credit is disallowed for goods and services purchased or acquired how many days before making a registration application?",
+      "options": [
+        "15 days",
+        "30 days",
+        "60 days",
+        "90 days",
+        "180 days"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 26,
+      "text": "According to Rule 27(8), the amount of sales tax paid in excess of ____ percent on taxable goods is not allowed as input tax adjustment.",
+      "options": [
+        "5",
+        "10",
+        "15",
+        "17",
+        "20"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 27,
+      "text": "Under Rule 28(12), a Debit or Credit Note leading to a reduction in output tax must be issued within ____ days of the relevant supply.",
+      "options": [
+        "90",
+        "120",
+        "150",
+        "180",
+        "365"
+      ],
+      "correct": 3
+    },
+    {
+      "id": 28,
+      "text": "The Commissioner may extend the 180-day period for issuing Debit/Credit notes by a further ____ days under Rule 28(12).",
+      "options": [
+        "15",
+        "30",
+        "45",
+        "60",
+        "90"
+      ],
+      "correct": 3
+    },
+    {
+      "id": 29,
+      "text": "Under Rule 30(b), a refund claim is inadmissible if filed after a lapse of ____ from the date of payment of tax.",
+      "options": [
+        "Six months",
+        "One year",
+        "Two years",
+        "Three years",
+        "Five years"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 30,
+      "text": "Which officer has pecuniary competence to sanction a refund claim of 450,000 rupees?",
+      "options": [
+        "Assistant Commissioner",
+        "Deputy Commissioner",
+        "Additional Commissioner",
+        "Commissioner",
+        "Chairperson"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 31,
+      "text": "Which officer has 'Unlimited' pecuniary competence to sanction refund claims under Rule 31?",
+      "options": [
+        "Deputy Commissioner",
+        "Assistant Commissioner",
+        "Additional Commissioner",
+        "Commissioner",
+        "Only the Board"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 32,
+      "text": "Under Rule 33(3), refund cheques must be issued as:",
+      "options": [
+        "Bearer cheques",
+        "Open cheques",
+        "Crossed refund payment cheques",
+        "Cashier's orders",
+        "Promissory notes"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 33,
+      "text": "According to Rule 35, where must the authorized officer forward the file after sanctioning a refund claim?",
+      "options": [
+        "To the Commissioner for final signature",
+        "To the Post-Refund Audit Division",
+        "To the State Bank of Pakistan",
+        "To the Accountant General",
+        "To the PRAL database"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 34,
+      "text": "Under Rule 40(2), if a service is provided over time and billed upon completion, the 'time of supply' is the earlier of completion or:",
+      "options": [
+        "The date the contract was signed",
+        "The date the invoice was printed",
+        "The receipt of payment (partial or full)",
+        "The 15th of the following month",
+        "The date of registration"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 35,
+      "text": "Rule 42(1) requires a tax invoice to include which of the following for the service provider?",
+      "options": [
+        "Passport Number",
+        "BNTN",
+        "STRN",
+        "FTN",
+        "Income Tax Certificate Number"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 36,
+      "text": "For telecommunication services under Rule 43(3), sales tax for post-paid services must be paid by the:",
+      "options": [
+        "15th day of the following month",
+        "18th day of the following month",
+        "21st day of the following month",
+        "24th day of the following month",
+        "Last day of the following month"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 37,
+      "text": "For incoming international calls, the sales tax must be paid by the 21st day of the month following the month in which:",
+      "options": [
+        "The call was initiated",
+        "The call was terminated",
+        "The invoice was issued to the foreign operator",
+        "The charges were actually received",
+        "The audit was completed"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 38,
+      "text": "Rule 43(8) requires a monthly statement for telecommunication services to be submitted by which day of the following month?",
+      "options": [
+        "10th",
+        "15th",
+        "21st",
+        "24th",
+        "30th"
+      ],
+      "correct": 3
+    },
+    {
+      "id": 39,
+      "text": "Under Rule 44(4)(b), the threshold for annual turnover of restaurants and caterers to be liable for sales tax is:",
+      "options": [
+        "Rupees 1 million",
+        "Rupees 2 million",
+        "Rupees 4 million",
+        "Rupees 5 million",
+        "Rupees 10 million"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 40,
+      "text": "The turnover threshold for restaurants does NOT apply if the restaurant is:",
+      "options": [
+        "Located in a rural area",
+        "Non-air-conditioned",
+        "A franchiser or franchisee",
+        "Solely providing delivery services",
+        "Operating only on weekends"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 41,
+      "text": "Under Rule 44(4)(b)(v), a restaurant is taxable regardless of turnover if its utility bills exceed ____ in any month during a financial year.",
+      "options": [
+        "Rs. 10,000",
+        "Rs. 20,000",
+        "Rs. 30,000",
+        "Rs. 40,000",
+        "Rs. 50,000"
+      ],
+      "correct": 3
+    },
+    {
+      "id": 42,
+      "text": "Under Rule 44(4)(d), food served by flight-kitchens on-board conveyances leaving for a destination outside Pakistan is:",
+      "options": [
+        "Taxed at standard rate",
+        "Taxed at reduced rate",
+        "Exempt",
+        "Zero-rated",
+        "Subject to a fixed fee per meal"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 43,
+      "text": "According to Rule 44(5), which of the following is NOT included in the value of taxable services for marriage halls and lawns?",
+      "options": [
+        "Catering",
+        "Illumination & lighting",
+        "Valet and security",
+        "Refundable deposits or security",
+        "Fumigation services"
+      ],
+      "correct": 3
+    },
+    {
+      "id": 44,
+      "text": "Rule 44(6)(g) specifies that clubs must pay sales tax by the ____ day of the ____ month following the tax period.",
+      "options": [
+        "15th; first",
+        "15th; second",
+        "21st; first",
+        "24th; second",
+        "Last; third"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 45,
+      "text": "Clubs must submit a quarterly statement under Rule 44(6)(h) by the 24th day of the month following the quarter ending in:",
+      "options": [
+        "January, April, July, October",
+        "February, May, August, November",
+        "March, June, September, December",
+        "September, December, March, June",
+        "Any four months chosen by the club"
+      ],
+      "correct": 3
+    },
+    {
+      "id": 46,
+      "text": "Under Rule 45(4), the value of taxable advertisement services is the gross amount charged or total consideration, ____.",
+      "options": [
+        "Whichever is lower",
+        "Whichever is higher",
+        "The average of both",
+        "Excluding Provincial levies",
+        "Including Balochistan Sales Tax"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 47,
+      "text": "Under Rule 46(6)(b), for 'post-paid' or 'to pay at destination' inter-city transportation, tax must be paid by the 15th day of the ____ month following the tax period.",
+      "options": [
+        "First",
+        "Second",
+        "Third",
+        "Fourth",
+        "Sixth"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 48,
+      "text": "According to Rule 47(3), the value of taxable shipping agent services is based on the gross commission charged on the:",
+      "options": [
+        "Total vessel value",
+        "Net ocean freight amount",
+        "Port dues",
+        "Demurrage charges",
+        "Reimbursable expenses"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 49,
+      "text": "Rule 47(9) prohibits the Assistant Collector of Customs from granting final port clearance to a ship unless the shipping agent furnishes:",
+      "options": [
+        "A bank guarantee",
+        "Proof of filing return and proof of payment of sales tax",
+        "A copy of the vessel's registration",
+        "A certificate from the Chamber of Commerce",
+        "A security deposit equivalent to the tax"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 50,
+      "text": "Under Rule 48(3), the value of taxable services for stevedores is commissions/fees relatable to cargo originating from or destined to:",
+      "options": [
+        "Pakistan",
+        "The territory of Balochistan",
+        "Any sea port globally",
+        "The designated dry ports only",
+        "Gawadar Port specifically"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 51,
+      "text": "Rule 50(6) sets a specific tax rate for Bills of Lading and House Bills of Lading issued by freight forwarding agents at:",
+      "options": [
+        "Rs. 100 per Bill",
+        "Rs. 250 per Bill",
+        "Rs. 500 per Bill",
+        "Rs. 1,000 per Bill",
+        "15% of the bill value"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 52,
+      "text": "Services provided by a freight forwarding agent (other than issuance of Bills of Lading) are charged to tax at ____ under Rule 50(6).",
+      "options": [
+        "5%",
+        "10%",
+        "13%",
+        "15%",
+        "16%"
+      ],
+      "correct": 3
+    },
+    {
+      "id": 53,
+      "text": "Under Rule 51(2), which of the following is NOT excluded from the value of taxable service for Customs Agents?",
+      "options": [
+        "Demurrage",
+        "Wharf-age",
+        "Customs-duties",
+        "Fee or commission realized from the client",
+        "Port charges"
+      ],
+      "correct": 3
+    },
+    {
+      "id": 54,
+      "text": "Rule 52(10) requires advertising agents to submit a quarterly statement by the last day of which months?",
+      "options": [
+        "January, April, July, October",
+        "November, February, May, August",
+        "March, June, September, December",
+        "December, March, June, September",
+        "Monthly only"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 55,
+      "text": "Under Rule 54(4), if a sponsorship service provider does not have a place of business in Balochistan, who is responsible for tax payment?",
+      "options": [
+        "The foreign service provider",
+        "The Authority by withholding",
+        "The service recipient",
+        "The advertising agency",
+        "The service is exempt"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 56,
+      "text": "If a sponsorship is charged partly in kind, Rule 54(5) states the value of taxable services shall:",
+      "options": [
+        "Exclude the value of articles in kind",
+        "Include the value of articles supplied in kind",
+        "Be based only on the cash component",
+        "Be discounted by 50%",
+        "Be determined by the Commissioner"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 57,
+      "text": "Under Rule 56(4), property builders and developers are allowed how much input tax credit?",
+      "options": [
+        "Full adjustment",
+        "Proportionate adjustment",
+        "15% fixed",
+        "No input tax credit or adjustment",
+        "Only for construction materials"
+      ],
+      "correct": 3
+    },
+    {
+      "id": 58,
+      "text": "Under Rule 56(6), if a builder refunds instalments to a buyer due to cancellation, they are entitled to:",
+      "options": [
+        "A credit note valid for 1 year",
+        "Claim refund of the tax paid",
+        "Adjust it against future output tax only",
+        "Nothing; the tax is non-refundable",
+        "Transfer the tax credit to the new buyer"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 59,
+      "text": "Rule 57(5) requires courier service providers to intimate particulars of all service outlets within ____ of commencement of registration.",
+      "options": [
+        "15 days",
+        "One month",
+        "Two months",
+        "Three months",
+        "Six months"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 60,
+      "text": "Under Rule 57(7), how much input tax adjustment is available for courier services?",
+      "options": [
+        "Full adjustment",
+        "10% of output tax",
+        "No input tax adjustment shall be available",
+        "Only for fuel costs",
+        "As determined by Rule 26"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 61,
+      "text": "If a courier consignment is destroyed beyond human control and charges are refunded, the tax is:",
+      "options": [
+        "Still payable",
+        "Deemed to have been remitted",
+        "Paid by the insurance company",
+        "Carried forward as a liability",
+        "Recovered from the co-loader"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 62,
+      "text": "Under Rule 59(7), an annual audit report of an insurance company must be submitted to the Commissioner within ____ of its receipt from the chartered accountant.",
+      "options": [
+        "7 days",
+        "15 days",
+        "30 days",
+        "60 days",
+        "90 days"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 63,
+      "text": "Short payment of tax found during an insurance company's audit must be paid within ____ days of receiving the audit report.",
+      "options": [
+        "7",
+        "15",
+        "30",
+        "45",
+        "60"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 64,
+      "text": "Banking companies are not required to issue tax invoices under Rule 60(5); instead, which document is treated as an invoice for adjustment?",
+      "options": [
+        "Cash memo",
+        "Bill or advice issued by the company",
+        "Monthly bank statement",
+        "Cheque book record",
+        "Standard BRA Form-01"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 65,
+      "text": "Under Rule 60(10), banking institutions must file quarterly reconciliation statements by the ____ of the month following the end of the quarter.",
+      "options": [
+        "15th",
+        "21st",
+        "24th",
+        "Last day",
+        "10th"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 66,
+      "text": "Under Rule 62(3), which of the following is specifically EXCLUDED from the value of taxable service for a Toll Manufacturer?",
+      "options": [
+        "Raw materials procured by the manufacturer",
+        "Inputs received from the service recipient",
+        "Labor charges",
+        "Utility costs incurred by the manufacturer",
+        "Processing fees"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 67,
+      "text": "Toll Manufacturers are eligible for input tax credit on materials they procure themselves under which Rule?",
+      "options": [
+        "Rule 25",
+        "Rule 26",
+        "Rule 41",
+        "Rule 62(3)",
+        "Rule 16"
+      ],
+      "correct": 3
+    },
+    {
+      "id": 68,
+      "text": "Rule 64(4) states that if a stockbroker purchases stocks from their own resources for sale, tax is paid on:",
+      "options": [
+        "The total sale value",
+        "The purchase price",
+        "The commission worked out on open market rates",
+        "The difference between buy and sell price",
+        "Such transactions are exempt"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 69,
+      "text": "Under Rule 66(4), if an indenter receives commission from a person resident outside Pakistan, the value is treated as:",
+      "options": [
+        "Tax-exclusive",
+        "Tax-inclusive (calculated via tax fraction)",
+        "Zero-rated",
+        "Exempt",
+        "Subject to reverse charge"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 70,
+      "text": "Under Rule 68(1), auctioneer rules apply to auctions of the right to collect ____, fees and other levies.",
+      "options": [
+        "Donations",
+        "Tolls",
+        "Insurance premiums",
+        "Subscriptions",
+        "Rent"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 71,
+      "text": "Under Rule 69(4), the value of taxable service for currency exchange is ____ paisa for every one hundred rupees equivalent exchanged.",
+      "options": [
+        "5",
+        "10",
+        "15",
+        "20",
+        "25"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 72,
+      "text": "Rule 71(1) states that airport charges for ____ are liable to sales tax, unless provided to the armed forces of Pakistan.",
+      "options": [
+        "Duty-free shopping",
+        "In-flight entertainment",
+        "Landing, housing, and hangar-age",
+        "Passenger insurance",
+        "Security staff meals"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 73,
+      "text": "Under Rule 73(3), if there is no formal agreement specifying considerations for franchise services, the value shall be ____ percent of the franchisee's turnover.",
+      "options": [
+        "2",
+        "5",
+        "10",
+        "15",
+        "20"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 74,
+      "text": "For the beverage sector under Rule 73(5), if no agreement exists, the value of franchise services is 10% of the turnover or 10% of the value of ____, whichever is higher.",
+      "options": [
+        "Empty bottles",
+        "Beverage concentrate supplied",
+        "Advertising budget",
+        "Electricity consumed",
+        "Total assets"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 75,
+      "text": "Under Rule 74(5), construction service providers must maintain records of which of the following?",
+      "options": [
+        "Staff medical records",
+        "Approved building plans and structural drawings",
+        "Vehicle maintenance logs",
+        "Client's income tax returns",
+        "Market price of cement"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 76,
+      "text": "Under Rule 75(3), which of the following is excluded from the taxable value of labour and manpower supply services if reimbursed on an actual basis?",
+      "options": [
+        "The agency's profit margin",
+        "Training costs",
+        "Salary and allowances of the labour supplied",
+        "Uniform costs",
+        "Transportation of staff"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 77,
+      "text": "Which of the following persons is NOT authorized to represent a taxpayer under Rule 78?",
+      "options": [
+        "A full-time employee of the taxpayer",
+        "An advocate entered in the rolls",
+        "A Cost & Management Accountant",
+        "A person retired from a tax department in a post not inferior to Assistant Commissioner",
+        "A family member of the taxpayer with no legal training"
+      ],
+      "correct": 4
+    },
+    {
+      "id": 78,
+      "text": "A person who retired from the tax department is disqualified from representing a taxpayer for ____ from their date of retirement.",
+      "options": [
+        "Six months",
+        "One year",
+        "Two years",
+        "Three years",
+        "Permanently"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 79,
+      "text": "Under Rule 79, which condition disqualifies a person from being an authorized representative?",
+      "options": [
+        "Being a resident of another province",
+        "Being an un-discharged insolvent",
+        "Working for more than three taxpayers",
+        "Having less than 5 years of experience",
+        "Being over 65 years of age"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 80,
+      "text": "What is the scope of a 'Special Audit' under Rule 85?",
+      "options": [
+        "To find criminal evidence of tax evasion",
+        "Expression of professional opinion on whether records are properly maintained",
+        "To prepare the registered person's tax returns",
+        "To evaluate the business's profitability",
+        "To replace the annual statutory audit"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 81,
+      "text": "Under Rule 87(2), if a penalty is applied to a special auditor and they already received payment, they must return it within ____ to the Authority.",
+      "options": [
+        "One week of issuance",
+        "Fifteen days",
+        "Thirty days",
+        "Three months",
+        "One year"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 82,
+      "text": "An Alternative Dispute Resolution (ADR) committee must submit its report within how many days of its appointment under Rule 90(3)?",
+      "options": [
+        "30 days",
+        "45 days",
+        "60 days",
+        "90 days",
+        "120 days"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 83,
+      "text": "Under Rule 96, if tax is determined through an adjudication order, when is recovery action prohibited?",
+      "options": [
+        "Indefinitely",
+        "During the period prescribed for filing an appeal",
+        "Until the Commissioner gives written permission",
+        "Only if the taxpayer is a company",
+        "During the first 15 days of the month"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 84,
+      "text": "Who acts as the 'Referring officer' for the recovery of tax under Rule 99?",
+      "options": [
+        "The Commissioner",
+        "The Assistant Commissioner in whose jurisdiction the case falls",
+        "The Chairperson of the BRA",
+        "The E-declaration administrator",
+        "The Recovery Officer"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 85,
+      "text": "A 'Recovery officer' must hold a rank not below which of the following?",
+      "options": [
+        "Inspector",
+        "Assistant Commissioner",
+        "Deputy Commissioner",
+        "Additional Commissioner",
+        "Commissioner"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 86,
+      "text": "Under Rule 107, a notice for attachment of property gives the defaulter how many days to pay before attachment occurs?",
+      "options": [
+        "Three days",
+        "Seven days",
+        "Ten days",
+        "Fifteen days",
+        "Thirty days"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 87,
+      "text": "According to Rule 111, private alienation of property after a notice under Rule 107 has been served is:",
+      "options": [
+        "Valid if for market value",
+        "Valid if to a family member",
+        "Void",
+        "Voidable at the option of the defaulter",
+        "Subject to a 50% surcharge"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 88,
+      "text": "Under Rule 116, property exempt from attachment includes all properties exempted by which law?",
+      "options": [
+        "The Balochistan Revenue Act",
+        "The Code of Civil Procedure, 1908",
+        "The Income Tax Ordinance, 2001",
+        "The Constitution of Pakistan",
+        "The Transfer of Property Act"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 89,
+      "text": "Rule 117(1) allows for the sale of property if dues are not paid within ____ from the date of attachment.",
+      "options": [
+        "Seven days",
+        "Fifteen days",
+        "Thirty days",
+        "Sixty days",
+        "Ninety days"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 90,
+      "text": "Under Rule 118, negotiable instruments and shares may be sold through which method instead of public auction?",
+      "options": [
+        "Direct sale to the bank",
+        "Transfer to the Authority's name",
+        "Sale through a broker",
+        "Private tender",
+        "Redemption by the company"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 91,
+      "text": "Under Rule 122, a purchaser may apply to set aside a sale on the ground of no saleable interest within how many days?",
+      "options": [
+        "Seven days",
+        "Fifteen days",
+        "Thirty days",
+        "Sixty days",
+        "Ninety days"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 92,
+      "text": "The period to set aside a sale may be extended by the recovery officer by another ____ days in extraordinary situations.",
+      "options": [
+        "15",
+        "30",
+        "60",
+        "90",
+        "120"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 93,
+      "text": "Rule 127 prohibits which persons from bidding for or purchasing property at an auction?",
+      "options": [
+        "The defaulter's family",
+        "Any registered taxpayer",
+        "Officers having a duty to perform in connection with the sale",
+        "Non-residents of Balochistan",
+        "Persons with outstanding tax liabilities"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 94,
+      "text": "Under Rule 128, the sale proceeds are first utilized for:",
+      "options": [
+        "Satisfaction of the tax",
+        "Payment to the defaulter",
+        "Meeting the cost of sale",
+        "Recovery of other Government dues",
+        "Payment of outstanding salaries"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 95,
+      "text": "According to Rule 141, the Authority shall keep records of each electronic transmission for a period of ____ years.",
+      "options": [
+        "Two",
+        "Three",
+        "Five",
+        "Ten",
+        "Twenty"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 96,
+      "text": "Under Rule 145, if a person transmits e-invoices in real time, they are NOT required to provide:",
+      "options": [
+        "The monthly return itself",
+        "Summary of sale invoices with the monthly return",
+        "Payment of tax",
+        "Their BNTN on the invoice",
+        "A manual ledger"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 97,
+      "text": "Rule 151 allows an adjudicating officer to ____ multiple show cause notices issued to a single person.",
+      "options": [
+        "Cancel",
+        "Suspend",
+        "Club",
+        "Delegate",
+        "Refile"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 98,
+      "text": "Under Rule 154, frivolous requests for ____ aimed at delaying adjudication shall be declined by recording reasons.",
+      "options": [
+        "Refunds",
+        "Adjournments",
+        "Audit",
+        "ADR",
+        "Exemption"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 99,
+      "text": "According to Rule 157, electronic adjudication via video conferencing shall be honored if found:",
+      "options": [
+        "Requested by a lawyer",
+        "Feasible and not detrimental to the proceedings",
+        "The only way to contact the taxpayer",
+        "Mandated by the Commissioner",
+        "Cost-effective for the Authority"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 100,
+      "text": "Under Rule 161, if a case is decided via 'Summary Adjudication', it does NOT extinguish the right of the person to:",
+      "options": [
+        "Claim a refund",
+        "Appeal",
+        "De-register",
+        "Avoid penalties",
+        "Submit a revised return"
+      ],
+      "correct": 1
+    }
+  ]
+}
