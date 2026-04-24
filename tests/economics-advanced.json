@@ -1,0 +1,1106 @@
+{
+  "title": "Advanced Economic Theory and Policy",
+  "description": "A comprehensive examination of macro and microeconomic principles, history, and policy interactions.",
+  "questions": [
+    {
+      "id": 1,
+      "text": "An economy is operating at full employment. The government increases spending financed by selling bonds to the public, while the Central Bank maintains a strict inflation target. What is the most likely long-term result?",
+      "options": [
+        "A permanent increase in real GDP via the multiplier effect.",
+        "Complete crowding out of private investment due to rising real interest rates.",
+        "A shift in the composition of GDP from investment to public consumption with no change in total output.",
+        "A decrease in the velocity of money as defined by the Equation of Exchange."
+      ],
+      "correct": 2
+    },
+    {
+      "id": 2,
+      "text": "In the context of the 'Lucas Critique,' why might traditional econometric models fail to predict the effects of a change in economic policy?",
+      "options": [
+        "The models fail to account for the irrationality of consumer behavior.",
+        "The parameters of the models are not structural and change when policy regimes change because agents adjust expectations.",
+        "The models rely too heavily on micro-foundations rather than aggregate data.",
+        "The models do not account for the time-lag between fiscal and monetary implementation."
+      ],
+      "correct": 1
+    },
+    {
+      "id": 3,
+      "text": "A good is classified as a 'Giffen Good' if, following a price increase, the:",
+      "options": [
+        "Substitution effect is positive and outweighs the negative income effect.",
+        "Income effect is positive and reinforces the substitution effect.",
+        "Substitution effect is negative, but the negative income effect for an inferior good is stronger.",
+        "Demand curve shifts to the right due to a change in consumer preferences."
+      ],
+      "correct": 2
+    },
+    {
+      "id": 4,
+      "text": "According to the Ricardian Equivalence proposition, a tax-cut financed by government debt will:",
+      "options": [
+        "Stimulate aggregate demand by increasing current disposable income.",
+        "Have no effect on aggregate demand because taxpayers anticipate future tax increases to pay off the debt.",
+        "Lead to a 'Liquidity Trap' as interest rates fall to zero.",
+        "Increase the money supply as the government prints currency to cover interest."
+      ],
+      "correct": 1
+    },
+    {
+      "id": 5,
+      "text": "Which of the following describes a movement along the supply curve rather than a shift in the supply curve?",
+      "options": [
+        "An improvement in production technology.",
+        "An increase in the price of a substitute in production.",
+        "An increase in the market price of the good itself caused by an increase in demand.",
+        "A decrease in the cost of raw materials."
+      ],
+      "correct": 2
+    },
+    {
+      "id": 6,
+      "text": "In a Liquidity Trap, the LM curve is:",
+      "options": [
+        "Perfectly vertical, making monetary policy highly effective.",
+        "Upward sloping, reflecting the Fisher Effect.",
+        "Perfectly horizontal, making monetary policy ineffective at lowering interest rates.",
+        "Downward sloping, suggesting a paradox of thrift."
+      ],
+      "correct": 2
+    },
+    {
+      "id": 7,
+      "text": "Which school of thought emphasizes that 'shocks' to technology and productivity are the primary causes of the business cycle, rather than changes in aggregate demand?",
+      "options": [
+        "Monetarist School",
+        "Keynesian School",
+        "Real Business Cycle (RBC) Theory",
+        "Austrian School"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 8,
+      "text": "The 'Prebisch-Singer Hypothesis' suggests that in the long run, the price of primary commodities:",
+      "options": [
+        "Increases relative to manufactured goods due to scarcity.",
+        "Declines relative to manufactured goods, leading to a deterioration in terms of trade for developing nations.",
+        "Remains stable due to the law of one price.",
+        "Is determined solely by the gold standard."
+      ],
+      "correct": 1
+    },
+    {
+      "id": 9,
+      "text": "If the Central Bank engages in 'Sterilization' after an unsterilized intervention in the foreign exchange market, it is trying to:",
+      "options": [
+        "Increase the volatility of the exchange rate.",
+        "Offset the effect of the foreign exchange intervention on the domestic monetary base.",
+        "Force the government to reduce its fiscal deficit.",
+        "Prevent the domestic currency from depreciating."
+      ],
+      "correct": 1
+    },
+    {
+      "id": 10,
+      "text": "Which of the following occurs when a tax is placed on a good with perfectly inelastic demand?",
+      "options": [
+        "The producer bears the entire burden of the tax.",
+        "The consumer bears the entire burden of the tax, and there is no deadweight loss.",
+        "The deadweight loss is maximized because consumption does not change.",
+        "The supply curve shifts vertically downward."
+      ],
+      "correct": 1
+    },
+    {
+      "id": 11,
+      "text": "Say’s Law, a pillar of Classical Economics, is best summarized as:",
+      "options": [
+        "Demand creates its own supply.",
+        "Supply creates its own demand.",
+        "Prices and wages are 'sticky' in the short run.",
+        "The velocity of money is always constant."
+      ],
+      "correct": 1
+    },
+    {
+      "id": 12,
+      "text": "During the 'Great Moderation' (mid-1980s to 2007), what was the primary characteristic of the global economy?",
+      "options": [
+        "Hyperinflation in developed nations.",
+        "Low volatility in business cycles and stable, low inflation.",
+        "The collapse of the Bretton Woods system.",
+        "A return to strict mercantilist policies."
+      ],
+      "correct": 1
+    },
+    {
+      "id": 13,
+      "text": "The Phillips Curve originally suggested a trade-off between inflation and unemployment. Milton Friedman and Edmund Phelps argued that in the long run:",
+      "options": [
+        "The trade-off is even steeper.",
+        "There is no trade-off, and the curve is vertical at the natural rate of unemployment.",
+        "Expected inflation is always zero.",
+        "Lower unemployment can only be achieved by increasing the money supply indefinitely."
+      ],
+      "correct": 1
+    },
+    {
+      "id": 14,
+      "text": "Which of the following is an example of an 'Automatic Stabilizer' in fiscal policy?",
+      "options": [
+        "A legislative decision to build a new interstate highway system.",
+        "The Central Bank lowering the federal funds rate.",
+        "A progressive income tax system that collects less revenue during a recession.",
+        "An emergency stimulus check issued by the Treasury."
+      ],
+      "correct": 2
+    },
+    {
+      "id": 15,
+      "text": "The 'Fisher Effect' states that a 1% increase in the expected inflation rate will lead to:",
+      "options": [
+        "A 1% decrease in the nominal interest rate.",
+        "No change in the nominal interest rate.",
+        "A 1% increase in the nominal interest rate, keeping the real interest rate constant.",
+        "A 1% increase in the real interest rate."
+      ],
+      "correct": 2
+    },
+    {
+      "id": 16,
+      "text": "If the cross-price elasticity of demand between Good A and Good B is -1.5, this implies that the goods are:",
+      "options": [
+        "Strong substitutes.",
+        "Strong complements.",
+        "Unrelated (independent).",
+        "Both inferior goods."
+      ],
+      "correct": 1
+    },
+    {
+      "id": 17,
+      "text": "A 'Monetarist' would argue that the most effective way to manage the economy is to:",
+      "options": [
+        "Adjust tax rates frequently to manage demand.",
+        "Maintain a steady, predictable growth rate of the money supply.",
+        "Use discretionary interest rate hikes to prevent any stock market bubble.",
+        "Nationalize major industries to ensure full employment."
+      ],
+      "correct": 1
+    },
+    {
+      "id": 18,
+      "text": "What does the 'Impossible Trinity' (Trilemma) in international economics state that a country cannot have simultaneously?",
+      "options": [
+        "Low inflation, high growth, and low unemployment.",
+        "A fixed exchange rate, free capital movement, and an independent monetary policy.",
+        "A trade surplus, high domestic consumption, and low taxes.",
+        "Fiscal surplus, monetary easing, and a gold standard."
+      ],
+      "correct": 1
+    },
+    {
+      "id": 19,
+      "text": "The 'Taylor Rule' is a formula used to suggest how:",
+      "options": [
+        "Governments should set tax rates based on GDP growth.",
+        "Central Banks should adjust nominal interest rates in response to inflation and output gaps.",
+        "Firms should price their goods to maximize profit.",
+        "The velocity of money relates to the price level."
+      ],
+      "correct": 1
+    },
+    {
+      "id": 20,
+      "text": "Which phenomenon occurs when short-term interest rates are higher than long-term interest rates on government bonds?",
+      "options": [
+        "Contango",
+        "Normal Yield Curve",
+        "Inverted Yield Curve",
+        "Liquidity Preference"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 21,
+      "text": "In New Keynesian Economics, 'Menu Costs' refer to:",
+      "options": [
+        "The physical cost of printing new menus in a restaurant.",
+        "The costs firms face when changing prices, which leads to price stickiness.",
+        "The cost of food inflation in the CPI.",
+        "The inefficiency of government subsidies in the agricultural sector."
+      ],
+      "correct": 1
+    },
+    {
+      "id": 22,
+      "text": "What is the primary cause of 'Cost-Push Inflation'?",
+      "options": [
+        "Excessive growth in the money supply.",
+        "A decrease in the aggregate supply due to rising input costs (e.g., oil prices).",
+        "An increase in consumer confidence leading to higher spending.",
+        "A government budget surplus."
+      ],
+      "correct": 1
+    },
+    {
+      "id": 23,
+      "text": "Under the 'Gold Standard,' if a country had a trade deficit, what was expected to happen according to the Price-Specie Flow Mechanism?",
+      "options": [
+        "It would borrow more gold from the IMF.",
+        "Gold would flow out, the money supply would contract, prices would fall, and exports would become more competitive.",
+        "The currency would be devalued by the central bank.",
+        "The government would increase tariffs to stop the flow of gold."
+      ],
+      "correct": 1
+    },
+    {
+      "id": 24,
+      "text": "The 'Paradox of Thrift' suggests that if everyone tries to save more during a recession:",
+      "options": [
+        "Capital investment will increase, leading to a faster recovery.",
+        "Aggregate demand will fall, potentially reducing total savings and income.",
+        "Inflation will skyrocket as banks have more money to lend.",
+        "The multiplier effect will become infinite."
+      ],
+      "correct": 1
+    },
+    {
+      "id": 25,
+      "text": "Which of the following would cause a 'Change in Demand' (a shift in the curve) for electric vehicles?",
+      "options": [
+        "A decrease in the price of electric vehicles.",
+        "An increase in the price of gasoline (a complement-in-use for ICE vehicles).",
+        "A decrease in the cost of lithium-ion batteries.",
+        "The introduction of a new assembly line robot that speeds up production."
+      ],
+      "correct": 1
+    },
+    {
+      "id": 26,
+      "text": "What is 'Seigniorage'?",
+      "options": [
+        "The process of banks lending out more than they hold in reserves.",
+        "The profit made by a government by issuing currency, especially the difference between the face value and production cost.",
+        "A tax on imported luxury goods.",
+        "The interest rate charged by the central bank to commercial banks."
+      ],
+      "correct": 1
+    },
+    {
+      "id": 27,
+      "text": "In the Mundell-Fleming model with perfect capital mobility and a floating exchange rate, expansionary fiscal policy is:",
+      "options": [
+        "Highly effective in increasing GDP.",
+        "Ineffective because it leads to currency appreciation and a decrease in net exports.",
+        "Effective only if accompanied by a tax increase.",
+        "The only way to reduce unemployment."
+      ],
+      "correct": 1
+    },
+    {
+      "id": 28,
+      "text": "Which concept explains why a person might continue to watch a boring movie just because they paid $15 for the ticket?",
+      "options": [
+        "Marginal Utility",
+        "Sunk Cost Fallacy",
+        "Opportunity Cost",
+        "The Law of Diminishing Returns"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 29,
+      "text": "Stagflation is defined as a period of:",
+      "options": [
+        "High inflation and high economic growth.",
+        "Low inflation and high unemployment.",
+        "High inflation and high unemployment/stagnant growth.",
+        "Negative inflation and negative growth."
+      ],
+      "correct": 2
+    },
+    {
+      "id": 30,
+      "text": "According to the Coase Theorem, private parties can solve the problem of externalities without government intervention if:",
+      "options": [
+        "Taxes are high enough to discourage the externality.",
+        "Property rights are well-defined and transaction costs are low.",
+        "The government mandates a specific level of production.",
+        "The externality is positive rather than negative."
+      ],
+      "correct": 1
+    },
+    {
+      "id": 31,
+      "text": "What is the primary difference between the CPI (Consumer Price Index) and the GDP Deflator?",
+      "options": [
+        "CPI measures only food and energy, while GDP Deflator measures all goods.",
+        "CPI includes imported goods, while the GDP Deflator only includes domestically produced goods.",
+        "GDP Deflator uses a fixed basket of goods, while CPI does not.",
+        "There is no difference; they always yield the same inflation rate."
+      ],
+      "correct": 1
+    },
+    {
+      "id": 32,
+      "text": "The 'Hysteresis' effect in labor markets suggests that:",
+      "options": [
+        "Wages always adjust quickly to clear the market.",
+        "Long periods of high unemployment can increase the natural rate of unemployment as workers lose skills.",
+        "Inflation is always a monetary phenomenon.",
+        "Minimum wage laws always create a surplus of labor."
+      ],
+      "correct": 1
+    },
+    {
+      "id": 33,
+      "text": "In a Cournot Competition model, firms compete by setting:",
+      "options": [
+        "Prices.",
+        "Quantities.",
+        "Advertising budgets.",
+        "Quality standards."
+      ],
+      "correct": 1
+    },
+    {
+      "id": 34,
+      "text": "The 'Laffer Curve' illustrates the relationship between:",
+      "options": [
+        "Inflation and Unemployment.",
+        "Tax rates and total Tax Revenue.",
+        "Interest rates and Investment.",
+        "Money Supply and GDP."
+      ],
+      "correct": 1
+    },
+    {
+      "id": 35,
+      "text": "If a Central Bank engages in 'Quantitative Easing' (QE), it is primarily:",
+      "options": [
+        "Lowering the reserve requirement for small banks.",
+        "Buying long-term assets (like government bonds) to inject liquidity and lower long-term interest rates.",
+        "Selling gold to strengthen the currency.",
+        "Increasing the discount rate to fight inflation."
+      ],
+      "correct": 1
+    },
+    {
+      "id": 36,
+      "text": "A 'Natural Monopoly' occurs when:",
+      "options": [
+        "The government grants an exclusive patent to a firm.",
+        "One firm can supply the entire market at a lower cost than two or more firms due to massive economies of scale.",
+        "A firm owns all the natural resources required for production.",
+        "The demand for a product is perfectly inelastic."
+      ],
+      "correct": 1
+    },
+    {
+      "id": 37,
+      "text": "The 'Pigouvian Tax' is designed to:",
+      "options": [
+        "Redistribute wealth from the rich to the poor.",
+        "Internalize the costs of a negative externality.",
+        "Provide a subsidy for essential goods.",
+        "Ensure that the government budget is always balanced."
+      ],
+      "correct": 1
+    },
+    {
+      "id": 38,
+      "text": "What does the 'Gini Coefficient' measure?",
+      "options": [
+        "The rate of inflation over time.",
+        "The degree of income inequality within a population.",
+        "The efficiency of a country's tax system.",
+        "The volatility of the stock market."
+      ],
+      "correct": 1
+    },
+    {
+      "id": 39,
+      "text": "In the 'Solow-Swan Growth Model,' what is the primary driver of long-term sustainable growth in per capita income?",
+      "options": [
+        "Capital accumulation (saving more).",
+        "Population growth.",
+        "Exogenous technological progress.",
+        "Increasing the labor force participation rate."
+      ],
+      "correct": 2
+    },
+    {
+      "id": 40,
+      "text": "The 'Dutch Disease' refers to a situation where:",
+      "options": [
+        "An increase in agricultural exports leads to a famine.",
+        "A large discovery of natural resources leads to currency appreciation, making other sectors (like manufacturing) uncompetitive.",
+        "The government spends too much on social welfare, leading to high debt.",
+        "A country becomes too dependent on imports from the Netherlands."
+      ],
+      "correct": 1
+    },
+    {
+      "id": 41,
+      "text": "What is 'Menu Cost' in the context of inflation?",
+      "options": [
+        "The cost of food increasing in restaurants.",
+        "The cost to firms of changing their prices, such as reprinting catalogs or updating systems.",
+        "The cost to consumers of searching for the lowest price.",
+        "The loss of purchasing power for people on fixed incomes."
+      ],
+      "correct": 1
+    },
+    {
+      "id": 42,
+      "text": "The 'Law of One Price' is the basis for which economic theory?",
+      "options": [
+        "Keynesian Multiplier",
+        "Purchasing Power Parity (PPP)",
+        "The Phillips Curve",
+        "Comparative Advantage"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 43,
+      "text": "If the income elasticity of demand for a good is 0.5, the good is a:",
+      "options": [
+        "Luxury good.",
+        "Normal good (Necessity).",
+        "Inferior good.",
+        "Giffen good."
+      ],
+      "correct": 1
+    },
+    {
+      "id": 44,
+      "text": "What was the 'Bretton Woods System'?",
+      "options": [
+        "A system of free-floating exchange rates established after WWII.",
+        "A system of fixed exchange rates where currencies were pegged to the US Dollar, which was pegged to gold.",
+        "The first international agreement to eliminate all tariffs.",
+        "The plan that established the Euro as a common currency."
+      ],
+      "correct": 1
+    },
+    {
+      "id": 45,
+      "text": "In a 'Prisoner's Dilemma' game, the 'Nash Equilibrium' usually results in:",
+      "options": [
+        "The best possible outcome for both players.",
+        "An outcome where both players cooperate.",
+        "An outcome where both players defect (betray), which is worse than if they had both cooperated.",
+        "A situation where one player wins and the other loses everything."
+      ],
+      "correct": 2
+    },
+    {
+      "id": 46,
+      "text": "The 'Haavelmo Theorem' (Balanced Budget Multiplier) suggests that if the government increases spending and taxes by the same amount:",
+      "options": [
+        "GDP will not change.",
+        "GDP will increase by the amount of the spending increase (Multiplier = 1).",
+        "GDP will decrease because taxes discourage work.",
+        "Inflation will increase by 10%."
+      ],
+      "correct": 1
+    },
+    {
+      "id": 47,
+      "text": "What is 'Shoeleather Cost'?",
+      "options": [
+        "The cost of replacing shoes worn out from walking to the store.",
+        "The resources wasted when people change their behavior to avoid holding cash during high inflation.",
+        "The tax on leather goods.",
+        "The cost of transporting goods over long distances."
+      ],
+      "correct": 1
+    },
+    {
+      "id": 48,
+      "text": "Which of the following is most likely to cause 'Demand-Pull Inflation'?",
+      "options": [
+        "A sudden spike in global oil prices.",
+        "An increase in the corporate tax rate.",
+        "Excessive government spending during a period of full employment.",
+        "A decrease in consumer confidence."
+      ],
+      "correct": 2
+    },
+    {
+      "id": 49,
+      "text": "A 'Veblen Good' is a product for which demand increases as:",
+      "options": [
+        "Consumer income decreases.",
+        "The price increases, because it is seen as a status symbol.",
+        "The price of substitutes decreases.",
+        "The government provides a subsidy."
+      ],
+      "correct": 1
+    },
+    {
+      "id": 50,
+      "text": "The 'Tragedy of the Commons' occurs with goods that are:",
+      "options": [
+        "Excludable and Rivalrous.",
+        "Non-excludable and Rivalrous.",
+        "Excludable and Non-rivalrous.",
+        "Non-excludable and Non-rivalrous."
+      ],
+      "correct": 1
+    },
+    {
+      "id": 51,
+      "text": "What does the 'Equation of Exchange' (MV = PY) suggest if Velocity (V) and Output (Y) are constant?",
+      "options": [
+        "An increase in the Money Supply (M) will lead to a proportional increase in the Price Level (P).",
+        "An increase in the Money Supply will decrease interest rates.",
+        "Fiscal policy is more effective than monetary policy.",
+        "The government should always run a deficit."
+      ],
+      "correct": 0
+    },
+    {
+      "id": 52,
+      "text": "Which economist is most associated with the idea of 'Creative Destruction'?",
+      "options": [
+        "Adam Smith",
+        "John Maynard Keynes",
+        "Joseph Schumpeter",
+        "Friedrich Hayek"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 53,
+      "text": "A central bank that follows a 'Hard Peg' exchange rate policy essentially gives up:",
+      "options": [
+        "The ability to collect taxes.",
+        "Its control over domestic interest rates (Independent Monetary Policy).",
+        "Its ability to trade with other nations.",
+        "Its seat at the World Bank."
+      ],
+      "correct": 1
+    },
+    {
+      "id": 54,
+      "text": "If the marginal propensity to consume (MPC) is 0.8, the simple spending multiplier is:",
+      "options": [
+        "0.2",
+        "1.25",
+        "5",
+        "8"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 55,
+      "text": "The 'Heckscher-Ohlin Model' of trade predicts that countries will export goods that:",
+      "options": [
+        "Are made by the most skilled workers only.",
+        "Intensively use their relatively abundant factors of production (e.g., land, labor, capital).",
+        "Have the highest price on the global market.",
+        "Are produced by state-owned enterprises."
+      ],
+      "correct": 1
+    },
+    {
+      "id": 56,
+      "text": "What is the 'Real Interest Rate' if the nominal interest rate is 5% and the inflation rate is 7%?",
+      "options": [
+        "12%",
+        "2%",
+        "-2%",
+        "35%"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 57,
+      "text": "Which type of unemployment is considered 'voluntary' or a natural part of a healthy economy where people are between jobs?",
+      "options": [
+        "Structural Unemployment",
+        "Cyclical Unemployment",
+        "Frictional Unemployment",
+        "Seasonal Unemployment"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 58,
+      "text": "The 'J-Curve' effect in international trade suggests that after a currency depreciation, the trade balance will:",
+      "options": [
+        "Immediately improve.",
+        "Immediately worsen before improving in the long term.",
+        "Improve for exports but worsen for imports indefinitely.",
+        "Remain unchanged."
+      ],
+      "correct": 1
+    },
+    {
+      "id": 59,
+      "text": "A 'Pure Public Good' is characterized by being:",
+      "options": [
+        "Rivalrous and Excludable.",
+        "Non-rivalrous and Non-excludable.",
+        "Provided only by the private sector.",
+        "Cheap to produce but expensive to sell."
+      ],
+      "correct": 1
+    },
+    {
+      "id": 60,
+      "text": "In the context of the 'Production Possibilities Frontier' (PPF), an inward shift of the curve represents:",
+      "options": [
+        "Economic growth.",
+        "A decrease in the economy's total productive capacity (e.g., due to war or natural disaster).",
+        "A change in consumer tastes from one good to another.",
+        "An increase in the unemployment rate."
+      ],
+      "correct": 1
+    },
+    {
+      "id": 61,
+      "text": "The 'Efficiency Wage Theory' suggests that firms pay higher-than-market wages because:",
+      "options": [
+        "They are forced to by powerful unions.",
+        "It increases worker productivity and reduces turnover.",
+        "The government mandates it through the minimum wage.",
+        "They want to increase the rate of inflation."
+      ],
+      "correct": 1
+    },
+    {
+      "id": 62,
+      "text": "Which policy action would a 'Keynesian' recommend during a deep recession with high unemployment and low inflation?",
+      "options": [
+        "Reducing government spending to balance the budget.",
+        "Increasing interest rates to attract foreign capital.",
+        "Increasing government deficit spending to stimulate aggregate demand.",
+        "Decreasing the money supply to prevent future inflation."
+      ],
+      "correct": 2
+    },
+    {
+      "id": 63,
+      "text": "The 'Tobin Tax' is a proposed tax on:",
+      "options": [
+        "Real estate transactions.",
+        "Short-term foreign exchange transactions (currency speculation).",
+        "Carbon emissions.",
+        "High-income earners."
+      ],
+      "correct": 1
+    },
+    {
+      "id": 64,
+      "text": "What does 'Adverse Selection' refer to in insurance markets?",
+      "options": [
+        "When people take more risks because they have insurance.",
+        "When high-risk individuals are more likely to purchase insurance than low-risk individuals, leading to a distorted market.",
+        "When the government forces everyone to buy insurance.",
+        "When insurance companies go bankrupt."
+      ],
+      "correct": 1
+    },
+    {
+      "id": 65,
+      "text": "The 'Kuznets Curve' hypothesizes that as a country develops, economic inequality:",
+      "options": [
+        "Decreases steadily.",
+        "Increases steadily.",
+        "First increases and then decreases.",
+        "Remains constant."
+      ],
+      "correct": 2
+    },
+    {
+      "id": 66,
+      "text": "Which of the following describes 'Monetary Neutrality'?",
+      "options": [
+        "Changes in the money supply have no effect on real variables (like GDP) in the long run, only on nominal variables (like prices).",
+        "The Central Bank should not take sides in political elections.",
+        "Interest rates should always be 0%.",
+        "The government should never borrow from the central bank."
+      ],
+      "correct": 0
+    },
+    {
+      "id": 67,
+      "text": "A 'Contractionary Monetary Policy' involves:",
+      "options": [
+        "Increasing government spending.",
+        "Decreasing the money supply and increasing interest rates.",
+        "Decreasing taxes.",
+        "Buying government bonds on the open market."
+      ],
+      "correct": 1
+    },
+    {
+      "id": 68,
+      "text": "The 'Golden Rule' level of capital in the Solow model is the steady-state level of capital that maximizes:",
+      "options": [
+        "Total Output.",
+        "Consumption per worker.",
+        "The savings rate.",
+        "Population growth."
+      ],
+      "correct": 1
+    },
+    {
+      "id": 69,
+      "text": "Which of the following is a 'Flow' variable rather than a 'Stock' variable?",
+      "options": [
+        "The National Debt.",
+        "The Wealth of a household.",
+        "The Annual Budget Deficit.",
+        "The amount of money in a savings account."
+      ],
+      "correct": 2
+    },
+    {
+      "id": 70,
+      "text": "The 'Marshall-Lerner Condition' relates to:",
+      "options": [
+        "The effectiveness of a tariff in reducing imports.",
+        "Whether a currency devaluation will improve the trade balance based on the price elasticities of exports and imports.",
+        "The relationship between tax rates and work effort.",
+        "The impact of education on wage growth."
+      ],
+      "correct": 1
+    },
+    {
+      "id": 71,
+      "text": "In a 'Bertrand Competition' model with identical products, firms compete by setting:",
+      "options": [
+        "Quantities.",
+        "Prices.",
+        "Output quotas.",
+        "Research and development targets."
+      ],
+      "correct": 1
+    },
+    {
+      "id": 72,
+      "text": "What is 'Moral Hazard'?",
+      "options": [
+        "Buying insurance because you are sick.",
+        "Changing your behavior to be more risky because you are protected from the consequences (e.g., by insurance or a bailout).",
+        "The ethical dilemma of charging high prices for medicine.",
+        "The risk of a stock market crash."
+      ],
+      "correct": 1
+    },
+    {
+      "id": 73,
+      "text": "The 'Marginal Rate of Substitution' (MRS) represents the:",
+      "options": [
+        "Rate at which a consumer is willing to trade one good for another while maintaining the same level of utility.",
+        "The cost of producing one more unit of a good.",
+        "The change in total revenue from selling one more unit.",
+        "The rate at which the government replaces one tax with another."
+      ],
+      "correct": 0
+    },
+    {
+      "id": 74,
+      "text": "What was the 'Price Revolution' of the 16th century largely attributed to?",
+      "options": [
+        "The Black Death.",
+        "The influx of silver and gold from the Americas into Europe.",
+        "The invention of the steam engine.",
+        "The start of the Napoleonic Wars."
+      ],
+      "correct": 1
+    },
+    {
+      "id": 75,
+      "text": "According to 'Rational Expectations' theory, people make economic decisions based on:",
+      "options": [
+        "Past events only (Adaptive expectations).",
+        "All available information, including predictions about future government policy.",
+        "Random guesses.",
+        "Guidance from the government only."
+      ],
+      "correct": 1
+    },
+    {
+      "id": 76,
+      "text": "An 'Okun's Law' relationship describes the correlation between:",
+      "options": [
+        "Inflation and interest rates.",
+        "Changes in GDP growth and changes in the unemployment rate.",
+        "The money supply and the price level.",
+        "The tax rate and government revenue."
+      ],
+      "correct": 1
+    },
+    {
+      "id": 77,
+      "text": "In the 'AS-AD Model,' a 'Positive Supply Shock' (like a fall in oil prices) leads to:",
+      "options": [
+        "Higher prices and lower output.",
+        "Lower prices and higher output.",
+        "Higher prices and higher output.",
+        "Lower prices and lower output."
+      ],
+      "correct": 1
+    },
+    {
+      "id": 78,
+      "text": "The 'Linder Hypothesis' suggests that countries with similar per capita incomes will:",
+      "options": [
+        "Never trade with each other.",
+        "Trade manufactured goods with each other because they have similar preference patterns.",
+        "Go to war over resources.",
+        "Only trade primary commodities."
+      ],
+      "correct": 1
+    },
+    {
+      "id": 79,
+      "text": "What is 'Hyperinflation' typically defined as (Cagan's definition)?",
+      "options": [
+        "Inflation exceeding 10% per year.",
+        "Inflation exceeding 50% per month.",
+        "Inflation exceeding 100% per year.",
+        "Any inflation caused by government spending."
+      ],
+      "correct": 1
+    },
+    {
+      "id": 80,
+      "text": "In the 'Long Run Aggregate Supply' (LRAS) curve, the level of output is determined by:",
+      "options": [
+        "The price level.",
+        "The amount of money in circulation.",
+        "Productive capacity (factors of production and technology).",
+        "The nominal interest rate."
+      ],
+      "correct": 2
+    },
+    {
+      "id": 81,
+      "text": "The 'Quantity Theory of Money' is most closely associated with which economist?",
+      "options": [
+        "John Maynard Keynes",
+        "Milton Friedman",
+        "David Ricardo",
+        "Thomas Malthus"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 82,
+      "text": "Which of the following would increase the 'Natural Rate of Unemployment'?",
+      "options": [
+        "A decrease in the minimum wage.",
+        "An increase in the power of labor unions.",
+        "An increase in the demand for labor.",
+        "A decrease in unemployment benefits."
+      ],
+      "correct": 1
+    },
+    {
+      "id": 83,
+      "text": "A 'Tax Wedge' refers to the difference between:",
+      "options": [
+        "Income of the rich and income of the poor.",
+        "What an employer pays an employee and what the employee receives after taxes.",
+        "The tax rate in the US vs. Europe.",
+        "Direct taxes and indirect taxes."
+      ],
+      "correct": 1
+    },
+    {
+      "id": 84,
+      "text": "The 'Absence of Double Counting' in GDP means that:",
+      "options": [
+        "We only count the value of final goods, not intermediate goods.",
+        "We do not count the sale of used goods.",
+        "We do not count transfer payments (like Social Security).",
+        "All of the above."
+      ],
+      "correct": 3
+    },
+    {
+      "id": 85,
+      "text": "In the 'Standard Trade Model,' a 'Terms of Trade' improvement occurs when:",
+      "options": [
+        "A country's export prices rise relative to its import prices.",
+        "A country's export prices fall relative to its import prices.",
+        "The country stops trading entirely.",
+        "The country implements a trade deficit."
+      ],
+      "correct": 0
+    },
+    {
+      "id": 86,
+      "text": "Which of the following is NOT a component of the 'M1' money supply?",
+      "options": [
+        "Currency in circulation.",
+        "Demand deposits (checking accounts).",
+        "Traveler's checks.",
+        "Certificate of Deposits (CDs) / Time deposits."
+      ],
+      "correct": 3
+    },
+    {
+      "id": 87,
+      "text": "What does 'Pareto Efficiency' mean?",
+      "options": [
+        "Everyone in society has an equal amount of wealth.",
+        "A situation where no one can be made better off without making someone else worse off.",
+        "The government has balanced its budget.",
+        "The economy is growing at 5% per year."
+      ],
+      "correct": 1
+    },
+    {
+      "id": 88,
+      "text": "The 'Rent-Seeking' behavior refers to:",
+      "options": [
+        "Trying to find a cheap apartment.",
+        "Spending resources to gain wealth by lobbying the government for special favors or monopolies rather than creating new wealth.",
+        "The act of charging interest on loans.",
+        "Landlords increasing rent during a housing shortage."
+      ],
+      "correct": 1
+    },
+    {
+      "id": 89,
+      "text": "Which of the following is a characteristic of 'Monopolistic Competition'?",
+      "options": [
+        "A single seller.",
+        "Identical products.",
+        "Many sellers with differentiated products.",
+        "Barriers to entry are insurmountable."
+      ],
+      "correct": 2
+    },
+    {
+      "id": 90,
+      "text": "If a government uses 'Expansionary Fiscal Policy' while the economy is at its 'Potential Output,' the most likely result is:",
+      "options": [
+        "A permanent increase in real output.",
+        "Inflation and a return to the original level of real output in the long run.",
+        "A decrease in the national debt.",
+        "A decrease in nominal interest rates."
+      ],
+      "correct": 1
+    },
+    {
+      "id": 91,
+      "text": "The 'Discount Rate' is the interest rate:",
+      "options": [
+        "Banks charge their best customers.",
+        "The Central Bank charges commercial banks for short-term loans.",
+        "Paid on government bonds.",
+        "Used to calculate the present value of future cash flows."
+      ],
+      "correct": 1
+    },
+    {
+      "id": 92,
+      "text": "According to the 'Absolute Advantage' theory by Adam Smith, trade is beneficial because:",
+      "options": [
+        "It allows countries to specialize in what they produce most efficiently and swap for other goods.",
+        "It forces other countries to become dependent.",
+        "It allows the government to collect more taxes.",
+        "It prevents inflation."
+      ],
+      "correct": 0
+    },
+    {
+      "id": 93,
+      "text": "What is 'Deadweight Loss'?",
+      "options": [
+        "The loss of life during a recession.",
+        "The reduction in total surplus (consumer + producer) that results from a market distortion such as a tax.",
+        "The amount of debt a country cannot pay back.",
+        "The cost of disposing of unsold goods."
+      ],
+      "correct": 1
+    },
+    {
+      "id": 94,
+      "text": "A 'Capital Account' (or Financial Account) surplus means a country is:",
+      "options": [
+        "Exporting more goods than it imports.",
+        "A net borrower from the rest of the world (capital is flowing in).",
+        "A net lender to the rest of the world.",
+        "Increasing its gold reserves."
+      ],
+      "correct": 1
+    },
+    {
+      "id": 95,
+      "text": "Which of the following would lead to an increase in the 'Velocity of Money'?",
+      "options": [
+        "An increase in the frequency with which workers are paid.",
+        "A decrease in the use of credit cards.",
+        "Higher interest rates (increasing the opportunity cost of holding cash).",
+        "Both A and C."
+      ],
+      "correct": 3
+    },
+    {
+      "id": 96,
+      "text": "The 'Inside Lag' of policy refers to:",
+      "options": [
+        "The time it takes for a policy to affect the economy once implemented.",
+        "The time it takes for policymakers to recognize a problem and implement a policy.",
+        "The time it takes for the public to notice a change in taxes.",
+        "The time between two consecutive recessions."
+      ],
+      "correct": 1
+    },
+    {
+      "id": 97,
+      "text": "In a 'Regressive Tax' system:",
+      "options": [
+        "High-income earners pay a higher percentage of their income in tax.",
+        "Low-income earners pay a higher percentage of their income in tax.",
+        "Everyone pays the same dollar amount.",
+        "The tax rate decreases as the economy grows."
+      ],
+      "correct": 1
+    },
+    {
+      "id": 98,
+      "text": "The 'Income Effect' of a wage increase for a worker might lead them to:",
+      "options": [
+        "Work more hours because the opportunity cost of leisure has risen.",
+        "Work fewer hours because they can now afford more leisure while maintaining their standard of living.",
+        "Quit their job immediately.",
+        "Demand a lower tax rate."
+      ],
+      "correct": 1
+    },
+    {
+      "id": 99,
+      "text": "Which of the following is the 'Twin Deficits Hypothesis'?",
+      "options": [
+        "The idea that a government budget deficit leads to a current account (trade) deficit.",
+        "The idea that inflation and unemployment always move together.",
+        "The idea that high taxes and high spending both cause recessions.",
+        "The idea that the US and China both have deficits."
+      ],
+      "correct": 0
+    },
+    {
+      "id": 100,
+      "text": "What is 'Forward Guidance' in monetary policy?",
+      "options": [
+        "Telling the government what laws to pass.",
+        "Communication by the Central Bank about the intended future path of interest rates to influence market expectations.",
+        "Setting the exchange rate for the next five years.",
+        "A strategy used to prevent banks from failing."
+      ],
+      "correct": 1
+    }
+  ]
+}
