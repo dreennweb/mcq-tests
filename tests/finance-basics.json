@@ -1,0 +1,726 @@
+{
+  "title": "Finance and Accounting Fundamentals & Advanced Concepts",
+  "description": "120 MCQs covering accounting principles, financial statements, corporate finance, investment analysis, cost accounting, regulations, and emerging financial technologies",
+  "questions": [
+    {
+      "id": 1,
+      "text": "The \"Accounting Equation\" is defined as:",
+      "options": ["Assets = Liabilities - Equity", "Assets = Liabilities + Equity", "Equity = Assets + Liabilities", "Liabilities = Equity + Assets"],
+      "correct": 1
+    },
+    {
+      "id": 2,
+      "text": "Which accounting principle states that expenses should be recorded in the same period as the revenues they help generate?",
+      "options": ["Going Concern Principle", "Matching Principle", "Materiality Principle", "Economic Entity Assumption"],
+      "correct": 1
+    },
+    {
+      "id": 3,
+      "text": "What type of account is \"Prepaid Insurance\"?",
+      "options": ["Liability", "Revenue", "Asset", "Expense"],
+      "correct": 2
+    },
+    {
+      "id": 4,
+      "text": "A \"Debit\" signifies an increase in which of the following accounts?",
+      "options": ["Accounts Payable", "Common Stock", "Cash", "Service Revenue"],
+      "correct": 2
+    },
+    {
+      "id": 5,
+      "text": "The process of transferring journal entries to the ledger is called:",
+      "options": ["Journalizing", "Analyzing", "Posting", "Summarizing"],
+      "correct": 2
+    },
+    {
+      "id": 6,
+      "text": "Which of the following is a \"Contra-Asset\" account?",
+      "options": ["Accounts Receivable", "Accumulated Depreciation", "Inventory", "Unearned Revenue"],
+      "correct": 1
+    },
+    {
+      "id": 7,
+      "text": "What is the primary purpose of a Trial Balance?",
+      "options": ["To calculate net income", "To ensure debits equal credits", "To determine the market value of the firm", "To list all external transactions"],
+      "correct": 1
+    },
+    {
+      "id": 8,
+      "text": "Under Accrual Accounting, revenue is recognized when:",
+      "options": ["Cash is received", "The invoice is sent", "It is earned, regardless of when cash is received", "The fiscal year ends"],
+      "correct": 2
+    },
+    {
+      "id": 9,
+      "text": "Which financial statement reports a company's financial position at a specific point in time?",
+      "options": ["Income Statement", "Statement of Cash Flows", "Balance Sheet", "Retained Earnings Statement"],
+      "correct": 2
+    },
+    {
+      "id": 10,
+      "text": "\"Goodwill\" is classified as what type of asset?",
+      "options": ["Current Asset", "Tangible Asset", "Intangible Asset", "Long-term Investment"],
+      "correct": 2
+    },
+    {
+      "id": 11,
+      "text": "Gross Profit is calculated as:",
+      "options": ["Revenue - Operating Expenses", "Revenue - Cost of Goods Sold", "Net Income + Taxes", "Sales - General and Administrative Expenses"],
+      "correct": 1
+    },
+    {
+      "id": 12,
+      "text": "Which of the following would appear on an Income Statement?",
+      "options": ["Dividends Payable", "Equipment", "Interest Expense", "Cash"],
+      "correct": 2
+    },
+    {
+      "id": 13,
+      "text": "The Current Ratio is a measure of:",
+      "options": ["Profitability", "Solvency", "Liquidity", "Efficiency"],
+      "correct": 2
+    },
+    {
+      "id": 14,
+      "text": "How is the \"Quick Ratio\" different from the \"Current Ratio\"?",
+      "options": ["It includes Long-term Debt", "It excludes Inventory and Prepaid Expenses from Current Assets", "It excludes Cash", "It includes Net Income"],
+      "correct": 1
+    },
+    {
+      "id": 15,
+      "text": "What does a high Inventory Turnover ratio typically indicate?",
+      "options": ["Inventory is staying in the warehouse too long", "Effective inventory management and strong sales", "The company is overstocking", "High carrying costs"],
+      "correct": 1
+    },
+    {
+      "id": 16,
+      "text": "The \"Bottom Line\" of an Income Statement refers to:",
+      "options": ["Gross Margin", "Operating Income", "Net Income", "Total Assets"],
+      "correct": 2
+    },
+    {
+      "id": 17,
+      "text": "Which statement explains the change in cash balance from the beginning to the end of the period?",
+      "options": ["Balance Sheet", "Statement of Cash Flows", "Income Statement", "Owners' Equity Statement"],
+      "correct": 1
+    },
+    {
+      "id": 18,
+      "text": "Working Capital is defined as:",
+      "options": ["Total Assets - Total Liabilities", "Current Assets - Current Liabilities", "Cash + Accounts Receivable", "Fixed Assets - Long-term Debt"],
+      "correct": 1
+    },
+    {
+      "id": 19,
+      "text": "If a company has a Debt-to-Equity ratio of 1.0, it means:",
+      "options": ["It has no debt", "Total Liabilities equal Total Equity", "It is bankrupt", "Assets equal Equity"],
+      "correct": 1
+    },
+    {
+      "id": 20,
+      "text": "Return on Equity (ROE) measures:",
+      "options": ["Profit generated for each dollar of total assets", "Profit generated for each dollar of shareholders' investment", "The ability to pay dividends", "Total sales divided by equity"],
+      "correct": 1
+    },
+    {
+      "id": 21,
+      "text": "The concept that a dollar today is worth more than a dollar in the future is:",
+      "options": ["Inflation Theory", "Time Value of Money", "Opportunity Cost", "Compounding Interest"],
+      "correct": 1
+    },
+    {
+      "id": 22,
+      "text": "What is the formula for Future Value (FV) with simple interest?",
+      "options": ["PV × (1 + r × t)", "PV / (1 + r)^n", "PV × (1 + r)^n", "PV - Interest"],
+      "correct": 0
+    },
+    {
+      "id": 23,
+      "text": "The interest rate charged by the central bank to commercial banks is the:",
+      "options": ["Prime Rate", "Discount Rate", "Federal Funds Rate", "LIBOR"],
+      "correct": 1
+    },
+    {
+      "id": 24,
+      "text": "An \"Annuity\" is defined as:",
+      "options": ["A single lump-sum payment", "A series of unequal payments over time", "A series of equal payments at fixed intervals", "A perpetual payment that never ends"],
+      "correct": 2
+    },
+    {
+      "id": 25,
+      "text": "The \"Internal Rate of Return\" (IRR) is the discount rate that makes the NPV of a project equal to:",
+      "options": ["One", "Total Cost", "Zero", "Its WACC"],
+      "correct": 2
+    },
+    {
+      "id": 26,
+      "text": "Which of the following is considered a \"Fixed Cost\"?",
+      "options": ["Raw Materials", "Sales Commissions", "Rent", "Direct Labor"],
+      "correct": 2
+    },
+    {
+      "id": 27,
+      "text": "The WACC stands for:",
+      "options": ["Weighted Average Cost of Capital", "Weekly Accounting Credit Cost", "Weighted Assets and Capital Correlation", "Western Association of Capital Companies"],
+      "correct": 0
+    },
+    {
+      "id": 28,
+      "text": "In finance, \"Diversification\" is intended to:",
+      "options": ["Increase returns", "Reduce risk", "Eliminate all market volatility", "Increase the number of brokers used"],
+      "correct": 1
+    },
+    {
+      "id": 29,
+      "text": "A \"Bond\" is essentially a:",
+      "options": ["Share of ownership", "Loan made by an investor to a borrower", "Dividend payment", "Stock option"],
+      "correct": 1
+    },
+    {
+      "id": 30,
+      "text": "Capital Budgeting is the process of:",
+      "options": ["Preparing the annual budget", "Managing daily cash flows", "Evaluating and selecting long-term investments", "Reporting taxes to the government"],
+      "correct": 2
+    },
+    {
+      "id": 31,
+      "text": "Which costing method assigns all manufacturing costs to the product?",
+      "options": ["Variable Costing", "Absorption Costing", "Direct Costing", "Period Costing"],
+      "correct": 1
+    },
+    {
+      "id": 32,
+      "text": "The \"Break-even Point\" occurs when:",
+      "options": ["Total Revenue = Total Variable Costs", "Total Revenue = Total Fixed Costs", "Total Revenue = Total Costs (Fixed + Variable)", "Net Income is maximized"],
+      "correct": 2
+    },
+    {
+      "id": 33,
+      "text": "What is \"Standard Costing\"?",
+      "options": ["Recording costs at their actual historical value", "Using estimated costs to measure performance", "Only recording fixed costs", "A method used only in service industries"],
+      "correct": 1
+    },
+    {
+      "id": 34,
+      "text": "A \"Variance\" in accounting is the difference between:",
+      "options": ["Assets and Liabilities", "Actual results and Budgeted (Standard) amounts", "Last year's profit and this year's profit", "Cash in and Cash out"],
+      "correct": 1
+    },
+    {
+      "id": 35,
+      "text": "The \"Margin of Safety\" indicates:",
+      "options": ["How much sales can drop before the company incurs a loss", "The amount of cash in the bank", "The difference between assets and debt", "The maximum capacity of a factory"],
+      "correct": 0
+    },
+    {
+      "id": 36,
+      "text": "Which of the following is a Period Cost?",
+      "options": ["Factory Utilities", "Direct Materials", "Advertising Expense", "Production Supervisor Salary"],
+      "correct": 2
+    },
+    {
+      "id": 37,
+      "text": "In a Job Order Costing system, costs are accumulated by:",
+      "options": ["Department", "Specific Batch or Job", "Period of time", "Total units produced"],
+      "correct": 1
+    },
+    {
+      "id": 38,
+      "text": "What is \"Opportunity Cost\"?",
+      "options": ["The cost of a new marketing opportunity", "The value of the next best alternative foregone", "Sunk costs that cannot be recovered", "The total cost of production"],
+      "correct": 1
+    },
+    {
+      "id": 39,
+      "text": "Which budget is usually prepared first?",
+      "options": ["Cash Budget", "Production Budget", "Sales Budget", "Capital Expenditure Budget"],
+      "correct": 2
+    },
+    {
+      "id": 40,
+      "text": "\"Contribution Margin\" is calculated as:",
+      "options": ["Sales - Fixed Costs", "Sales - Variable Costs", "Net Income / Sales", "Gross Profit / Sales"],
+      "correct": 1
+    },
+    {
+      "id": 41,
+      "text": "The \"FASB\" is responsible for establishing:",
+      "options": ["Auditing standards", "Tax laws", "GAAP (Generally Accepted Accounting Principles)", "Stock market regulations"],
+      "correct": 2
+    },
+    {
+      "id": 42,
+      "text": "An \"Unqualified Opinion\" in an audit report means:",
+      "options": ["The auditor found many errors", "The auditor is not qualified to check the books", "The financial statements are presented fairly in all material respects", "The company is about to go bankrupt"],
+      "correct": 2
+    },
+    {
+      "id": 43,
+      "text": "Depreciation is a process of:",
+      "options": ["Asset valuation", "Cost allocation", "Cash accumulation", "Revenue recognition"],
+      "correct": 1
+    },
+    {
+      "id": 44,
+      "text": "Which inventory method assumes the last items placed in inventory are the first ones sold?",
+      "options": ["FIFO", "LIFO", "Weighted Average", "Specific Identification"],
+      "correct": 1
+    },
+    {
+      "id": 45,
+      "text": "\"Solvency\" refers to a company's ability to:",
+      "options": ["Pay dividends", "Meet long-term obligations", "Generate daily cash", "Sell inventory quickly"],
+      "correct": 1
+    },
+    {
+      "id": 46,
+      "text": "What is a \"Sunk Cost\"?",
+      "options": ["A cost that will be incurred in the future", "A cost that has already been incurred and cannot be recovered", "A variable cost", "An investment in a new ship"],
+      "correct": 1
+    },
+    {
+      "id": 47,
+      "text": "The \"Price-Earnings (P/E) Ratio\" compares:",
+      "options": ["Market price per share to earnings per share", "Sales to Net Income", "Total Debt to Total Equity", "Dividends to Market Price"],
+      "correct": 0
+    },
+    {
+      "id": 48,
+      "text": "\"Accounts Receivable\" are classified as:",
+      "options": ["Current Liabilities", "Long-term Assets", "Current Assets", "Equity"],
+      "correct": 2
+    },
+    {
+      "id": 49,
+      "text": "A \"Fiduciary Duty\" in finance implies:",
+      "options": ["A duty to maximize personal profit", "A legal obligation to act in the best interest of another party", "A duty to pay taxes on time", "The requirement to audit books annually"],
+      "correct": 1
+    },
+    {
+      "id": 50,
+      "text": "Which of the following increases Equity?",
+      "options": ["Net Loss", "Dividends paid", "Issuance of new Stock", "Purchase of Treasury Stock"],
+      "correct": 2
+    },
+    {
+      "id": 51,
+      "text": "Under ASC 606/IFRS 15, the five-step revenue recognition model begins with:",
+      "options": ["Determining transaction price", "Identifying the contract with a customer", "Allocating price to performance obligations", "Recognizing revenue when satisfied"],
+      "correct": 1
+    },
+    {
+      "id": 52,
+      "text": "Which method records bad debt expense based on a percentage of credit sales?",
+      "options": ["Direct Write-off Method", "Percentage of Receivables Method", "Percentage of Sales Method", "Aging of Receivables Method"],
+      "correct": 2
+    },
+    {
+      "id": 53,
+      "text": "A lease that transfers substantially all risks and rewards of ownership to the lessee is classified as a:",
+      "options": ["Operating Lease", "Finance/Capital Lease", "Sale-Leaseback", "Short-term Lease"],
+      "correct": 1
+    },
+    {
+      "id": 54,
+      "text": "Which inventory costing method is prohibited under IFRS but allowed under US GAAP?",
+      "options": ["FIFO", "Weighted Average", "LIFO", "Specific Identification"],
+      "correct": 2
+    },
+    {
+      "id": 55,
+      "text": "\"Impairment\" of a long-lived asset occurs when:",
+      "options": ["Fair value exceeds carrying amount", "Carrying amount exceeds recoverable amount", "Useful life is extended", "Market value increases"],
+      "correct": 1
+    },
+    {
+      "id": 56,
+      "text": "Deferred tax liabilities arise primarily from:",
+      "options": ["Temporary differences where taxable income > book income", "Permanent differences", "Tax rate decreases", "Immediate expense recognition"],
+      "correct": 0
+    },
+    {
+      "id": 57,
+      "text": "Which of the following is a \"non-cash\" investing activity reported on the Statement of Cash Flows?",
+      "options": ["Purchase of equipment with cash", "Issuance of common stock", "Conversion of bonds into common stock", "Payment of dividends"],
+      "correct": 2
+    },
+    {
+      "id": 58,
+      "text": "Under IFRS, inventory is valued at:",
+      "options": ["Lower of Cost or Market", "Lower of Cost or Net Realizable Value", "Historical Cost only", "Replacement Cost"],
+      "correct": 1
+    },
+    {
+      "id": 59,
+      "text": "Comprehensive income includes all changes in equity except those resulting from:",
+      "options": ["Net income", "Owner investments and distributions", "Foreign currency translation", "Unrealized gains/losses"],
+      "correct": 1
+    },
+    {
+      "id": 60,
+      "text": "What is the purpose of the \"Statement of Changes in Equity\"?",
+      "options": ["To report cash flows", "To show changes in retained earnings and other equity accounts", "To calculate tax liability", "To list fixed assets"],
+      "correct": 1
+    },
+    {
+      "id": 61,
+      "text": "The \"Altman Z-Score\" is primarily used to predict:",
+      "options": ["Stock price volatility", "Corporate bankruptcy risk", "Dividend payout ratios", "Market capitalization"],
+      "correct": 1
+    },
+    {
+      "id": 62,
+      "text": "Which ratio measures a company's ability to cover its interest expenses with operating earnings?",
+      "options": ["Debt Ratio", "Interest Coverage Ratio", "Quick Ratio", "Asset Turnover"],
+      "correct": 1
+    },
+    {
+      "id": 63,
+      "text": "\"Days Sales Outstanding\" (DSO) measures:",
+      "options": ["Average time to collect receivables", "Average time to pay suppliers", "Inventory holding period", "Cash conversion cycle"],
+      "correct": 0
+    },
+    {
+      "id": 64,
+      "text": "The \"DuPont Analysis\" breaks down Return on Equity (ROE) into:",
+      "options": ["Profit Margin, Asset Turnover, Equity Multiplier", "Gross Margin, Operating Margin, Net Margin", "Liquidity, Solvency, Profitability", "Current Ratio, Quick Ratio, Cash Ratio"],
+      "correct": 0
+    },
+    {
+      "id": 65,
+      "text": "Economic Value Added (EVA) is calculated as:",
+      "options": ["Net Income - Cost of Equity", "NOPAT - (Invested Capital × WACC)", "Revenue - Total Costs", "EBITDA - Interest"],
+      "correct": 1
+    },
+    {
+      "id": 66,
+      "text": "A \"Negative Operating Cash Flow\" is most concerning when:",
+      "options": ["It persists over multiple periods in a mature company", "It occurs in a startup phase", "It's offset by strong financing cash flows", "It results from heavy R&D investment"],
+      "correct": 0
+    },
+    {
+      "id": 67,
+      "text": "The \"Cash Conversion Cycle\" formula is:",
+      "options": ["DIO + DSO - DPO", "DIO - DSO + DPO", "DSO + DPO - DIO", "DPO - DIO - DSO"],
+      "correct": 0
+    },
+    {
+      "id": 68,
+      "text": "\"EBITDA\" is often criticized for ignoring:",
+      "options": ["Revenue growth", "Capital expenditure requirements", "Market share", "Employee turnover"],
+      "correct": 1
+    },
+    {
+      "id": 69,
+      "text": "Which metric best indicates operational efficiency in generating profit from sales?",
+      "options": ["Net Profit Margin", "Operating Profit Margin", "Gross Profit Margin", "Return on Assets"],
+      "correct": 1
+    },
+    {
+      "id": 70,
+      "text": "The \"Price-to-Book (P/B) Ratio\" is most relevant for valuing:",
+      "options": ["High-growth tech companies", "Asset-heavy financial institutions", "Service-based startups", "Companies with high intangible assets"],
+      "correct": 1
+    },
+    {
+      "id": 71,
+      "text": "According to Modigliani-Miller Proposition I (without taxes), firm value is:",
+      "options": ["Maximized with 100% debt", "Independent of capital structure", "Determined by dividend policy", "Higher with retained earnings"],
+      "correct": 1
+    },
+    {
+      "id": 72,
+      "text": "The \"Trade-Off Theory\" of capital structure suggests firms balance:",
+      "options": ["Tax benefits of debt vs. bankruptcy costs", "Dividend payments vs. share buybacks", "Short-term vs. long-term debt", "Fixed vs. variable costs"],
+      "correct": 0
+    },
+    {
+      "id": 73,
+      "text": "\"Financial Leverage\" amplifies:",
+      "options": ["Only gains", "Only losses", "Both gains and losses for shareholders", "Dividend payments only"],
+      "correct": 2
+    },
+    {
+      "id": 74,
+      "text": "Which of the following is a characteristic of a \"Zero-Coupon Bond\"?",
+      "options": ["Pays regular interest", "Sold at a deep discount and matures at par", "Has a floating rate", "Is convertible to stock"],
+      "correct": 1
+    },
+    {
+      "id": 75,
+      "text": "The \"Pecking Order Theory\" states firms prefer financing in this order:",
+      "options": ["Debt, Equity, Internal Funds", "Internal Funds, Debt, Equity", "Equity, Debt, Internal Funds", "Leases, Bonds, Common Stock"],
+      "correct": 1
+    },
+    {
+      "id": 76,
+      "text": "\"Weighted Average Cost of Capital\" (WACC) decreases initially as debt increases due to:",
+      "options": ["Higher equity risk premium", "Tax shield on interest", "Lower bankruptcy risk", "Increased dividend yield"],
+      "correct": 1
+    },
+    {
+      "id": 77,
+      "text": "A \"Convertible Bond\" gives the holder the right to:",
+      "options": ["Sell the bond back to the issuer", "Convert the bond into a specified number of shares", "Demand early repayment", "Adjust the interest rate"],
+      "correct": 1
+    },
+    {
+      "id": 78,
+      "text": "Which capital budgeting method is best for comparing projects of unequal lives?",
+      "options": ["Payback Period", "Net Present Value", "Equivalent Annual Annuity (EAA)", "Accounting Rate of Return"],
+      "correct": 2
+    },
+    {
+      "id": 79,
+      "text": "\"Real Options\" in capital budgeting refer to:",
+      "options": ["Stock options for employees", "Flexibility to expand, delay, or abandon a project", "Derivatives trading rights", "Government subsidies"],
+      "correct": 1
+    },
+    {
+      "id": 80,
+      "text": "The \"Net Present Value\" (NPV) rule states a project should be accepted if:",
+      "options": ["NPV > 0", "NPV = 0", "NPV < 0", "IRR < WACC"],
+      "correct": 0
+    },
+    {
+      "id": 81,
+      "text": "The \"Capital Asset Pricing Model\" (CAPM) calculates expected return based on:",
+      "options": ["Total risk", "Systematic risk (Beta)", "Unsystematic risk", "Historical volatility"],
+      "correct": 1
+    },
+    {
+      "id": 82,
+      "text": "\"Beta\" of the overall market is defined as:",
+      "options": ["0", "0.5", "1", "-1"],
+      "correct": 2
+    },
+    {
+      "id": 83,
+      "text": "Which type of risk can be eliminated through diversification?",
+      "options": ["Market risk", "Systematic risk", "Unsystematic/Idiosyncratic risk", "Interest rate risk"],
+      "correct": 2
+    },
+    {
+      "id": 84,
+      "text": "The \"Efficient Frontier\" represents:",
+      "options": ["Portfolios with maximum risk for a given return", "Portfolios offering the highest expected return for a defined level of risk", "The lowest risk portfolio", "Portfolios with negative correlation"],
+      "correct": 1
+    },
+    {
+      "id": 85,
+      "text": "\"Dollar-Cost Averaging\" is an investment strategy that:",
+      "options": ["Times the market perfectly", "Invests a fixed amount at regular intervals", "Buys only undervalued stocks", "Uses leverage to amplify returns"],
+      "correct": 1
+    },
+    {
+      "id": 86,
+      "text": "The \"Yield to Maturity\" (YTM) of a bond assumes:",
+      "options": ["Coupons are reinvested at the current market rate", "All coupons are reinvested at the YTM rate", "The bond is called early", "Interest rates will fall"],
+      "correct": 1
+    },
+    {
+      "id": 87,
+      "text": "Which mutual fund type typically tracks a market index?",
+      "options": ["Actively managed fund", "Hedge fund", "Index fund/ETF", "Money market fund"],
+      "correct": 2
+    },
+    {
+      "id": 88,
+      "text": "\"Alpha\" in portfolio management measures:",
+      "options": ["Total portfolio risk", "Performance relative to a benchmark after adjusting for risk", "Market volatility", "Dividend yield"],
+      "correct": 1
+    },
+    {
+      "id": 89,
+      "text": "The \"Sharpe Ratio\" evaluates risk-adjusted return using:",
+      "options": ["Beta as the risk measure", "Standard deviation of excess returns", "Downside deviation", "Maximum drawdown"],
+      "correct": 1
+    },
+    {
+      "id": 90,
+      "text": "\"Duration\" in fixed income measures:",
+      "options": ["Time to maturity", "Sensitivity of bond price to interest rate changes", "Credit risk level", "Coupon frequency"],
+      "correct": 1
+    },
+    {
+      "id": 91,
+      "text": "\"Activity-Based Costing\" (ABC) improves cost allocation by:",
+      "options": ["Using a single plantwide rate", "Assigning overhead based on multiple cost drivers", "Ignoring fixed costs", "Using direct labor hours only"],
+      "correct": 1
+    },
+    {
+      "id": 92,
+      "text": "Which cost is irrelevant for a \"Make-or-Buy\" decision?",
+      "options": ["Avoidable costs", "Incremental costs", "Sunk costs", "Opportunity costs"],
+      "correct": 2
+    },
+    {
+      "id": 93,
+      "text": "\"Target Costing\" determines product cost by:",
+      "options": ["Adding desired profit to estimated costs", "Subtracting desired profit from market price", "Using historical costs", "Applying standard markups"],
+      "correct": 1
+    },
+    {
+      "id": 94,
+      "text": "The \"Balanced Scorecard\" evaluates performance across:",
+      "options": ["Financial, Customer, Internal Process, Learning & Growth", "Revenue, Profit, Cash Flow, ROI", "Sales, Marketing, Production, HR", "Assets, Liabilities, Equity, Income"],
+      "correct": 0
+    },
+    {
+      "id": 95,
+      "text": "\"Throughput Accounting\" focuses on maximizing:",
+      "options": ["Cost reduction", "Contribution margin per bottleneck hour", "Labor efficiency", "Inventory turnover"],
+      "correct": 1
+    },
+    {
+      "id": 96,
+      "text": "Which budgeting approach starts from zero and justifies every expense?",
+      "options": ["Incremental budgeting", "Zero-based budgeting", "Rolling budget", "Static budget"],
+      "correct": 1
+    },
+    {
+      "id": 97,
+      "text": "\"Kaizen\" costing emphasizes:",
+      "options": ["Large-scale restructuring", "Continuous incremental cost reduction", "Outsourcing all production", "Price increases"],
+      "correct": 1
+    },
+    {
+      "id": 98,
+      "text": "In \"Transfer Pricing\", the \"Arm's Length Principle\" means:",
+      "options": ["Prices should be set at market rates as if transacting with independent parties", "Prices should minimize global taxes", "Prices should maximize subsidiary profits", "Prices should be set by headquarters arbitrarily"],
+      "correct": 0
+    },
+    {
+      "id": 99,
+      "text": "\"Life-Cycle Costing\" considers costs:",
+      "options": ["Only during production", "From R&D through disposal", "Only post-sale warranty costs", "Only manufacturing overhead"],
+      "correct": 1
+    },
+    {
+      "id": 100,
+      "text": "\"Economic Order Quantity\" (EOQ) minimizes the sum of:",
+      "options": ["Purchase price and shipping", "Ordering costs and holding costs", "Labor and material costs", "Setup and scrap costs"],
+      "correct": 1
+    },
+    {
+      "id": 101,
+      "text": "A \"Call Option\" gives the buyer the right to:",
+      "options": ["Sell an asset at a specified price", "Buy an asset at a specified price", "Obligation to sell an asset", "Obligation to buy an asset"],
+      "correct": 1
+    },
+    {
+      "id": 102,
+      "text": "\"Futures contracts\" are standardized and traded on:",
+      "options": ["Over-the-counter (OTC) markets", "Regulated exchanges", "Private negotiations", "Foreign banks"],
+      "correct": 1
+    },
+    {
+      "id": 103,
+      "text": "\"Hedging\" in financial markets is primarily used to:",
+      "options": ["Speculate on price movements", "Reduce or eliminate price risk", "Increase leverage", "Avoid taxes"],
+      "correct": 1
+    },
+    {
+      "id": 104,
+      "text": "Which derivative position has theoretically unlimited loss potential for the writer?",
+      "options": ["Long call", "Long put", "Short call (uncovered)", "Futures long position"],
+      "correct": 2
+    },
+    {
+      "id": 105,
+      "text": "\"Value at Risk\" (VaR) estimates:",
+      "options": ["Maximum possible loss", "Potential loss over a specified period at a given confidence level", "Expected return", "Portfolio beta"],
+      "correct": 1
+    },
+    {
+      "id": 106,
+      "text": "The \"Black-Scholes Model\" is used to price:",
+      "options": ["Bonds", "Options", "Swaps", "Mutual funds"],
+      "correct": 1
+    },
+    {
+      "id": 107,
+      "text": "\"Credit Default Swaps\" (CDS) function as:",
+      "options": ["Insurance against bond default", "Interest rate hedging tools", "Currency exchange contracts", "Equity derivatives"],
+      "correct": 0
+    },
+    {
+      "id": 108,
+      "text": "\"Liquidity risk\" refers to:",
+      "options": ["Inability to meet short-term obligations or sell assets quickly without loss", "Interest rate fluctuations", "Default on principal", "Inflation erosion"],
+      "correct": 0
+    },
+    {
+      "id": 109,
+      "text": "\"Arbitrage\" involves:",
+      "options": ["Taking advantage of price differences in different markets for risk-free profit", "Speculating on future price movements", "Diversifying across asset classes", "Using leverage to magnify gains"],
+      "correct": 0
+    },
+    {
+      "id": 110,
+      "text": "\"Margin trading\" allows investors to:",
+      "options": ["Buy securities with borrowed funds", "Avoid capital gains tax", "Guarantee positive returns", "Trade only in cash"],
+      "correct": 0
+    },
+    {
+      "id": 111,
+      "text": "The \"Sarbanes-Oxley Act\" (SOX) was enacted primarily in response to:",
+      "options": ["2008 financial crisis", "Enron and WorldCom accounting scandals", "Dot-com bubble burst", "Brexit referendum"],
+      "correct": 1
+    },
+    {
+      "id": 112,
+      "text": "\"Materiality\" in financial reporting means information is material if:",
+      "options": ["It exceeds 5% of revenue", "Omitting/misstating it could influence user decisions", "It involves cash transactions", "It's verified by an auditor"],
+      "correct": 1
+    },
+    {
+      "id": 113,
+      "text": "Which framework focuses on sustainability and ESG reporting?",
+      "options": ["GAAP", "IFRS", "SASB/GRI", "COSO"],
+      "correct": 2
+    },
+    {
+      "id": 114,
+      "text": "\"Forensic Accounting\" is primarily concerned with:",
+      "options": ["Preparing tax returns", "Investigating financial fraud and litigation support", "Auditing public companies", "Setting internal controls"],
+      "correct": 1
+    },
+    {
+      "id": 115,
+      "text": "The \"COSO Framework\" is widely used for:",
+      "options": ["Financial statement preparation", "Internal control and enterprise risk management", "Tax compliance", "Payroll processing"],
+      "correct": 1
+    },
+    {
+      "id": 116,
+      "text": "\"Blockchain\" technology in accounting could potentially:",
+      "options": ["Eliminate the need for all auditors", "Provide immutable, transparent transaction records", "Increase reconciliation time", "Replace all ERP systems immediately"],
+      "correct": 1
+    },
+    {
+      "id": 117,
+      "text": "\"Whistleblower protections\" under Dodd-Frank incentivize reporting of:",
+      "options": ["Minor policy violations", "Securities law violations with financial rewards", "Tax evasion only", "HR complaints"],
+      "correct": 1
+    },
+    {
+      "id": 118,
+      "text": "\"Conservative accounting\" bias tends to:",
+      "options": ["Overstate assets and income", "Understate assets and income", "Neutralize all estimates", "Ignore liabilities"],
+      "correct": 1
+    },
+    {
+      "id": 119,
+      "text": "Which principle requires accountants to maintain independence and objectivity?",
+      "options": ["Relevance", "Professional Ethics", "Consistency", "Full Disclosure"],
+      "correct": 1
+    },
+    {
+      "id": 120,
+      "text": "\"XBRL\" (eXtensible Business Reporting Language) is used to:",
+      "options": ["Encrypt financial data", "Tag financial data for electronic exchange and analysis", "Calculate taxes automatically", "Replace human auditors"],
+      "correct": 1
+    }
+  ]
+}
