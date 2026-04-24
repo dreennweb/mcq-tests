@@ -50,8 +50,8 @@ class QuizManager {
     const testManifest = [
       { id: 'bsts', name: 'BSTS Basics', description: 'Test your core BSTS knowledge', icon: '📘' },
       { id: 'bsts-rules-basics', name: 'BSTS Rules', description: 'Test your BSTS Rules 2018 knowledge', icon: '🌐' },
-      { id: 'economics-basic.json', name: 'Economics Basics', description: 'Economics basics', icon: '📈' },
-      { id: 'economics-advanced.json', name: 'Economics Advanced', description: 'Economics Advanced', icon: '🏛️' }
+      { id: 'economics-basic', name: 'Economics Basics', description: 'Economics basics', icon: '📈' },
+      { id: 'economics-advanced', name: 'Economics Advanced', description: 'Economics Advanced', icon: '🏛️' }
     ];
     
     this.testListContainer.innerHTML = '';
