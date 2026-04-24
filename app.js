@@ -53,7 +53,8 @@ class QuizManager {
       { id: 'economics-basic', name: 'Economics Basics', description: 'Economics basics', icon: '📈' },
       { id: 'economics-advanced', name: 'Economics Advanced', description: 'Economics Advanced', icon: '🏛️' },
       { id: 'finance-basics', name: 'Finance Basics', description: 'Finance Basics', icon: '🏛️' },
-      { id: 'finance1', name: 'Finance 1', description: 'Finance 1', icon: '🏛️' }
+      { id: 'finance1', name: 'Finance 1', description: 'Finance 1', icon: '🏛️' },
+      { id: 'income-tax', name: 'Income Tax', description: 'Income Tax', icon: '🏛️' }
     ];
     
     this.testListContainer.innerHTML = '';
