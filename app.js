@@ -48,7 +48,7 @@ class QuizManager {
     // we'll manually list the tests or use a manifest file.
     // For demonstration, we'll try to load from a static list of test IDs.
     const testManifest = [
-      { id: 'javascript-basics', name: 'JavaScript Basics', description: 'Test your core JS knowledge', icon: '📘' },
+      { id: 'bsts', name: 'BSTS Basics', description: 'Test your core BSTS knowledge', icon: '📘' },
       { id: 'web-development', name: 'Web Development', description: 'HTML, CSS, and the Web', icon: '🌐' },
       { id: 'python-fundamentals', name: 'Python Fundamentals', description: 'Python programming basics', icon: '🐍' }
     ];
