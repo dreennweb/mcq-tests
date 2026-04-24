@@ -1,0 +1,720 @@
+{
+  "title": "Accounting and Finance Comprehensive Exam",
+  "description": "A comprehensive collection of 120 MCQs covering financial accounting, bookkeeping, partnerships, and financial statement analysis.",
+  "questions": [
+    {
+      "id": 1,
+      "text": "H buys goods on credit from J. The goods are unsuitable and H returns them to J. What is the name of the document that H sends to J with the goods?",
+      "options": ["Credit note", "Debit note", "Invoice", "Statement of account"],
+      "correct": 1
+    },
+    {
+      "id": 2,
+      "text": "Why is the general journal used to correct errors in the ledger?",
+      "options": ["To avoid making alterations in the ledger", "To complete the double entry", "To provide a record explaining ledger entries", "To save the bookkeeper's time"],
+      "correct": 2
+    },
+    {
+      "id": 3,
+      "text": "Which book of prime entry is part of the double-entry system?",
+      "options": ["Cash book", "General journal", "Purchases journal", "Sales journal"],
+      "correct": 0
+    },
+    {
+      "id": 4,
+      "text": "In which of the following will cash discount allowed be first recorded?",
+      "options": ["Cash book", "General journal", "Ledger", "Sales journal"],
+      "correct": 0
+    },
+    {
+      "id": 5,
+      "text": "A cash account balance was $200. $30 cash was banked and a check for $70 was drawn for cash. What is the final balance?",
+      "options": ["$100", "$160", "$170", "$240"],
+      "correct": 3
+    },
+    {
+      "id": 6,
+      "text": "A bank column shows $1,973 (credit). Unpresented checks are $942 and checks banked are $865. What is the bank statement balance?",
+      "options": ["$1,896 (credit)", "$1,896 (debit)", "$2,050 (credit)", "$2,050 (debit)"],
+      "correct": 3
+    },
+    {
+      "id": 7,
+      "text": "Discount allowed column ($842) was posted to Discount Received. Discount received column ($613) was posted to Discount Allowed. How to correct?",
+      "options": ["Credit Allowed ($229), Credit Received ($229)", "Debit Allowed ($229), Credit Received ($229)", "Debit Allowed ($229), Debit Received ($229)", "Debit Received ($229), Credit Allowed ($229)"],
+      "correct": 3
+    },
+    {
+      "id": 8,
+      "text": "The owner of a business takes inventory for her own use. What are the ledger account entries?",
+      "options": ["Debit drawings, credit purchases", "Debit drawings, credit inventory", "Debit capital, credit sales", "Debit inventory, credit drawings"],
+      "correct": 0
+    },
+    {
+      "id": 9,
+      "text": "A customer's ledger account shows a debit balance of $450. What does this mean?",
+      "options": ["Brown has paid $450 to the business", "Brown owes the business $450", "The business has paid Brown $450", "The business owes Brown $450"],
+      "correct": 1
+    },
+    {
+      "id": 10,
+      "text": "A suspense account was opened with a credit balance of $840. Which error caused this?",
+      "options": ["A check of $420 received was debited to the customer", "Discounts allowed $420 was debited twice", "Goods taken by owner $420 were credited to Drawings", "Rent received $420 was credited twice"],
+      "correct": 3
+    },
+    {
+      "id": 11,
+      "text": "A truck cost $8,000, including $36 for petrol. The total $8,000 was debited to the Truck Account. What is the effect?",
+      "options": ["No effect", "Profit and Assets overstated by $36", "Profit overstated and Assets understated by $36", "Profit and Assets understated by $36"],
+      "correct": 1
+    },
+    {
+      "id": 12,
+      "text": "A bookkeeper treats a capital expenditure item as revenue expenditure. What is the effect?",
+      "options": ["Gross profit is understated", "Total assets are overstated", "Net profit is overstated", "Total assets are understated"],
+      "correct": 3
+    },
+    {
+      "id": 13,
+      "text": "If all machines produce the same revenue, which combination produces the greatest net profit in the first year?",
+      "options": ["P and Q (Purchase)", "P (Purchase) and 1 Rent", "Q (Purchase) and 1 Rent", "Two machines (Rent)"],
+      "correct": 3
+    },
+    {
+      "id": 14,
+      "text": "A vehicle costing $20,000 is depreciated by 20% per annum on diminishing balance. What is the depreciation for the second year?",
+      "options": ["$3,200", "$4,000", "$6,400", "$8,000"],
+      "correct": 0
+    },
+    {
+      "id": 15,
+      "text": "A machine cost $20,000 and is sold for $13,000. Depreciation is 10% on cost. If the provision was $28,000, what is the balance after sale?",
+      "options": ["$22,000", "$24,000", "$26,000", "$28,000"],
+      "correct": 1
+    },
+    {
+      "id": 16,
+      "text": "What happens to the balance of the Bad Debts Account at the end of a financial year?",
+      "options": ["Transferred to trading section", "Deducted from trade receivables", "Transferred to profit and loss section", "Entered in the cash book"],
+      "correct": 2
+    },
+    {
+      "id": 17,
+      "text": "Rent paid: $4,000. Owed on Jan 1: $800. Owed on Dec 31: $1,000. What is the amount charged for rent in the Income & Expenditure account?",
+      "options": ["$4,000", "$4,200", "$4,800", "$5,000"],
+      "correct": 1
+    },
+    {
+      "id": 18,
+      "text": "Premises rented for $10,000/year from April 1. $10,000 was received by Dec 31. What is the rent amount in the income statement for the year?",
+      "options": ["$7,500 debit", "$7,500 credit", "$10,000 debit", "$10,000 credit"],
+      "correct": 1
+    },
+    {
+      "id": 19,
+      "text": "A cash discount of $30 was omitted from Smith's account but correctly entered in Discount Allowed. How to correct?",
+      "options": ["Debit Smith, credit suspense", "Debit suspense, credit discount allowed", "Debit suspense, credit Smith", "Debit Smith, credit discount allowed"],
+      "correct": 2
+    },
+    {
+      "id": 20,
+      "text": "Which item would NOT appear in a sales ledger control account?",
+      "options": ["Discounts allowed", "Interest charged on overdue accounts", "Provision for bad debts", "Sales returns"],
+      "correct": 2
+    },
+    {
+      "id": 21,
+      "text": "What is the primary purpose of control accounts?",
+      "options": ["To calculate sales and purchases", "To find errors quickly", "To balance the trial balance", "To prevent errors"],
+      "correct": 1
+    },
+    {
+      "id": 22,
+      "text": "Inventory at Dec 2017 was overstated by $6,000. What was the effect on gross profit for the year 2018?",
+      "options": ["$6,000 overstated", "$6,000 understated", "$12,000 overstated", "Nil effect"],
+      "correct": 1
+    },
+    {
+      "id": 23,
+      "text": "When head office expenses aren't reduced by closure, which action results in highest profit?",
+      "options": ["Close Dept 1", "Close Dept 2", "Close both", "Keep both open"],
+      "correct": 3
+    },
+    {
+      "id": 24,
+      "text": "A Provision is maintained at 5% of Trade Receivables. How is it shown in the Balance Sheet?",
+      "options": ["A liability of $1,100", "A deduction from receivables", "A liability of $1,250", "An addition to capital"],
+      "correct": 1
+    },
+    {
+      "id": 25,
+      "text": "Working capital was $6,000. Receivables paid $1,150 for debts of $1,200. $200 inventory was written off. New working capital?",
+      "options": ["$4,600", "$5,750", "$6,950", "$7,150"],
+      "correct": 1
+    },
+    {
+      "id": 26,
+      "text": "How is an invoice for an expense owing shown in the Balance Sheet?",
+      "options": ["Current asset", "Non-current asset", "Current liability", "Non-current liability"],
+      "correct": 2
+    },
+    {
+      "id": 27,
+      "text": "How are non-current assets normally recorded in a balance sheet?",
+      "options": ["At book value", "At cost", "At replacement cost", "At scrap value"],
+      "correct": 0
+    },
+    {
+      "id": 28,
+      "text": "If partners have no agreement, how should profits/losses be shared?",
+      "options": ["Equally", "Based on capital interest", "Based on hours worked", "Based on capital ratio"],
+      "correct": 0
+    },
+    {
+      "id": 29,
+      "text": "Machine cost: $20,000. Life: 5 years. Scrap: $10,000. What is the annual straight-line depreciation percentage?",
+      "options": ["5%", "10%", "20%", "50%"],
+      "correct": 1
+    },
+    {
+      "id": 30,
+      "text": "Net profit: $52,000. Bill gets $12,000 salary. Ratio 3:2. What is credited to partners' Current Accounts?",
+      "options": ["Bill $26,000, Ben $26,000", "Bill $31,200, Ben $20,800", "Bill $36,000, Ben $16,000", "Bill $24,000, Ben $16,000"],
+      "correct": 2
+    },
+    {
+      "id": 31,
+      "text": "Which of the following is similar to a club's receipts and payments account?",
+      "options": ["Balance sheet", "Cash or bank account", "Income and expenditure account", "Income statement"],
+      "correct": 1
+    },
+    {
+      "id": 32,
+      "text": "Opening Capital: $12,000. Closing Capital: $13,800. Net Profit: $3,000. What are the drawings?",
+      "options": ["$1,200", "$1,800", "$4,800", "$22,800"],
+      "correct": 0
+    },
+    {
+      "id": 33,
+      "text": "What is a limited company's authorized capital?",
+      "options": ["Capital allowed to be raised", "Issued plus loan capital", "Paid up capital", "Shares issued"],
+      "correct": 0
+    },
+    {
+      "id": 34,
+      "text": "What is the main reason for preparing a manufacturing account?",
+      "options": ["Calculate overheads", "Calculate cost of production", "Calculate raw material cost", "Calculate prime cost"],
+      "correct": 1
+    },
+    {
+      "id": 35,
+      "text": "Materials: $14,000. Labour: $11,000. Indirect expenses: $4,000. What is the prime cost?",
+      "options": ["$18,000", "$21,000", "$25,000", "$29,000"],
+      "correct": 2
+    },
+    {
+      "id": 36,
+      "text": "On which basis should a manufacturing company value its finished goods inventory?",
+      "options": ["Prime cost", "Cost of production", "Replacement cost", "Transfer price"],
+      "correct": 1
+    },
+    {
+      "id": 37,
+      "text": "Sales: $100,000. Expenses: $30,000. Net profit: $20,000. Gross profit percentage?",
+      "options": ["10%", "50%", "70%", "80%"],
+      "correct": 1
+    },
+    {
+      "id": 38,
+      "text": "Inventory: $80,000. Turnover: 6 times. GP margin: 25% of cost. Forecast sales?",
+      "options": ["$120,000", "$480,000", "$576,000", "$600,000"],
+      "correct": 3
+    },
+    {
+      "id": 39,
+      "text": "Which profit figures allow proper comparison between a business paying rent and one owning premises?",
+      "options": ["X ($82k), Y ($60k)", "X ($82k), Y ($100k)", "X ($100k), Y ($100k)", "X ($82k), Y ($118k)"],
+      "correct": 1
+    },
+    {
+      "id": 40,
+      "text": "What is the meaning of the money measurement concept?",
+      "options": ["Double entry basis", "Assets shown at cost", "Only monetary items included", "Cash-based profit"],
+      "correct": 2
+    },
+    {
+      "id": 41,
+      "text": "Goods bought on credit by X from Y are returned before payment. Where does X record this?",
+      "options": ["Cash book and sales ledger", "General ledger only", "General ledger and purchase ledger", "Purchase ledger only"],
+      "correct": 2
+    },
+    {
+      "id": 42,
+      "text": "A firm buys goods on credit. Which document does the firm use to record this?",
+      "options": ["Credit note", "Purchase invoice", "Sales invoice", "Supplier's statement"],
+      "correct": 1
+    },
+    {
+      "id": 43,
+      "text": "X sends back $800 of faulty goods to Y. In which book of prime entry would Y record this?",
+      "options": ["General journal", "Sales journal", "Purchases returns journal", "Sales returns journal"],
+      "correct": 3
+    },
+    {
+      "id": 44,
+      "text": "List price $1,600. Trade discount 12.5%. Cash discount 3%. Lowest amount paid?",
+      "options": ["$1,358", "$1,400", "$1,552", "$1,600"],
+      "correct": 0
+    },
+    {
+      "id": 45,
+      "text": "How is a $100 uncredited deposit shown on a bank reconciliation statement?",
+      "options": ["Added to bank statement balance", "Deducted from bank statement balance", "Added to cash book balance", "Deducted from cash book balance"],
+      "correct": 0
+    },
+    {
+      "id": 46,
+      "text": "An amount paid to a supplier was wrongly entered in another supplier's account. Which book corrects this?",
+      "options": ["Cash book", "General journal", "Purchase day book", "Sales day book"],
+      "correct": 1
+    },
+    {
+      "id": 47,
+      "text": "A supplier's account in a customer's books has a credit balance of $8,000. This means:",
+      "options": ["Customer owes supplier $8,000", "Customer paid supplier $8,000", "Supplier paid $8,000", "Supplier owes $8,000"],
+      "correct": 0
+    },
+    {
+      "id": 48,
+      "text": "Bob returns goods bought on credit from Tariq. Ledger entries in Tariq's books?",
+      "options": ["Debit Sales Returns, Credit Bob", "Debit Bob, Credit Sales Returns", "Debit Purchases Returns, Credit Bob", "Debit Bob, Credit Purchases Returns"],
+      "correct": 0
+    },
+    {
+      "id": 49,
+      "text": "Which error will be discovered by the preparation of a trial balance?",
+      "options": ["Capital treated as revenue", "Incorrect amount in both Dr and Cr", "Complete omission", "Incorrect amount entered twice as debit"],
+      "correct": 3
+    },
+    {
+      "id": 50,
+      "text": "Premises purchased with a 10-year bank loan. Effect on Balance Sheet?",
+      "options": ["Increase NCA, decrease CL", "Increase NCA, increase CL", "Increase NCA, increase NCL", "Decrease NCA, increase NCL"],
+      "correct": 2
+    },
+    {
+      "id": 51,
+      "text": "Which of the following is an item of revenue expenditure?",
+      "options": ["Dividend paid", "Major building improvements", "Purchase of machinery", "Rent paid"],
+      "correct": 3
+    },
+    {
+      "id": 52,
+      "text": "What is the main purpose of charging depreciation?",
+      "options": ["Provide funds for replacement", "Reduce repair costs", "Show realisable values", "Spread cost over useful life"],
+      "correct": 3
+    },
+    {
+      "id": 53,
+      "text": "How is year's net profit affected if reducing balance is used instead of straight-line (assuming higher initial charge)?",
+      "options": ["Profit increased", "Profit decreased", "No effect", "Depends on scrap value"],
+      "correct": 1
+    },
+    {
+      "id": 54,
+      "text": "A car revalued at the end of Year 2 at $3,800. Which value appears in the Balance Sheet?",
+      "options": ["$3,300", "$3,800", "$4,500", "$5,000"],
+      "correct": 1
+    },
+    {
+      "id": 55,
+      "text": "Electricity account processing for 2019. (Assume standard accrual logic from prompt context).",
+      "options": ["$9,800", "$10,000", "$10,200", "$11,800"],
+      "correct": 2
+    },
+    {
+      "id": 56,
+      "text": "Writing off a bad debt not previously provided for. Entries?",
+      "options": ["Debit Bad Debts, Credit Customer", "Debit Provision, Credit Customer", "Debit Customer, Credit Bad Debts", "Debit Bad Debts, Credit Provision"],
+      "correct": 0
+    },
+    {
+      "id": 57,
+      "text": "Entry in Income Statement for increase/decrease in Provision for Doubtful Debts?",
+      "options": ["$24 debit", "$24 credit", "$326 debit", "$326 credit"],
+      "correct": 0
+    },
+    {
+      "id": 58,
+      "text": "Credit sale to Knight wrongly debited to Smith. Journal entry to correct?",
+      "options": ["Debit Knight, Credit Smith", "Debit Smith, Credit Knight", "Debit Sales, Credit Knight", "Debit Knight, Credit Sales"],
+      "correct": 0
+    },
+    {
+      "id": 59,
+      "text": "Which item appears on the credit side of a Trade Payables Control account?",
+      "options": ["Cheques paid", "Discount received", "Goods purchased", "Purchase returns"],
+      "correct": 2
+    },
+    {
+      "id": 60,
+      "text": "Purpose of control accounts?",
+      "options": ["Calculate accruals", "Calculate total receivables/payables", "Calculate total sales", "Calculate receipts"],
+      "correct": 1
+    },
+    {
+      "id": 61,
+      "text": "NCA $180k, Net Current Assets $20k. Acquired for $225k. Goodwill payment?",
+      "options": ["$25,000", "$45,000", "$75,000", "$105,000"],
+      "correct": 0
+    },
+    {
+      "id": 62,
+      "text": "Closing inventory was undervalued by $1,000. Effect of correcting error?",
+      "options": ["Increase Net Profit", "Decrease Net Profit", "Increase Assets", "Decrease Assets"],
+      "correct": 0
+    },
+    {
+      "id": 63,
+      "text": "Bank account balance is $1,200 credit in cash book. How shown in Balance Sheet?",
+      "options": ["Current asset", "Current liability", "Non-current liability", "Drawings"],
+      "correct": 1
+    },
+    {
+      "id": 64,
+      "text": "How is working capital calculated?",
+      "options": ["Total assets - total liabilities", "Current assets - current liabilities", "Capital - drawings", "NCA + CA"],
+      "correct": 1
+    },
+    {
+      "id": 65,
+      "text": "At what value is inventory stated in the Balance Sheet?",
+      "options": ["Cost price", "Net realisable value", "Higher of NRV or Cost", "Lower of NRV or Cost"],
+      "correct": 3
+    },
+    {
+      "id": 66,
+      "text": "Capital $24,400. Assets (assume NCA) $16,100. Current Liab $4,500. No NCL. Current Assets?",
+      "options": ["$8,300", "$11,600", "$12,800", "$28,900"],
+      "correct": 2
+    },
+    {
+      "id": 67,
+      "text": "Goodwill from new partner admission retained in books should be:",
+      "options": ["Old partners, old ratio", "All partners, new ratio", "All partners, equally", "Old partners, equally"],
+      "correct": 0
+    },
+    {
+      "id": 68,
+      "text": "Sales $128k, Purchases $84k, Op Inv $15.7k, Cl Inv $16.3k, Pur Ret $1.3k. Gross Profit?",
+      "options": ["$42,100", "$44,300", "$44,600", "$45,900"],
+      "correct": 3
+    },
+    {
+      "id": 69,
+      "text": "Net profit $25,000. Omitted: $1,200 (accrued exp), $400 (prepaid exp). Correct profit?",
+      "options": ["$23,000", "$23,800", "$24,200", "$27,000"],
+      "correct": 2
+    },
+    {
+      "id": 70,
+      "text": "Partner's current account balance calculation (Assume standard inputs).",
+      "options": ["$3,000 Cr", "$2,600 Cr", "$1,000 Cr", "$1,000 Dr"],
+      "correct": 2
+    },
+    {
+      "id": 71,
+      "text": "Entries for interest on a loan from a partner?",
+      "options": ["Dr P&L, Cr Partner Current", "Dr P&L, Cr Partner Capital", "Dr Appropriation, Cr Partner Current", "Dr Appropriation, Cr Partner Capital"],
+      "correct": 0
+    },
+    {
+      "id": 72,
+      "text": "Net profit calculation for a trader from capital changes.",
+      "options": ["Nil", "$3,000", "$6,000", "$11,000"],
+      "correct": 2
+    },
+    {
+      "id": 73,
+      "text": "Sales $85,240. GP Margin 20%. Cost of sales?",
+      "options": ["$17,048", "$21,310", "$63,930", "$68,192"],
+      "correct": 3
+    },
+    {
+      "id": 74,
+      "text": "Buying instruments via cheque for an orchestral society. Where shown?",
+      "options": ["BS only", "I&E and BS", "I&E and R&P", "R&P and BS"],
+      "correct": 3
+    },
+    {
+      "id": 75,
+      "text": "Auth: 10m shares @ $0.50. Issued: 6m fully paid + 1m @ $0.30 called up. Issued Capital?",
+      "options": ["$3.3 million", "$3.5 million", "$5.3 million", "$7.0 million"],
+      "correct": 0
+    },
+    {
+      "id": 76,
+      "text": "What is a direct cost in furniture manufacturing?",
+      "options": ["Delivery depreciation", "Machinery insurance", "Raw material transport", "Maintenance wages"],
+      "correct": 2
+    },
+    {
+      "id": 77,
+      "text": "Manufacturing costs provided. Prime cost calculation?",
+      "options": ["$100,000", "$200,000", "$300,000", "$320,000"],
+      "correct": 1
+    },
+    {
+      "id": 78,
+      "text": "Sales $125,000, 25% markup. Overheads $10,000. Net profit percentage of sales?",
+      "options": ["10%", "12%", "17%", "22%"],
+      "correct": 1
+    },
+    {
+      "id": 79,
+      "text": "Which business controls overheads most efficiently (Net Profit / Gross Profit ratio)?",
+      "options": ["Business A", "Business B", "Business C", "Business D"],
+      "correct": 1
+    },
+    {
+      "id": 80,
+      "text": "No adjustment for prepayment of insurance. Effect on profit?",
+      "options": ["Overstated", "Understated", "No effect", "Omitted"],
+      "correct": 1
+    },
+    {
+      "id": 81,
+      "text": "Which account usually has a debit balance?",
+      "options": ["Capital account", "Purchases account", "Purchases returns account", "Sales account"],
+      "correct": 1
+    },
+    {
+      "id": 82,
+      "text": "X invoices goods to Y. They are found to be damaged. Which document will X then send to Y?",
+      "options": ["Copy invoice", "Credit note", "Debit note", "Statement of account"],
+      "correct": 1
+    },
+    {
+      "id": 83,
+      "text": "What is true about cash discounts received?",
+      "options": ["Appears in Trading Account", "Income for the business", "Expense for the business", "Deduction from sales"],
+      "correct": 1
+    },
+    {
+      "id": 84,
+      "text": "What is shown in a bank reconciliation statement prepared after the cashbook update?",
+      "options": ["Bank charges", "Cheques debited in error by bank", "Dividends received", "Standing orders"],
+      "correct": 1
+    },
+    {
+      "id": 85,
+      "text": "Bank statement $2,500. Cashbook $1,750. Unpresented checks $750. Balance Sheet figure?",
+      "options": ["$1,000", "$1,750", "$2,500", "$3,250"],
+      "correct": 1
+    },
+    {
+      "id": 86,
+      "text": "Which transaction is entered in the general journal?",
+      "options": ["Credit sale of goods", "Goods returned to supplier", "Purchase of a non-current asset on credit", "Purchase of inventory for cash"],
+      "correct": 2
+    },
+    {
+      "id": 87,
+      "text": "Which ledger entries record the purchase of a machine bought on credit?",
+      "options": ["Debit Trade Payables, Credit Machinery", "Debit Machinery, Credit Trade Payables", "Debit Trade Payables, Credit Purchases", "Debit Purchases, Credit Trade Payables"],
+      "correct": 1
+    },
+    {
+      "id": 88,
+      "text": "Sales of $2,800 have been debited to Sales account. Effect on balance?",
+      "options": ["Overstated by $2,800", "Overstated by $5,600", "Understated by $2,800", "Understated by $5,600"],
+      "correct": 3
+    },
+    {
+      "id": 89,
+      "text": "After which error will a trial balance still balance?",
+      "options": ["Error in adding a receivable account", "Error in entering amount on a sales invoice", "Error in extracting NCA balance", "Error in recording cash in cashbook"],
+      "correct": 1
+    },
+    {
+      "id": 90,
+      "text": "Purchase returns $150 wrongly posted to debit of Sales Returns. Effect on Trial Balance?",
+      "options": ["Credit exceeds Debit by $150", "Debit exceeds Credit by $150", "Credit exceeds Debit by $300", "Debit exceeds Credit by $300"],
+      "correct": 3
+    },
+    {
+      "id": 91,
+      "text": "A business receives rent for letting premises. How is this classified?",
+      "options": ["Capital expenditure", "Revenue expenditure", "Capital income", "Revenue income"],
+      "correct": 3
+    },
+    {
+      "id": 92,
+      "text": "Machinery cost debited to Purchases and included in closing inventory. Effect on Net Profit?",
+      "options": ["Overstated", "Understated", "No effect", "Nil"],
+      "correct": 2
+    },
+    {
+      "id": 93,
+      "text": "Vehicle cost $20,000, 20% reducing balance. Sold after 2 years at no profit/loss. Sale price?",
+      "options": ["$7,200", "$12,000", "$12,800", "$16,000"],
+      "correct": 2
+    },
+    {
+      "id": 94,
+      "text": "Cost $100,000, 25% straight line. NBV at end of year 3?",
+      "options": ["$0", "$25,000", "$50,000", "$75,000"],
+      "correct": 1
+    },
+    {
+      "id": 95,
+      "text": "Cost $8,000, sold for $4,800. NBV $3,000. Profit or loss?",
+      "options": ["Loss $200", "Loss $1,800", "Profit $200", "Profit $1,800"],
+      "correct": 3
+    },
+    {
+      "id": 96,
+      "text": "Provision $30, Trade Receivables $360. New provision 5% of receivables. Entry in I.S.?",
+      "options": ["$12 credit", "$18 credit", "$12 debit", "$18 debit"],
+      "correct": 1
+    },
+    {
+      "id": 97,
+      "text": "Electricity accrual of $450 treated as prepayment. Effect on net profit?",
+      "options": ["Overstated by $450", "Understated by $450", "Overstated by $900", "Understated by $900"],
+      "correct": 2
+    },
+    {
+      "id": 98,
+      "text": "Sales journal page overcast by $600. Correcting entry?",
+      "options": ["Debit Sales, Credit Suspense", "Debit Suspense, Credit Sales", "Debit Suspense, Credit Debtors", "Debit Debtors, Credit Suspense"],
+      "correct": 0
+    },
+    {
+      "id": 100,
+      "text": "Trade receivables balance in Balance Sheet calculation.",
+      "options": ["$15,105", "$15,600", "$16,005", "$16,500"],
+      "correct": 1
+    },
+    {
+      "id": 101,
+      "text": "X assets $17k, CL $3k. Y buys X assets (valued $19.5k) for $20k and takes over CL. Goodwill?",
+      "options": ["$500", "$2,500", "$3,000", "$3,500"],
+      "correct": 0
+    },
+    {
+      "id": 102,
+      "text": "Closing inventory $4,000 added to Op Inv and Purchases in trading section. Effect on GP?",
+      "options": ["Overstated by $4,000", "Understated by $4,000", "Overstated by $8,000", "Understated by $8,000"],
+      "correct": 3
+    },
+    {
+      "id": 103,
+      "text": "Sole trader writes off a bad debt. Effect on Balance Sheet?",
+      "options": ["Capital and Assets reduced", "Liabilities up, Assets down", "Liabilities down, Assets up", "No effect"],
+      "correct": 0
+    },
+    {
+      "id": 104,
+      "text": "What is the purpose of preparing a balance sheet?",
+      "options": ["Check accuracy", "Detail capital", "Measure performance", "Show financial state"],
+      "correct": 3
+    },
+    {
+      "id": 105,
+      "text": "What is the correct method of valuing inventory?",
+      "options": ["Management decision", "Lower of cost or NRV", "Net book value", "Purchase price"],
+      "correct": 1
+    },
+    {
+      "id": 106,
+      "text": "What is shown in a balance sheet as an asset?",
+      "options": ["Bank overdraft", "Rates paid in advance", "Rent received in advance", "Wages due"],
+      "correct": 1
+    },
+    {
+      "id": 107,
+      "text": "What does current assets less current liabilities equal?",
+      "options": ["Capital employed", "Liquid assets", "Net assets", "Working capital"],
+      "correct": 3
+    },
+    {
+      "id": 108,
+      "text": "Partner capital balances calculation (Assume goodwill adjustment).",
+      "options": ["Case A", "Case B", "Case C", "Case D"],
+      "correct": 0
+    },
+    {
+      "id": 109,
+      "text": "Insurance prepaid $60, wages outstanding $1,560. Net profit calculation.",
+      "options": ["$4,750", "$4,950", "$5,050", "$5,250"],
+      "correct": 1
+    },
+    {
+      "id": 110,
+      "text": "Profit $5,000. Closing inventory $100 overlooked, rent receivable $150 owing. Correct profit?",
+      "options": ["$4,750", "$4,950", "$5,050", "$5,250"],
+      "correct": 3
+    },
+    {
+      "id": 111,
+      "text": "Increase provision for doubtful debts by $500. Effect on final accounts?",
+      "options": ["Increase Expenses, Decrease Assets", "Decrease Expenses, Decrease Assets", "Increase Expenses, Increase Assets", "Decrease Expenses, Increase Assets"],
+      "correct": 0
+    },
+    {
+      "id": 112,
+      "text": "Partnership residue profit calculation (Net Profit $100k, less interest/salary).",
+      "options": ["$55,000", "$85,000", "$90,000", "$105,000"],
+      "correct": 1
+    },
+    {
+      "id": 113,
+      "text": "Partner receives interest on capital. Bookkeeping entries?",
+      "options": ["Dr Approp, Cr Current", "Dr Current, Cr Approp", "Dr P&L, Cr Current", "Dr Approp, Cr Capital"],
+      "correct": 0
+    },
+    {
+      "id": 114,
+      "text": "Subscription calculation for Income and Expenditure account.",
+      "options": ["$11,600", "$12,400", "$12,800", "$13,200"],
+      "correct": 1
+    },
+    {
+      "id": 115,
+      "text": "Correcting purchases using trade payables account logic.",
+      "options": ["$38,000", "$40,000", "$44,000", "$46,000"],
+      "correct": 2
+    },
+    {
+      "id": 116,
+      "text": "Net profit calculation from capital and drawings change.",
+      "options": ["$10,000", "$13,000", "$21,000", "$25,000"],
+      "correct": 1
+    },
+    {
+      "id": 117,
+      "text": "Which formula is used to calculate the rate of inventory turnover?",
+      "options": ["Average Inv / Sales", "Cost of Sales / Average Inv", "Average Inv / Cost of Sales", "Sales / Average Inv"],
+      "correct": 1
+    },
+    {
+      "id": 118,
+      "text": "Sales calculation from margin/GP data.",
+      "options": ["$47,000", "$90,000", "$108,000", "$112,500"],
+      "correct": 3
+    },
+    {
+      "id": 119,
+      "text": "Gross margin constant, net margin increased. What happened?",
+      "options": ["Cost of sales decreased", "Cost of sales increased", "Expenses decreased", "Expenses increased"],
+      "correct": 2
+    },
+    {
+      "id": 120,
+      "text": "Stationery inventories only recorded as asset if over $100. Concept?",
+      "options": ["Conservatism", "Dual aspect", "Materiality", "Money measurement"],
+      "correct": 2
+    }
+  ]
+}
