@@ -101,14 +101,8 @@
     {
       "id": 17,
       "text": "Under Section 6, 'Economic activity' excludes which of the following?",
-      "options": [
-      "Trade, commerce, or manufacture of a non-governmental nature",
-      "Provision of services by a club or association to its members",
-      "Services of an individual provided as an employee to their employer under a written contract",
-      "Services delivered through digital, electronic, or virtual means",
-      "Activities carried on occasionally without pecuniary profit"
-      ],
-      "correct": 2,
+      "options": ["Trade, commerce, or manufacture of a non-governmental nature", "Provision of services by a club or association to its members", "Services of an individual provided as an employee to their employer under a written contract", "Services delivered through digital, electronic, or virtual means", "Activities carried on occasionally without pecuniary profit"],
+      "correct": 2
     },
     {
       "id": 18,
