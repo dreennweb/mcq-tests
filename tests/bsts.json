@@ -64,9 +64,9 @@
     },
     {
       "id": 11,
-      "text": "According to Section 2(44), providing taxable services without registration with intent to suppress liability is defined as:",
+      "text": "According to Section 2(171), knowingly and dishonestly omitting to take any action, including the provision of taxable services without being registered under the Act, is defined as:",
       "options": ["Tax avoidance", "Tax evasion", "Tax planning", "Tax fraud", "Default assessment"],
-      "correct": 1
+      "correct": 3
     },
     {
       "id": 12,
