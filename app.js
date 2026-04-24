@@ -49,7 +49,7 @@ class QuizManager {
     // For demonstration, we'll try to load from a static list of test IDs.
     const testManifest = [
       { id: 'bsts', name: 'BSTS Basics', description: 'Test your core BSTS knowledge', icon: '📘' },
-      { id: 'web-development', name: 'Web Development', description: 'HTML, CSS, and the Web', icon: '🌐' },
+      { id: 'bsts-rules-basics', name: 'BSTS Rules', description: 'Test your BSTS Rules 2018 knowledge', icon: '🌐' },
       { id: 'python-fundamentals', name: 'Python Fundamentals', description: 'Python programming basics', icon: '🐍' }
     ];
     
