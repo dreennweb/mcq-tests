@@ -1,0 +1,606 @@
+{
+  "title": "Economics Fundamentals 101",
+  "description": "A comprehensive introductory test covering basic economic principles, history, supply and demand, inflation, and policy tools.",
+  "questions": [
+    {
+      "id": 1,
+      "text": "What is the fundamental problem that economics seeks to solve?",
+      "options": ["Unlimited resources", "Scarcity", "Too much money", "Global warming"],
+      "correct": 1
+    },
+    {
+      "id": 2,
+      "text": "What is 'Opportunity Cost'?",
+      "options": ["The price of a movie ticket", "The value of the next best alternative foregone", "The total cost of production", "A discount given by a store"],
+      "correct": 1
+    },
+    {
+      "id": 3,
+      "text": "Which branch of economics studies the behavior of individual households and firms?",
+      "options": ["Macroeconomics", "Global economics", "Microeconomics", "Political economics"],
+      "correct": 2
+    },
+    {
+      "id": 4,
+      "text": "Which of the following is considered a factor of production?",
+      "options": ["Wants", "Labor", "Advertising", "Consumption"],
+      "correct": 1
+    },
+    {
+      "id": 5,
+      "text": "The phrase 'There is no such thing as a free lunch' refers to:",
+      "options": ["Price fixing", "Opportunity cost", "Inflation", "Taxation"],
+      "correct": 1
+    },
+    {
+      "id": 6,
+      "text": "Which of these is a 'Capital' factor of production?",
+      "options": ["An office building", "A forest", "An entrepreneur", "A manual laborer"],
+      "correct": 0
+    },
+    {
+      "id": 7,
+      "text": "What is a 'Market' in economics?",
+      "options": ["Only a physical grocery store", "Any place where buyers and sellers exchange goods", "A government building", "A stock exchange only"],
+      "correct": 1
+    },
+    {
+      "id": 8,
+      "text": "Which economic system relies on customs and history to decide what to produce?",
+      "options": ["Command economy", "Market economy", "Traditional economy", "Mixed economy"],
+      "correct": 2
+    },
+    {
+      "id": 9,
+      "text": "In a pure 'Command Economy', who makes the major economic decisions?",
+      "options": ["Individual consumers", "The government", "Private business owners", "International banks"],
+      "correct": 1
+    },
+    {
+      "id": 10,
+      "text": "What is 'Macroeconomics'?",
+      "options": ["The study of individual prices", "The study of the economy as a whole", "The study of small businesses", "The study of household budgets"],
+      "correct": 1
+    },
+    {
+      "id": 11,
+      "text": "Which of these is a 'need' rather than a 'want'?",
+      "options": ["A designer watch", "Basic clothing", "A video game console", "A luxury car"],
+      "correct": 1
+    },
+    {
+      "id": 12,
+      "text": "An 'Incentive' is something that:",
+      "options": ["Prevents a sale", "Encourages a person to act", "Increases taxes", "Reduces production"],
+      "correct": 1
+    },
+    {
+      "id": 13,
+      "text": "If a resource is 'Renewable', it means:",
+      "options": ["It can never be used", "It can be replaced naturally over time", "It is made of gold", "It is very expensive"],
+      "correct": 1
+    },
+    {
+      "id": 14,
+      "text": "What does 'Utility' mean in economics?",
+      "options": ["A monthly electric bill", "The satisfaction or usefulness received from a good", "The price of a product", "The cost of shipping"],
+      "correct": 1
+    },
+    {
+      "id": 15,
+      "text": "Which of the following is a 'service'?",
+      "options": ["A loaf of bread", "A haircut", "A pair of shoes", "A smartphone"],
+      "correct": 1
+    },
+    {
+      "id": 16,
+      "text": "Who is known as the 'Father of Modern Economics'?",
+      "options": ["Karl Marx", "Adam Smith", "John Maynard Keynes", "Milton Friedman"],
+      "correct": 1
+    },
+    {
+      "id": 17,
+      "text": "In which book did Adam Smith describe the 'Invisible Hand'?",
+      "options": ["The Communist Manifesto", "The Wealth of Nations", "Das Kapital", "General Theory"],
+      "correct": 1
+    },
+    {
+      "id": 18,
+      "text": "The 'Industrial Revolution' began in which country?",
+      "options": ["USA", "Germany", "Great Britain", "France"],
+      "correct": 2
+    },
+    {
+      "id": 19,
+      "text": "The 'Great Depression' began in which year?",
+      "options": ["1914", "1929", "1945", "1989"],
+      "correct": 1
+    },
+    {
+      "id": 20,
+      "text": "Which economist is famous for advocating government spending to end recessions?",
+      "options": ["Adam Smith", "John Maynard Keynes", "Friedrich Hayek", "David Ricardo"],
+      "correct": 1
+    },
+    {
+      "id": 21,
+      "text": "What was the 'Laissez-faire' approach?",
+      "options": ["Heavy government regulation", "Government ownership of all land", "No government interference in the economy", "High taxes on the rich"],
+      "correct": 2
+    },
+    {
+      "id": 22,
+      "text": "The 'Silk Road' was an early example of:",
+      "options": ["A modern highway", "International trade", "A printing press", "A central bank"],
+      "correct": 1
+    },
+    {
+      "id": 23,
+      "text": "The Bretton Woods Conference after WWII led to the creation of the:",
+      "options": ["European Union", "International Monetary Fund (IMF)", "Federal Reserve", "Wall Street"],
+      "correct": 1
+    },
+    {
+      "id": 24,
+      "text": "Who wrote 'Das Kapital'?",
+      "options": ["Adam Smith", "Karl Marx", "Thomas Malthus", "Ben Bernanke"],
+      "correct": 1
+    },
+    {
+      "id": 25,
+      "text": "The transition from bartering to using coins is an evolution of:",
+      "options": ["Labor", "Money", "Land", "Taxation"],
+      "correct": 1
+    },
+    {
+      "id": 26,
+      "text": "The 'Law of Demand' states that as the price of a good increases:",
+      "options": ["Demand increases", "Quantity demanded decreases", "Supply decreases", "Quality improves"],
+      "correct": 1
+    },
+    {
+      "id": 27,
+      "text": "The 'Law of Supply' states that as the price of a good increases:",
+      "options": ["Quantity supplied increases", "Quantity supplied decreases", "Demand increases", "Prices must fall soon"],
+      "correct": 0
+    },
+    {
+      "id": 28,
+      "text": "On a graph, the Demand curve usually slopes:",
+      "options": ["Upward", "Downward", "Horizontally", "In a circle"],
+      "correct": 1
+    },
+    {
+      "id": 29,
+      "text": "The point where the supply curve and demand curve cross is called:",
+      "options": ["The Peak", "Equilibrium", "The Surplus point", "The Shortage point"],
+      "correct": 1
+    },
+    {
+      "id": 30,
+      "text": "If the price of apples goes up, what usually happens to the demand for oranges (a substitute)?",
+      "options": ["It goes down", "It stays the same", "It goes up", "Oranges become free"],
+      "correct": 2
+    },
+    {
+      "id": 31,
+      "text": "A 'Shortage' occurs when:",
+      "options": ["Supply is greater than demand", "Demand is greater than supply", "The price is too high", "There is no money"],
+      "correct": 1
+    },
+    {
+      "id": 32,
+      "text": "A 'Surplus' occurs when:",
+      "options": ["Supply is greater than demand", "Demand is greater than supply", "The price is too low", "The government bans the product"],
+      "correct": 0
+    },
+    {
+      "id": 33,
+      "text": "If a new technology makes it cheaper to produce milk, the supply curve will:",
+      "options": ["Shift to the left", "Shift to the right", "Stay the same", "Disappear"],
+      "correct": 1
+    },
+    {
+      "id": 34,
+      "text": "What are 'Complementary Goods'?",
+      "options": ["Goods that compete with each other", "Goods used together (e.g., printers and ink)", "Free goods", "Illegal goods"],
+      "correct": 1
+    },
+    {
+      "id": 35,
+      "text": "What happens to the demand for umbrellas when it starts raining?",
+      "options": ["Demand decreases", "Demand increases", "Demand stays exactly the same", "The price must drop"],
+      "correct": 1
+    },
+    {
+      "id": 36,
+      "text": "A 'Price Ceiling' is a:",
+      "options": ["Minimum price set by law", "Maximum price set by law", "Type of tax", "Reward for selling"],
+      "correct": 1
+    },
+    {
+      "id": 37,
+      "text": "A 'Price Floor' (like minimum wage) is a:",
+      "options": ["Maximum price set by law", "Legal minimum price", "Discount", "Form of inflation"],
+      "correct": 1
+    },
+    {
+      "id": 38,
+      "text": "What is an 'Inferior Good'?",
+      "options": ["A broken product", "A good demand for which falls as income rises", "A luxury item", "A product no one wants"],
+      "correct": 1
+    },
+    {
+      "id": 39,
+      "text": "If the price of gasoline doubles, what will likely happen to the demand for SUVs?",
+      "options": ["Increase", "Decrease", "No change", "SUV prices will rise"],
+      "correct": 1
+    },
+    {
+      "id": 40,
+      "text": "Elasticity measures how much:",
+      "options": ["A product can stretch", "Buyers and sellers respond to price changes", "The government taxes goods", "Money is printed"],
+      "correct": 1
+    },
+    {
+      "id": 41,
+      "text": "If a small change in price causes a huge change in demand, the demand is:",
+      "options": ["Inelastic", "Elastic", "Unitary", "Fixed"],
+      "correct": 1
+    },
+    {
+      "id": 42,
+      "text": "Which of these usually has 'Inelastic' demand?",
+      "options": ["Candy", "Movie tickets", "Life-saving medicine", "Luxury jewelry"],
+      "correct": 2
+    },
+    {
+      "id": 43,
+      "text": "In economics, 'Profit' is calculated as:",
+      "options": ["Total Revenue minus Total Cost", "Total Revenue plus Total Cost", "Price times Quantity", "Total Taxes"],
+      "correct": 0
+    },
+    {
+      "id": 44,
+      "text": "A 'Monopoly' exists when:",
+      "options": ["There are many sellers", "There is only one seller", "There are no buyers", "Prices are always low"],
+      "correct": 1
+    },
+    {
+      "id": 45,
+      "text": "If many companies sell similar but slightly different products, it is called:",
+      "options": ["Perfect Competition", "Monopoly", "Monopolistic Competition", "Oligopoly"],
+      "correct": 2
+    },
+    {
+      "id": 46,
+      "text": "The Law of Diminishing Marginal Utility says that as you consume more of a product:",
+      "options": ["You get more satisfaction from each extra unit", "You get less satisfaction from each extra unit", "The price goes up", "You want it more"],
+      "correct": 1
+    },
+    {
+      "id": 47,
+      "text": "Which law explains why the supply curve slopes upward?",
+      "options": ["Law of Demand", "Law of Supply", "Law of Gravity", "Law of Diminishing Returns"],
+      "correct": 1
+    },
+    {
+      "id": 48,
+      "text": "The 'Law of Diminishing Returns' usually applies to:",
+      "options": ["Consumers", "Production in the short run", "International trade", "Stock markets"],
+      "correct": 1
+    },
+    {
+      "id": 49,
+      "text": "Gresham's Law states that 'Bad money drives out ____'.",
+      "options": ["The government", "Good money", "The poor", "Silver"],
+      "correct": 1
+    },
+    {
+      "id": 50,
+      "text": "Say's Law suggests that:",
+      "options": ["Demand creates its own supply", "Supply creates its own demand", "Taxes are illegal", "Prices never change"],
+      "correct": 1
+    },
+    {
+      "id": 51,
+      "text": "Engel's Law states that as income rises, the proportion of income spent on food:",
+      "options": ["Increases", "Decreases", "Stays the same", "Goes to zero"],
+      "correct": 1
+    },
+    {
+      "id": 52,
+      "text": "The Law of Comparative Advantage explains why:",
+      "options": ["Nations should trade with each other", "War is inevitable", "Prices are always rising", "Monopolies are good"],
+      "correct": 0
+    },
+    {
+      "id": 53,
+      "text": "If a factory adds more workers but has limited machinery, eventually each new worker adds less output. This is:",
+      "options": ["Efficiency", "Diminishing Marginal Returns", "Increasing Returns", "Profit"],
+      "correct": 1
+    },
+    {
+      "id": 54,
+      "text": "What is 'Marginal Cost'?",
+      "options": ["The cost of the first item", "The cost of producing one additional unit", "The total cost of everything", "The cost of advertising"],
+      "correct": 1
+    },
+    {
+      "id": 55,
+      "text": "The 'Law of One Price' suggests that in efficient markets, identical goods should:",
+      "options": ["Have different prices", "Have the same price", "Be free", "Be taxed"],
+      "correct": 1
+    },
+    {
+      "id": 56,
+      "text": "What is 'Inflation'?",
+      "options": ["A decrease in prices", "A general increase in prices over time", "An increase in the value of money", "A period of high unemployment only"],
+      "correct": 1
+    },
+    {
+      "id": 57,
+      "text": "What is 'Deflation'?",
+      "options": ["Rising prices", "Falling prices", "Stable prices", "When a balloon pops"],
+      "correct": 1
+    },
+    {
+      "id": 58,
+      "text": "What does CPI stand for?",
+      "options": ["Central Price Index", "Consumer Price Index", "Cost Production Index", "Consumer Profit Index"],
+      "correct": 1
+    },
+    {
+      "id": 59,
+      "text": "Hyperinflation is characterized by:",
+      "options": ["Slow price increases", "Extremely rapid and out-of-control price increases", "Falling prices", "High interest rates"],
+      "correct": 1
+    },
+    {
+      "id": 60,
+      "text": "Who is most hurt by unexpected inflation?",
+      "options": ["People with fixed incomes", "Borrowers", "The government", "Real estate owners"],
+      "correct": 0
+    },
+    {
+      "id": 61,
+      "text": "If the inflation rate is 5%, a $100 item last year will cost how much this year?",
+      "options": ["$95", "$100", "$105", "$110"],
+      "correct": 2
+    },
+    {
+      "id": 62,
+      "text": "'Cost-Push' inflation is caused by:",
+      "options": ["Too much consumer demand", "An increase in production costs (like oil prices)", "Lower taxes", "Printing less money"],
+      "correct": 1
+    },
+    {
+      "id": 63,
+      "text": "'Demand-Pull' inflation occurs when:",
+      "options": ["Demand for goods exceeds supply", "Supply exceeds demand", "Businesses go bankrupt", "The economy is in a depression"],
+      "correct": 0
+    },
+    {
+      "id": 64,
+      "text": "When inflation is high, the purchasing power of money:",
+      "options": ["Increases", "Decreases", "Stays the same", "Becomes infinite"],
+      "correct": 1
+    },
+    {
+      "id": 65,
+      "text": "Stagflation is a combination of:",
+      "options": ["Low inflation and low unemployment", "High inflation and high unemployment", "High growth and low taxes", "Deflation and high growth"],
+      "correct": 1
+    },
+    {
+      "id": 66,
+      "text": "What is the primary goal of 'Capitalism'?",
+      "options": ["Government ownership", "Private profit and property", "Equal distribution of wealth", "Elimination of money"],
+      "correct": 1
+    },
+    {
+      "id": 67,
+      "text": "What is a central feature of 'Socialism'?",
+      "options": ["Total lack of government", "Public or collective ownership of resources", "Survival of the fittest", "Only gold as currency"],
+      "correct": 1
+    },
+    {
+      "id": 68,
+      "text": "Which theory emphasizes that markets are self-correcting and usually need no government help?",
+      "options": ["Keynesian Economics", "Classical Economics", "Marxism", "Behavioral Economics"],
+      "correct": 1
+    },
+    {
+      "id": 69,
+      "text": "Keynesian economics suggests that during a recession, the government should:",
+      "options": ["Decrease spending", "Increase spending", "Do nothing", "Raise interest rates"],
+      "correct": 1
+    },
+    {
+      "id": 70,
+      "text": "What is 'Gross Domestic Product' (GDP)?",
+      "options": ["The total value of all goods and services produced in a country", "The total amount of gold in a bank", "The number of people employed", "The total debt of a nation"],
+      "correct": 0
+    },
+    {
+      "id": 71,
+      "text": "Mercantilism was an economic theory that focused on:",
+      "options": ["Free trade for all", "Accumulating gold and maintaining a trade surplus", "Global equality", "The digital economy"],
+      "correct": 1
+    },
+    {
+      "id": 72,
+      "text": "The 'Laffer Curve' relates to:",
+      "options": ["Unemployment and inflation", "Tax rates and tax revenue", "Supply and demand", "Birth rates and death rates"],
+      "correct": 1
+    },
+    {
+      "id": 73,
+      "text": "In a 'Mixed Economy':",
+      "options": ["Only the government produces goods", "Only private firms produce goods", "Both the government and private firms play a role", "There is no money, only bartering"],
+      "correct": 2
+    },
+    {
+      "id": 74,
+      "text": "Behavioral economics combines economics with:",
+      "options": ["Biology", "Psychology", "Physics", "Geology"],
+      "correct": 1
+    },
+    {
+      "id": 75,
+      "text": "The 'Game Theory' is the study of:",
+      "options": ["Video game sales", "Strategic decision making", "Sports statistics", "Lottery odds"],
+      "correct": 1
+    },
+    {
+      "id": 76,
+      "text": "Which of these is a 'Public Good'?",
+      "options": ["A private car", "A cheeseburger", "A street light", "A personal laptop"],
+      "correct": 2
+    },
+    {
+      "id": 77,
+      "text": "An 'Externality' is a cost or benefit that affects:",
+      "options": ["Only the buyer", "Only the seller", "A third party who did not choose to be involved", "No one"],
+      "correct": 2
+    },
+    {
+      "id": 78,
+      "text": "Pollution is an example of a:",
+      "options": ["Positive externality", "Negative externality", "Public good", "Market equilibrium"],
+      "correct": 1
+    },
+    {
+      "id": 79,
+      "text": "What is 'Human Capital'?",
+      "options": ["Money owned by humans", "The skills and knowledge of workers", "Robots used in factories", "Government buildings"],
+      "correct": 1
+    },
+    {
+      "id": 80,
+      "text": "A 'Recession' is usually defined as a decline in GDP for:",
+      "options": ["One week", "Two consecutive quarters (6 months)", "Ten years", "One month"],
+      "correct": 1
+    },
+    {
+      "id": 81,
+      "text": "Who is responsible for 'Fiscal Policy' in the US?",
+      "options": ["The Federal Reserve", "The President and Congress", "The United Nations", "The World Bank"],
+      "correct": 1
+    },
+    {
+      "id": 82,
+      "text": "Which of these is a tool of Fiscal Policy?",
+      "options": ["Changing interest rates", "Buying government bonds", "Taxing and Spending", "Printing money"],
+      "correct": 2
+    },
+    {
+      "id": 83,
+      "text": "An 'Expansionary' fiscal policy involves:",
+      "options": ["Increasing taxes", "Decreasing government spending", "Increasing government spending or cutting taxes", "Doing nothing"],
+      "correct": 2
+    },
+    {
+      "id": 84,
+      "text": "A 'Budget Deficit' occurs when:",
+      "options": ["Spending equals taxes", "Spending is more than tax revenue", "Taxes are more than spending", "The government has no money"],
+      "correct": 1
+    },
+    {
+      "id": 85,
+      "text": "The 'National Debt' is the:",
+      "options": ["Money owed by citizens to banks", "Total accumulation of all past budget deficits", "Amount of money printed today", "Yearly tax revenue"],
+      "correct": 1
+    },
+    {
+      "id": 86,
+      "text": "To slow down an overheating economy and high inflation, the government might:",
+      "options": ["Increase spending", "Decrease taxes", "Increase taxes or decrease spending", "Give everyone $1000"],
+      "correct": 2
+    },
+    {
+      "id": 87,
+      "text": "A 'Proportional Tax' (Flat Tax) is one where:",
+      "options": ["Rich people pay a higher percentage", "Everyone pays the same percentage of income", "Poor people pay a higher percentage", "No one pays taxes"],
+      "correct": 1
+    },
+    {
+      "id": 88,
+      "text": "A 'Progressive Tax' system means:",
+      "options": ["Higher income earners pay a higher percentage", "Lower income earners pay a higher percentage", "Everyone pays $100", "Taxes are only on gasoline"],
+      "correct": 0
+    },
+    {
+      "id": 89,
+      "text": "What is a 'Subsidy'?",
+      "options": ["A tax on imported goods", "A government payment to support a business or industry", "A penalty for pollution", "A type of bank loan"],
+      "correct": 1
+    },
+    {
+      "id": 90,
+      "text": "The 'Multiplier Effect' suggests that:",
+      "options": ["Taxes should always be high", "Government spending leads to a larger increase in total economic output", "Prices never stop rising", "Population grows faster than food"],
+      "correct": 1
+    },
+    {
+      "id": 91,
+      "text": "Who is responsible for 'Monetary Policy' in the US?",
+      "options": ["The President", "The Federal Reserve (The Fed)", "Congress", "The IRS"],
+      "correct": 1
+    },
+    {
+      "id": 92,
+      "text": "What is the primary tool of the Federal Reserve?",
+      "options": ["Setting the tax rate", "Adjusting interest rates", "Building roads", "Passing laws"],
+      "correct": 1
+    },
+    {
+      "id": 93,
+      "text": "If the Fed wants to encourage borrowing and spending, it will:",
+      "options": ["Raise interest rates", "Lower interest rates", "Close all banks", "Increase taxes"],
+      "correct": 1
+    },
+    {
+      "id": 94,
+      "text": "To fight high inflation, the Central Bank would likely:",
+      "options": ["Lower interest rates", "Increase the money supply", "Raise interest rates", "Encourage people to spend more"],
+      "correct": 2
+    },
+    {
+      "id": 95,
+      "text": "What are 'Open Market Operations'?",
+      "options": ["Buying and selling stocks in companies", "Buying and selling government bonds to control money supply", "The opening hours of the stock exchange", "Farmers' markets"],
+      "correct": 1
+    },
+    {
+      "id": 96,
+      "text": "The 'Reserve Requirement' is:",
+      "options": ["The amount of money the government must save", "The percentage of deposits banks must keep on hand", "The amount of gold a person can own", "The minimum age to work"],
+      "correct": 1
+    },
+    {
+      "id": 97,
+      "text": "If the Fed 'lowers' the reserve requirement, the money supply will:",
+      "options": ["Decrease", "Increase", "Stay the same", "Disappear"],
+      "correct": 1
+    },
+    {
+      "id": 98,
+      "text": "Which of these is considered 'M1' money?",
+      "options": ["Real estate", "Cash and checking accounts", "Gold bars", "Stocks and bonds"],
+      "correct": 1
+    },
+    {
+      "id": 99,
+      "text": "What is the 'Discount Rate'?",
+      "options": ["A sale at a department store", "The interest rate the Fed charges banks for loans", "The rate of inflation", "The tax rate for corporations"],
+      "correct": 1
+    },
+    {
+      "id": 100,
+      "text": "The main goal of the Federal Reserve's 'Dual Mandate' is:",
+      "options": ["High taxes and high spending", "Stable prices and maximum employment", "Low population and high exports", "Winning elections and printing money"],
+      "correct": 1
+    }
+  ]
+}
