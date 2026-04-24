@@ -1,0 +1,42 @@
+{
+  "title": "Python Fundamentals",
+  "description": "Test your Python programming basics",
+  "questions": [
+    {
+      "id": 1,
+      "text": "What is the correct way to create a function in Python?",
+      "options": ["function myFunc():", "def myFunc():", "create myFunc():", "func myFunc():"],
+      "correct": 1
+    },
+    {
+      "id": 2,
+      "text": "Which of the following is used to get user input in Python?",
+      "options": ["input()", "scan()", "read()", "get()"],
+      "correct": 0
+    },
+    {
+      "id": 3,
+      "text": "What is the output of print(2 ** 3)?",
+      "options": ["6", "8", "9", "5"],
+      "correct": 1
+    },
+    {
+      "id": 4,
+      "text": "Which data type is immutable in Python?",
+      "options": ["List", "Dictionary", "Tuple", "Set"],
+      "correct": 2
+    },
+    {
+      "id": 5,
+      "text": "How do you start a comment in Python?",
+      "options": ["//", "/*", "#", "<!--"],
+      "correct": 2
+    },
+    {
+      "id": 6,
+      "text": "What does the 'len()' function do?",
+      "options": ["Returns the length of an object", "Returns the largest item", "Returns the smallest item", "Converts to lowercase"],
+      "correct": 0
+    }
+  ]
+}
