@@ -1,0 +1,606 @@
+{
+  "title": "Balochistan Sales Tax on Services (BSTS) Act MCQs",
+  "description": "Multiple choice questions covering sections 1 to 100 of the BSTS Act, including definitions, tax liability, registration, appeals, penalties, and schedules.",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Under Section 1(2), to which area does the Act extend?",
+      "options": ["Rural Balochistan", "Urban Balochistan", "Whole of Balochistan", "Settled areas only", "Provincial capital only"],
+      "correct": 2
+    },
+    {
+      "id": 2,
+      "text": "According to Section 1(3), when did this Act come into force?",
+      "options": ["June 30, 2015", "July 1, 2015", "July 3, 2015", "August 1, 2015", "June 25, 2015"],
+      "correct": 1
+    },
+    {
+      "id": 3,
+      "text": "Under Section 2(1A), an 'Active taxpayer' excludes a person who fails to e-file returns for how many consecutive tax periods?",
+      "options": ["Two periods", "Three periods", "Four periods", "Five periods", "Six periods"],
+      "correct": 2
+    },
+    {
+      "id": 4,
+      "text": "In the definition of 'Associates', what percentage of control over rights to income defines association for AOP members?",
+      "options": ["Twenty-five percent", "Thirty-three percent", "Fifty percent", "Seventy-five percent", "One hundred percent"],
+      "correct": 2
+    },
+    {
+      "id": 5,
+      "text": "According to Section 2(6), 'Association of persons' specifically excludes which of the following?",
+      "options": ["A firm", "Artificial juridical person", "Body of persons", "A company", "Foreign law entities"],
+      "correct": 3
+    },
+    {
+      "id": 6,
+      "text": "Under Section 2(12), which ordinance defines a 'Company' for the purposes of this Act?",
+      "options": ["Companies Ordinance 1979", "Companies Ordinance 1984", "Companies Act 2017", "Banking Ordinance 1962", "Finance Act 2015"],
+      "correct": 1
+    },
+    {
+      "id": 7,
+      "text": "What is the 'Due date' for furnishing a return under Section 2(18)?",
+      "options": ["10th of month", "15th of month", "18th of month", "21st of month", "Last day month"],
+      "correct": 1
+    },
+    {
+      "id": 8,
+      "text": "According to Section 2(25), what must a person do to qualify a bank account as a 'Business Bank Account'?",
+      "options": ["Open in Quetta", "Maintain high balance", "Declare in registration", "Link to CNIC", "Notify the Governor"],
+      "correct": 2
+    },
+    {
+      "id": 9,
+      "text": "A person is a 'Resident' individual if their permanent address on their NIC is located where?",
+      "options": ["Pakistan", "Any province", "Balochistan", "Federal capital", "Tribal areas"],
+      "correct": 2
+    },
+    {
+      "id": 10,
+      "text": "Under Section 2(40), what term describes paying less tax than due because of miscalculation?",
+      "options": ["Tax fraud", "Tax evasion", "Short-paid", "Default surcharge", "Arrears"],
+      "correct": 2
+    },
+    {
+      "id": 11,
+      "text": "According to Section 2(44), providing taxable services without registration with intent to suppress liability is defined as:",
+      "options": ["Tax avoidance", "Tax evasion", "Tax planning", "Tax fraud", "Default assessment"],
+      "correct": 1
+    },
+    {
+      "id": 12,
+      "text": "What is the standard duration of a 'Tax period' unless otherwise specified?",
+      "options": ["One week", "Fifteen days", "One month", "One quarter", "Six months"],
+      "correct": 2
+    },
+    {
+      "id": 13,
+      "text": "Under Section 3(1), a service is taxable if it is provided by a person from their place of business in:",
+      "options": ["Pakistan", "Balochistan", "Any jurisdiction", "Special zones", "Neighboring provinces"],
+      "correct": 1
+    },
+    {
+      "id": 14,
+      "text": "Per Section 3(3), if a person has offices in and outside Balochistan, how are these offices treated?",
+      "options": ["Single legal person", "Branch and head-office", "Separate legal persons", "Joint ventures", "Subsidiary entities"],
+      "correct": 2
+    },
+    {
+      "id": 15,
+      "text": "Under Section 4(4), where does the liability to pay tax lie if a service originates in Balochistan but terminates outside Pakistan?",
+      "options": ["No tax due", "Federal Government", "Recipient country", "Government of Balochistan", "Export destination"],
+      "correct": 3
+    },
+    {
+      "id": 16,
+      "text": "According to Section 5, who has the power to make additions or deletions in any Schedule to the Act?",
+      "options": ["The Commissioner", "The Authority", "The Government", "The High Court", "The Governor"],
+      "correct": 2
+    },
+    {
+      "id": 17,
+      "text": "Under Section 6(1), 'Economic activity' excludes which of the following?",
+      "options": ["Corporate trade", "Non-profit services", "Private recreational pursuit", "Digital delivery", "Vocation"],
+      "correct": 2
+    },
+    {
+      "id": 18,
+      "text": "Under Section 6(3), a person is deemed to conduct economic activity in Balochistan if their digital infrastructure is where?",
+      "options": ["Anywhere in Pakistan", "In Balochistan", "Outside Pakistan", "Regionally distributed", "In Islamabad"],
+      "correct": 1
+    },
+    {
+      "id": 19,
+      "text": "According to Section 7(1), the 'Value of a taxable service' is the:",
+      "options": ["Net amount", "Gross amount", "Open market price", "Discounted price", "Estimated value"],
+      "correct": 1
+    },
+    {
+      "id": 20,
+      "text": "If consideration for a service is in kind, how is the value determined under Section 7(2)?",
+      "options": ["Historical cost", "Open market price", "Depreciated value", "Mutual agreement", "Arbitrary value"],
+      "correct": 1
+    },
+    {
+      "id": 21,
+      "text": "Under Section 7(3), if associated persons provide services for no consideration, the value is the:",
+      "options": ["Zero value", "Book value", "Open market price", "Cost plus 10%", "Estimated value by Commissioner"],
+      "correct": 2
+    },
+    {
+      "id": 22,
+      "text": "Under Section 27(1), a notice for compulsory registration must be issued at least how many days before it takes effect?",
+      "options": ["Seven days", "Ten days", "Fifteen days", "Thirty days", "Sixty days"],
+      "correct": 2
+    },
+    {
+      "id": 23,
+      "text": "Under Section 28(5), the Authority may withdraw a suspension of registration within:",
+      "options": ["Thirty days", "Sixty days", "Ninety days", "Six months", "One year"],
+      "correct": 1
+    },
+    {
+      "id": 24,
+      "text": "Under Section 29(4), an application for de-registration must be disposed of within:",
+      "options": ["One month", "Three months", "Six months", "Nine months", "Twelve months"],
+      "correct": 1
+    },
+    {
+      "id": 25,
+      "text": "According to Section 30, a tax invoice must contain the registration number of the:",
+      "options": ["Service provider", "Tax consultant", "Bank manager", "Special Judge", "Ombudsman"],
+      "correct": 0
+    },
+    {
+      "id": 26,
+      "text": "Under Section 31, records must be maintained in which language(s)?",
+      "options": ["English only", "Urdu only", "English or Urdu", "Local languages", "Arabic or Persian"],
+      "correct": 2
+    },
+    {
+      "id": 27,
+      "text": "According to Section 11(2), who is liable to pay tax for services provided by a non-resident person?",
+      "options": ["Non-resident person", "The Authority", "Person receiving service", "Withholding agent", "Federal Government"],
+      "correct": 2
+    },
+    {
+      "id": 28,
+      "text": "Under Section 11A, a recipient is jointly liable if they fail to pay the service provider within how many days?",
+      "options": ["Sixty days", "Ninety days", "One twenty days", "One eighty days", "One year"],
+      "correct": 3
+    },
+    {
+      "id": 29,
+      "text": "Under Section 14(2), the Authority may require any person to withhold tax regardless of their:",
+      "options": ["Residency status", "Registration status", "Annual turnover", "Business type", "Location"],
+      "correct": 1
+    },
+    {
+      "id": 30,
+      "text": "Under Section 14A(3), a person who fails to collect tax they were required to collect is:",
+      "options": ["Given a warning", "Personally liable", "Exempted", "Suspended", "Fined only"],
+      "correct": 1
+    },
+    {
+      "id": 31,
+      "text": "Per Section 16(1), a tax invoice for input tax adjustment must not be older than:",
+      "options": ["Two tax periods", "Three tax periods", "Six tax periods", "Twelve tax periods", "Twenty-four tax periods"],
+      "correct": 2
+    },
+    {
+      "id": 32,
+      "text": "Under Section 16(2), adjustment of refund claims shall be made on a:",
+      "options": ["Monthly basis", "Quarterly basis", "First-in-first-out basis", "Last-in-first-out basis", "Pro-rata basis"],
+      "correct": 2
+    },
+    {
+      "id": 33,
+      "text": "Under Section 16A, payments for transactions exceeding what aggregate amount must be via crossed cheque?",
+      "options": ["Ten thousand", "Twenty-five thousand", "Fifty thousand", "One hundred thousand", "Two hundred thousand"],
+      "correct": 2
+    },
+    {
+      "id": 34,
+      "text": "Per Section 16A(3), credit transactions must be transferred within how many days of the tax invoice?",
+      "options": ["Thirty days", "Sixty days", "Ninety days", "One eighty days", "One year"],
+      "correct": 3
+    },
+    {
+      "id": 35,
+      "text": "Under Section 16B, input tax credit is disallowed for goods used for:",
+      "options": ["Export services", "Taxable services", "Non-business consumption", "Corporate offices", "Registered persons"],
+      "correct": 2
+    },
+    {
+      "id": 36,
+      "text": "Per Section 16B(1)(f), input tax on capital goods classified under Section XVI of Customs Act is adjusted in:",
+      "options": ["One installment", "Six installments", "Twelve installments", "Twenty-four installments", "Thirty-six installments"],
+      "correct": 2
+    },
+    {
+      "id": 37,
+      "text": "Under Section 16CC, a registered person cannot adjust input tax in excess of what percentage of output tax?",
+      "options": ["Fifty percent", "Seventy-five percent", "Eighty percent", "Ninety percent", "One hundred percent"],
+      "correct": 3
+    },
+    {
+      "id": 38,
+      "text": "According to Section 16E(2), a refund claim must be made within how long from the date of payment?",
+      "options": ["Six months", "One year", "Two years", "Three years", "Five years"],
+      "correct": 1
+    },
+    {
+      "id": 39,
+      "text": "Under Section 17(1), excess tax collected under misapprehension must be:",
+      "options": ["Kept as profit", "Refunded to recipient", "Paid to Government", "Adjusted next month", "Written off"],
+      "correct": 2
+    },
+    {
+      "id": 40,
+      "text": "Per Section 18(2), a service is considered provided at the time consideration is received or invoice issued, whichever is:",
+      "options": ["Later", "Earlier", "Mutually agreed", "After 30 days", "At month end"],
+      "correct": 1
+    },
+    {
+      "id": 41,
+      "text": "Under Section 20(1), transfer of ownership of a business must be intimated to the Commissioner within:",
+      "options": ["Fifteen days", "One month", "Two months", "Ninety days", "Six months"],
+      "correct": 1
+    },
+    {
+      "id": 42,
+      "text": "Under Section 21, tax liability of a deceased person is the first charge on their:",
+      "options": ["Bank accounts", "Business partners", "Estate", "Personal belongings", "Future earnings"],
+      "correct": 2
+    },
+    {
+      "id": 43,
+      "text": "Per Section 23, in case of a private company winding up, liability for unpaid tax falls on:",
+      "options": ["The Liquidator", "Every Director", "The Shareholders", "Secured Creditors", "General Public"],
+      "correct": 1
+    },
+    {
+      "id": 44,
+      "text": "Under Section 24(2), a notice to show cause for assessment must be given within how many years?",
+      "options": ["Three years", "Five years", "Eight years", "Ten years", "Fifteen years"],
+      "correct": 2
+    },
+    {
+      "id": 45,
+      "text": "According to Section 24(3), an order of assessment must be made within how many days of the show cause notice?",
+      "options": ["Sixty days", "Ninety days", "One hundred days", "One eighty days", "Two hundred days"],
+      "correct": 3
+    },
+    {
+      "id": 46,
+      "text": "Under Section 26(1), who may apply for voluntary registration?",
+      "options": ["Only residents", "Only companies", "Any economic actor", "Only exporters", "Only filers"],
+      "correct": 2
+    },
+    {
+      "id": 47,
+      "text": "Per Section 27(1), a notice for compulsory registration must be issued at least how many days before it takes effect?",
+      "options": ["Seven days", "Ten days", "Fifteen days", "Thirty days", "Sixty days"],
+      "correct": 2
+    },
+    {
+      "id": 48,
+      "text": "Under Section 28(5), the Authority may withdraw a suspension of registration within:",
+      "options": ["Thirty days", "Sixty days", "Ninety days", "Six months", "One year"],
+      "correct": 1
+    },
+    {
+      "id": 49,
+      "text": "Under Section 29(4), an application for de-registration must be disposed of within:",
+      "options": ["One month", "Three months", "Six months", "Nine months", "Twelve months"],
+      "correct": 1
+    },
+    {
+      "id": 50,
+      "text": "According to Section 30, a tax invoice must contain the registration number of the:",
+      "options": ["Service provider", "Tax consultant", "Bank manager", "Special Judge", "Ombudsman"],
+      "correct": 0
+    },
+    {
+      "id": 51,
+      "text": "Under Section 31, records must be maintained in which language(s)?",
+      "options": ["English only", "Urdu only", "English or Urdu", "Local languages", "Arabic or Persian"],
+      "correct": 2
+    },
+    {
+      "id": 52,
+      "text": "According to Section 32(1), for how many years must records be retained?",
+      "options": ["Three years", "Five years", "Seven years", "Ten years", "Twenty years"],
+      "correct": 3
+    },
+    {
+      "id": 53,
+      "text": "Under Section 33(4), a person may submit a reply to an audit observation within:",
+      "options": ["Seven days", "Ten days", "Fourteen days", "Twenty-one days", "Thirty days"],
+      "correct": 3
+    },
+    {
+      "id": 54,
+      "text": "Per Section 33(7)(a), if a person pays evaded tax voluntarily before an audit notice, the penalty is:",
+      "options": ["Five percent", "Ten percent", "Twenty percent", "Fifty percent", "No penalty"],
+      "correct": 4
+    },
+    {
+      "id": 55,
+      "text": "Under Section 34(1), a special audit panel must comprise of at least how many members?",
+      "options": ["One member", "Two members", "Three members", "Five members", "Seven members"],
+      "correct": 1
+    },
+    {
+      "id": 56,
+      "text": "Per Section 34(5), a special audit panel is headed by an officer not below the rank of:",
+      "options": ["Assistant Commissioner", "Deputy Commissioner", "Additional Commissioner", "Commissioner", "Director"],
+      "correct": 1
+    },
+    {
+      "id": 57,
+      "text": "Under Section 35(6), a registered person may file a revised return within how many days of the original filing?",
+      "options": ["Thirty days", "Sixty days", "Ninety days", "One twenty days", "One eighty days"],
+      "correct": 3
+    },
+    {
+      "id": 58,
+      "text": "According to Section 39(2), the Commissioner is subordinate to:",
+      "options": ["The Governor", "The Authority", "The Special Judge", "The High Court", "Finance Minister"],
+      "correct": 1
+    },
+    {
+      "id": 59,
+      "text": "Under Section 41(3), an officer cannot assign their conferred powers to another officer without:",
+      "options": ["Written order", "Provincial Cabinet approval", "Authority's prior permission", "Commissioner's signature", "Gazette notification"],
+      "correct": 2
+    },
+    {
+      "id": 60,
+      "text": "Who appoints a Special Judge under Section 42(1)?",
+      "options": ["The Authority", "The Commissioner", "The Government", "High Court Chief", "The Governor"],
+      "correct": 2
+    },
+    {
+      "id": 61,
+      "text": "Under Section 43(1), a Special Judge takes cognizance based on a report from an officer not below:",
+      "options": ["Audit Officer", "Assistant Commissioner", "Deputy Commissioner", "Commissioner", "Inspector"],
+      "correct": 1
+    },
+    {
+      "id": 62,
+      "text": "Per Section 47A, an appeal against a Special Judge's order to the High Court must be filed within:",
+      "options": ["Thirty days", "Sixty days", "Ninety days", "Six months", "One year"],
+      "correct": 1
+    },
+    {
+      "id": 63,
+      "text": "According to the Table in Section 48, what is the minimum penalty for failing to apply for registration?",
+      "options": ["Five thousand", "Ten thousand", "Twenty-five thousand", "Fifty thousand", "One hundred thousand"],
+      "correct": 3
+    },
+    {
+      "id": 64,
+      "text": "What is the daily penalty for failing to furnish a return within the due date (after the initial grace period)?",
+      "options": ["One hundred rupees", "Two hundred rupees", "Five hundred rupees", "One thousand rupees", "Two thousand rupees"],
+      "correct": 1
+    },
+    {
+      "id": 65,
+      "text": "Under Section 49(1)(a), the rate of default surcharge is:",
+      "options": ["Five percent", "Ten percent", "Twelve percent", "Fifteen percent", "KIBOR plus three"],
+      "correct": 2
+    },
+    {
+      "id": 66,
+      "text": "In cases of tax fraud, what is the monthly default surcharge rate under Section 49(1)(b)?",
+      "options": ["One percent", "Two percent", "Three percent", "Five percent", "Seven percent"],
+      "correct": 1
+    },
+    {
+      "id": 67,
+      "text": "Under Section 52(1), a notice for recovery of tax not levied due to error must be served within:",
+      "options": ["Three years", "Five years", "Eight years", "Ten years", "Twelve years"],
+      "correct": 2
+    },
+    {
+      "id": 68,
+      "text": "According to Section 54, an officer authorized to arrest must have a rank not below:",
+      "options": ["Inspector", "Assistant Commissioner", "Deputy Commissioner", "Additional Commissioner", "Commissioner"],
+      "correct": 1
+    },
+    {
+      "id": 69,
+      "text": "An arrested person must be produced before a Special Judge within how many hours?",
+      "options": ["Twelve hours", "Twenty-four hours", "Thirty-six hours", "Forty-eight hours", "Seventy-two hours"],
+      "correct": 1
+    },
+    {
+      "id": 70,
+      "text": "Under Section 55(6), the total period of remand to custody shall not exceed:",
+      "options": ["Seven days", "Ten days", "Fourteen days", "Twenty-one days", "Thirty days"],
+      "correct": 2
+    },
+    {
+      "id": 71,
+      "text": "Under Section 56, which rank of officer has free access to business premises?",
+      "options": ["Any officer", "Assistant Commissioner above", "Commissioner only", "Inspector only", "Deputy Commissioner above"],
+      "correct": 1
+    },
+    {
+      "id": 72,
+      "text": "According to Section 59A, the Commissioner may seal business premises for a period up to:",
+      "options": ["One week", "Two weeks", "One month", "Three months", "Six months"],
+      "correct": 2
+    },
+    {
+      "id": 73,
+      "text": "Under Section 60(1)(b), an Assistant Commissioner adjudicates cases where the tax amount does not exceed:",
+      "options": ["One million", "Two million", "Five million", "Ten million", "Twenty million"],
+      "correct": 2
+    },
+    {
+      "id": 74,
+      "text": "Under Section 61(4)(d), the Commissioner cannot revise an order if how many years have lapsed?",
+      "options": ["Two years", "Three years", "Five years", "Seven years", "Ten years"],
+      "correct": 2
+    },
+    {
+      "id": 75,
+      "text": "According to Section 63(1), an appeal to the Commissioner (Appeals) must be filed within:",
+      "options": ["Fifteen days", "Thirty days", "Sixty days", "Ninety days", "One eighty days"],
+      "correct": 1
+    },
+    {
+      "id": 76,
+      "text": "What is the appeal fee for a company under Section 63(3)?",
+      "options": ["One thousand", "Two thousand", "Five thousand", "Ten thousand", "Twenty thousand"],
+      "correct": 3
+    },
+    {
+      "id": 77,
+      "text": "Under Section 64(4), a stay of recovery by the Commissioner (Appeals) remains operative for:",
+      "options": ["Seven days", "Fifteen days", "Thirty days", "Sixty days", "Ninety days"],
+      "correct": 1
+    },
+    {
+      "id": 78,
+      "text": "Under Section 65(5), the Commissioner (Appeals) must pass an order within how many days of filing?",
+      "options": ["Sixty days", "Ninety days", "One twenty days", "One eighty days", "One year"],
+      "correct": 2
+    },
+    {
+      "id": 79,
+      "text": "According to Section 66(3), a Judicial Member of the Appellate Tribunal is appointed for:",
+      "options": ["One year", "Two years", "Three years", "Five years", "Life term"],
+      "correct": 2
+    },
+    {
+      "id": 80,
+      "text": "A Judicial Member of the Appellate Tribunal must not be more than what age?",
+      "options": ["Sixty years", "Sixty-two years", "Sixty-five years", "Seventy years", "Seventy-five years"],
+      "correct": 2
+    },
+    {
+      "id": 81,
+      "text": "Under Section 66(11), a single member of the Tribunal can dispose of cases involving up to:",
+      "options": ["One hundred thousand", "Two hundred thousand", "Five hundred thousand", "One million", "Five million"],
+      "correct": 2
+    },
+    {
+      "id": 82,
+      "text": "Under Section 67(3), the fee for an appeal to the Appellate Tribunal is:",
+      "options": ["Five thousand", "Ten thousand", "Fifteen thousand", "Twenty thousand", "Fifty thousand"],
+      "correct": 3
+    },
+    {
+      "id": 83,
+      "text": "According to Section 68(2), the Appellate Tribunal shall decide an appeal within:",
+      "options": ["Three months", "Six months", "Nine months", "Twelve months", "Two years"],
+      "correct": 1
+    },
+    {
+      "id": 84,
+      "text": "A stay order by the Appellate Tribunal under Section 68(3) remains operative for:",
+      "options": ["Thirty days", "Sixty days", "Ninety days", "One twenty days", "One eighty days"],
+      "correct": 2
+    },
+    {
+      "id": 85,
+      "text": "Under Section 69(2), a reference to the High Court must be preferred within:",
+      "options": ["Thirty days", "Sixty days", "Ninety days", "One hundred twenty days", "One hundred eighty days"],
+      "correct": 1
+    },
+    {
+      "id": 86,
+      "text": "Under Section 70, a person filing an appeal must deposit the tax amount that is:",
+      "options": ["Disputed", "Admitted", "Doubled", "Half", "Ten percent"],
+      "correct": 1
+    },
+    {
+      "id": 87,
+      "text": "Under Section 71(3), the Authority must appoint a dispute resolution committee within:",
+      "options": ["Seven days", "Fifteen days", "Thirty days", "Sixty days", "Ninety days"],
+      "correct": 2
+    },
+    {
+      "id": 88,
+      "text": "Per Section 71(4), a dispute resolution committee must make recommendations within:",
+      "options": ["Thirty days", "Sixty days", "Ninety days", "One twenty days", "One eighty days"],
+      "correct": 2
+    },
+    {
+      "id": 89,
+      "text": "Under Section 72, which Act's provisions apply mutatis mutandis for recovery of arrears?",
+      "options": ["Sales Tax 1990", "Income Tax 2001", "Land Revenue 1967", "Civil Procedure 1908", "Criminal Procedure 1898"],
+      "correct": 2
+    },
+    {
+      "id": 90,
+      "text": "Under Section 72(1)(f), no action for recovery is taken during an appeal if the person deposits:",
+      "options": ["Ten percent", "Twenty-five percent", "Fifty percent", "Seventy-five percent", "Full amount"],
+      "correct": 1
+    },
+    {
+      "id": 91,
+      "text": "Under Section 73(1)(a), the agent of an individual under legal disability is their:",
+      "options": ["Legal counsel", "Business partner", "Guardian or manager", "Next of kin", "Employer"],
+      "correct": 2
+    },
+    {
+      "id": 92,
+      "text": "According to Section 74(2), tax is recoverable from an agent only to the extent of:",
+      "options": ["Agent's assets", "Registered person's assets", "Security bond", "Annual commission", "Professional insurance"],
+      "correct": 1
+    },
+    {
+      "id": 93,
+      "text": "Under Section 78A, a regulatory authority cannot issue a license unless the applicant is:",
+      "options": ["A resident", "A filer", "Registered person", "Degree holder", "Local domiciled"],
+      "correct": 2
+    },
+    {
+      "id": 94,
+      "text": "Under Section 80(6), a registered person is deemed to have received an electronic notice after:",
+      "options": ["Twenty-four hours", "Forty-eight hours", "Seventy-two hours", "One week", "Instant delivery"],
+      "correct": 2
+    },
+    {
+      "id": 95,
+      "text": "Under Section 82, the fee for an attested duplicate of a tax document is:",
+      "options": ["One hundred", "Two hundred", "Five hundred", "One thousand", "Two thousand"],
+      "correct": 3
+    },
+    {
+      "id": 96,
+      "text": "Under Section 88(2), the power to remove difficulties expires after how many years?",
+      "options": ["One year", "Three years", "Five years", "Seven years", "Ten years"],
+      "correct": 3
+    },
+    {
+      "id": 97,
+      "text": "Under Section 91(4), a whistleblower providing false information is liable to a penalty of:",
+      "options": ["Ten thousand", "Twenty-five thousand", "Fifty thousand", "One hundred thousand", "Two hundred thousand"],
+      "correct": 3
+    },
+    {
+      "id": 98,
+      "text": "What is the tax rate for Telecommunication services in the Second Schedule?",
+      "options": ["Fifteen percent", "Sixteen percent", "Eighteen percent", "Nineteen percent", "Nineteen point five"],
+      "correct": 4
+    },
+    {
+      "id": 99,
+      "text": "According to the Third Schedule, the tax rate for a restaurant installing POS machines is:",
+      "options": ["Two percent", "Five percent", "Eight percent", "Ten percent", "Fifteen percent"],
+      "correct": 0
+    },
+    {
+      "id": 100,
+      "text": "Under the Exempt List, caterers are exempt if their annual turnover does not exceed:",
+      "options": ["One million", "Two million", "Two point five", "Five million", "Ten million"],
+      "correct": 2
+    }
+  ]
+}
