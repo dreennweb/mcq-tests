@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+  <title>MCQ Master - Multi-Test Platform</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="quiz-app">
+  <!-- Test Selection Screen -->
+  <div id="testSelectorScreen" class="test-selector-screen">
+    <div class="selector-card">
+      <h1>📚 MCQ Master</h1>
+      <p class="subtitle">Choose a test to begin your challenge</p>
+      <div id="testListContainer" class="test-list">
+        <div class="loading-spinner">Loading available tests...</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Quiz Main Screen (hidden initially) -->
+  <div id="quizMainScreen" class="quiz-container hidden">
+    <div class="quiz-header">
+      <div class="title-badge">
+        <h1 id="quizTitle">Quiz</h1>
+        <div class="score-counter" id="liveScoreDisplay">Score: 0/0</div>
+      </div>
+      <div class="progress-track">
+        <div class="progress-fill" id="progressFill"></div>
+      </div>
+    </div>
+
+    <div class="question-area">
+      <div class="question-text" id="questionText">Loading...</div>
+      <div class="options-list" id="optionsContainer"></div>
+      <div class="feedback-message" id="feedbackMessage"></div>
+
+      <div class="action-buttons">
+        <button class="restart-btn" id="restartBtn">⟳ Restart Test</button>
+        <button class="next-btn" id="nextBtn">Next Question →</button>
+      </div>
+    </div>
+    <div class="footer-note">
+      ⚡ Instant feedback | Select an option to check answer
+    </div>
+  </div>
+
+  <!-- Score Screen (hidden initially) -->
+  <div id="scoreScreen" class="score-screen hidden">
+    <div class="final-score-card">
+      <h2>🏆 Test Completed!</h2>
+      <div class="final-score" id="finalScoreSpan">0/0</div>
+      <p id="scoreMessage"></p>
+      <hr>
+      <div class="action-buttons" style="justify-content: center;">
+        <button id="backToTestsBtn" class="restart-btn">📋 Back to Tests</button>
+        <button id="retakeSameTestBtn" class="next-btn">🔄 Retake This Test</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>
