@@ -1,0 +1,606 @@
+{
+  "title": "Income Tax Ordinance, 2001 - Basic Concepts and Definitions",
+  "description": "50 MCQs covering definitions of tax, taxpayer, person, company, heads of income, tax year, principal officer, types of companies, and resident/non-resident status based on Part 1 and Part 2 lectures.",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Under Section 2(63) of the Income Tax Ordinance, 2001, the term 'Tax' includes which of the following?",
+      "options": ["Income tax only", "Income tax, default surcharge, penalty, and fee", "Only income tax and penalty", "Only surcharge and additional charges"],
+      "correct": 1
+    },
+    {
+      "id": 2,
+      "text": "What is the rate of default surcharge payable on the amount of tax if it is not paid on time?",
+      "options": ["5%", "10%", "12%", "15%"],
+      "correct": 2
+    },
+    {
+      "id": 3,
+      "text": "Who is defined as a 'Taxpayer' under Section 2(61) of the Income Tax Ordinance, 2001?",
+      "options": ["Only individuals", "Any person who is liable to pay tax", "Only registered companies", "Only salaried persons"],
+      "correct": 1
+    },
+    {
+      "id": 4,
+      "text": "Which of the following is included in the definition of 'Person' under the Income Tax Ordinance?",
+      "options": ["Individual only", "Individual and Company only", "Individual, Company, AOP, and Government", "Only natural persons"],
+      "correct": 2
+    },
+    {
+      "id": 5,
+      "text": "For tax purposes, a Provincial Government is treated as:",
+      "options": ["An individual", "A company", "An Association of Persons", "A foreign entity"],
+      "correct": 1
+    },
+    {
+      "id": 6,
+      "text": "Which of the following entities is included in the definition of 'Company' under Section 2(10)?",
+      "options": ["Only companies registered under Companies Ordinance", "Banking companies and cooperative societies", "Body corporate formed outside Pakistan", "All of the above"],
+      "correct": 3
+    },
+    {
+      "id": 7,
+      "text": "A partnership firm registered under the Partnership Act, 1932 is treated as:",
+      "options": ["A company", "An Association of Persons (AOP)", "An individual", "A local authority"],
+      "correct": 1
+    },
+    {
+      "id": 8,
+      "text": "A Hindu Undivided Family (HUF) falls under which category for income tax purposes?",
+      "options": ["Company", "Association of Persons", "Individual", "Foreign taxpayer"],
+      "correct": 1
+    },
+    {
+      "id": 9,
+      "text": "How many heads of income are defined under the Income Tax Ordinance, 2001?",
+      "options": ["4", "5", "6", "3"],
+      "correct": 1
+    },
+    {
+      "id": 10,
+      "text": "Income from Salary is chargeable to tax under which section?",
+      "options": ["Section 10", "Section 12", "Section 15", "Section 18"],
+      "correct": 1
+    },
+    {
+      "id": 11,
+      "text": "Income from Property is chargeable to tax under which section?",
+      "options": ["Section 12", "Section 15", "Section 18", "Section 37"],
+      "correct": 1
+    },
+    {
+      "id": 12,
+      "text": "Income from Business is chargeable to tax under which section?",
+      "options": ["Section 12", "Section 15", "Section 18", "Section 39"],
+      "correct": 2
+    },
+    {
+      "id": 13,
+      "text": "Income from Capital Gains is chargeable to tax under which section?",
+      "options": ["Section 15", "Section 18", "Section 37", "Section 39"],
+      "correct": 2
+    },
+    {
+      "id": 14,
+      "text": "Income from Other Sources is chargeable to tax under which section?",
+      "options": ["Section 37", "Section 39", "Section 18", "Section 12"],
+      "correct": 1
+    },
+    {
+      "id": 15,
+      "text": "Income earned or received from within Pakistan is classified as:",
+      "options": ["Foreign Source Income", "Pakistan Source Income", "Exempt Income", "Total Income"],
+      "correct": 1
+    },
+    {
+      "id": 16,
+      "text": "Income received from sources outside Pakistan is classified as:",
+      "options": ["Pakistan Source Income", "Foreign Source Income", "Local Income", "Taxable Income"],
+      "correct": 1
+    },
+    {
+      "id": 17,
+      "text": "'Total Income' under the Ordinance means:",
+      "options": ["Income from one head only", "Aggregate of income from all heads of income", "Income after all deductions", "Only salary and business income"],
+      "correct": 1
+    },
+    {
+      "id": 18,
+      "text": "Taxable Income is computed as:",
+      "options": ["Total Income plus deductions", "Total Income minus deductions and allowances", "Gross income without any adjustment", "Only foreign source income"],
+      "correct": 1
+    },
+    {
+      "id": 19,
+      "text": "Normal Tax Year in Pakistan covers which period?",
+      "options": ["January 1 to December 31", "July 1 to June 30", "April 1 to March 31", "October 1 to September 30"],
+      "correct": 1
+    },
+    {
+      "id": 20,
+      "text": "Tax Year 2020 under the normal scheme refers to:",
+      "options": ["1 Jan 2020 to 31 Dec 2020", "1 July 2019 to 30 June 2020", "1 July 2020 to 30 June 2021", "1 April 2019 to 31 March 2020"],
+      "correct": 1
+    },
+    {
+      "id": 21,
+      "text": "Special Tax Year is granted to a taxpayer by:",
+      "options": ["Federal Government automatically", "Federal Board of Revenue on request", "Supreme Court of Pakistan", "Securities and Exchange Commission"],
+      "correct": 1
+    },
+    {
+      "id": 22,
+      "text": "Which industry in Pakistan commonly uses a Special Tax Year from 1st October to 30th September?",
+      "options": ["Banking", "Textile", "Agriculture", "Pharmaceuticals"],
+      "correct": 1
+    },
+    {
+      "id": 23,
+      "text": "Transitional Tax Year applies when:",
+      "options": ["A new company is incorporated", "A company changes from Normal to Special Tax Year", "A company dissolves", "Tax rates are amended"],
+      "correct": 1
+    },
+    {
+      "id": 24,
+      "text": "During a Transitional Tax Year, a taxpayer is required to:",
+      "options": ["Pay double tax", "File a separate tax return for the gap period", "Not file any return", "Pay a fixed penalty"],
+      "correct": 1
+    },
+    {
+      "id": 25,
+      "text": "Why is a Principal Officer required for a company or AOP?",
+      "options": ["Because they are artificial persons and cannot act themselves", "Because they have no employees", "Only for public companies", "Only for listed companies"],
+      "correct": 0
+    },
+    {
+      "id": 26,
+      "text": "Who among the following can act as a Principal Officer of a company?",
+      "options": ["Director only", "Manager only", "Secretary only", "Director, Manager, Secretary, Accountant, or any designated officer"],
+      "correct": 3
+    },
+    {
+      "id": 27,
+      "text": "The Commissioner of Income Tax has the power to:",
+      "options": ["Only accept returns from the CEO", "Declare any person connected with management as Principal Officer", "Refuse to register a company", "Cancel the company's incorporation"],
+      "correct": 1
+    },
+    {
+      "id": 28,
+      "text": "A Public Company includes a company in which the Federal or Provincial Government holds at least:",
+      "options": ["25% shares", "40% shares", "50% shares", "75% shares"],
+      "correct": 2
+    },
+    {
+      "id": 29,
+      "text": "A company whose shares are listed and traded on the Pakistan Stock Exchange is treated as:",
+      "options": ["A Private Company", "A Public Company", "A Small Company", "An Association of Persons"],
+      "correct": 1
+    },
+    {
+      "id": 30,
+      "text": "A company whose shares are widely available to the public is classified as:",
+      "options": ["Private Company", "Public Company", "Foreign Company", "Small Company"],
+      "correct": 1
+    },
+    {
+      "id": 31,
+      "text": "A Private Company is defined under the Ordinance as:",
+      "options": ["A company with less than 10 members", "A company that is not a public company", "A company not registered anywhere", "A government-owned company"],
+      "correct": 1
+    },
+    {
+      "id": 32,
+      "text": "Which of the following is a criterion for a Small Company regarding capital?",
+      "options": ["Paid-up capital + reserves exceeding Rs. 100 million", "Paid-up capital + reserves not exceeding Rs. 50 million", "Paid-up capital + reserves not exceeding Rs. 25 million", "No limit on capital"],
+      "correct": 1
+    },
+    {
+      "id": 33,
+      "text": "A Small Company must not have more than how many employees at any time during the year?",
+      "options": ["100", "150", "250", "500"],
+      "correct": 2
+    },
+    {
+      "id": 34,
+      "text": "The annual turnover of a Small Company should not exceed:",
+      "options": ["Rs. 50 million", "Rs. 100 million", "Rs. 250 million", "Rs. 500 million"],
+      "correct": 2
+    },
+    {
+      "id": 35,
+      "text": "A company formed by splitting or reconstruction of an already existing company:",
+      "options": ["Qualifies as a Small Company", "Does not qualify as a Small Company", "Is exempt from tax", "Is treated as an AOP"],
+      "correct": 1
+    },
+    {
+      "id": 36,
+      "text": "An individual is treated as a Resident Individual if present in Pakistan for at least:",
+      "options": ["90 days", "120 days", "183 days", "365 days"],
+      "correct": 2
+    },
+    {
+      "id": 37,
+      "text": "Under the alternative rule, an individual is resident if present for 120 days in the current year and:",
+      "options": ["183 days in the preceding 4 years", "365 days in the preceding 4 years", "120 days in the preceding year", "730 days in the preceding 4 years"],
+      "correct": 1
+    },
+    {
+      "id": 38,
+      "text": "A federal government employee posted abroad during a tax year is treated as:",
+      "options": ["Non-resident", "Resident Individual", "Exempt from tax", "Foreign national"],
+      "correct": 1
+    },
+    {
+      "id": 39,
+      "text": "A company is treated as a Resident Company if it is:",
+      "options": ["Incorporated in Pakistan", "Managed wholly from Pakistan", "Owned by a Provincial Government", "All of the above"],
+      "correct": 3
+    },
+    {
+      "id": 40,
+      "text": "For a company to be Resident, its control and management must be:",
+      "options": ["Partly outside Pakistan", "Wholly situated in Pakistan", "Anywhere in Asia", "Not relevant for residency"],
+      "correct": 1
+    },
+    {
+      "id": 41,
+      "text": "A company incorporated outside Pakistan but whose control and management is in Pakistan is:",
+      "options": ["Non-resident", "Resident Company", "Exempt company", "Small company"],
+      "correct": 1
+    },
+    {
+      "id": 42,
+      "text": "An Association of Persons (AOP) is Resident if its control and management is:",
+      "options": ["Only wholly in Pakistan", "Wholly or partly in Pakistan", "Only outside Pakistan", "In any SAARC country"],
+      "correct": 1
+    },
+    {
+      "id": 43,
+      "text": "A Non-Resident person is defined as:",
+      "options": ["A person living in Pakistan for 365 days", "A person who is not a resident person", "A person who pays tax in Pakistan", "A government employee"],
+      "correct": 1
+    },
+    {
+      "id": 44,
+      "text": "A Resident individual is taxable in Pakistan on:",
+      "options": ["Only Pakistan source income", "Pakistan source and foreign source income", "Only foreign source income", "No income"],
+      "correct": 1
+    },
+    {
+      "id": 45,
+      "text": "A Non-Resident person is taxable in Pakistan on:",
+      "options": ["Pakistan source income only", "Foreign source income only", "Both Pakistan and foreign source income", "No income"],
+      "correct": 0
+    },
+    {
+      "id": 46,
+      "text": "Which of the following is treated as a 'company' for tax purposes?",
+      "options": ["Provincial Government", "Local Government", "Cooperative Society", "All of the above"],
+      "correct": 3
+    },
+    {
+      "id": 47,
+      "text": "The concept of 'Taxable Income' is important because:",
+      "options": ["It is the base on which tax liability is calculated", "It is the same as total income", "It is always exempt from tax", "It includes only penalties"],
+      "correct": 0
+    },
+    {
+      "id": 48,
+      "text": "Penalty under the Income Tax Ordinance is generally imposed for:",
+      "options": ["Timely filing of returns", "Concealment of income or non-compliance", "Paying extra tax voluntarily", "Registering a new company"],
+      "correct": 1
+    },
+    {
+      "id": 49,
+      "text": "Income from 'Other Sources' typically includes:",
+      "options": ["Salary from employer", "Dividends, royalties, and prize winnings", "Business profits", "Capital gains on shares"],
+      "correct": 1
+    },
+    {
+      "id": 50,
+      "text": "Determining whether a person is Resident or Non-Resident is important because it defines:",
+      "options": ["Which tax form to use", "The scope of taxable income (Pakistan vs worldwide)", "The color of the tax return", "The number of employees allowed"],
+      "correct": 1
+    },
+    {
+      "id": 51,
+      "text": "The term 'Tax' under the Income Tax Ordinance, 2001 is defined in which section?",
+      "options": ["Section 2(10)", "Section 2(16)", "Section 2(61)", "Section 2(63)"],
+      "correct": 3
+    },
+    {
+      "id": 52,
+      "text": "Which of the following is NOT specifically included in the definition of 'Tax' under Section 2(63)?",
+      "options": ["Income tax", "Default surcharge", "Additional tax on bonus shares", "Zakat deduction"],
+      "correct": 3
+    },
+    {
+      "id": 53,
+      "text": "A person who is requested to furnish a return of total income is treated as a:",
+      "options": ["Assessee", "Taxpayer", "Principal Officer", "Collector"],
+      "correct": 1
+    },
+    {
+      "id": 54,
+      "text": "The definition of 'Person' under the Ordinance specifically includes:",
+      "options": ["Only natural persons", "Only companies and individuals", "Federal Government, foreign governments, and public international organizations", "Only Pakistani citizens"],
+      "correct": 2
+    },
+    {
+      "id": 55,
+      "text": "A body corporate established under any law for the time being in force in Pakistan is treated as:",
+      "options": ["An individual", "A company", "An Association of Persons", "A local authority"],
+      "correct": 1
+    },
+    {
+      "id": 56,
+      "text": "For the purposes of the Income Tax Ordinance, a non-profit charitable institution established under law is treated as:",
+      "options": ["An exempt entity", "A company", "An Association of Persons", "A trust only"],
+      "correct": 1
+    },
+    {
+      "id": 57,
+      "text": "A banking company registered under the Banking Companies Ordinance is:",
+      "options": ["Excluded from the definition of company", "Included in the definition of company", "Treated as an individual", "Treated as a foreign entity"],
+      "correct": 1
+    },
+    {
+      "id": 58,
+      "text": "A cooperative society registered under the relevant law falls under the definition of:",
+      "options": ["Individual", "Company", "Association of Persons", "Local Government"],
+      "correct": 1
+    },
+    {
+      "id": 59,
+      "text": "A multinational corporation incorporated outside Pakistan but operating in Pakistan is treated as:",
+      "options": ["A foreign individual", "A company", "A non-resident AOP", "A local body corporate"],
+      "correct": 1
+    },
+    {
+      "id": 60,
+      "text": "Which of the following is the correct list of the five heads of income under the Ordinance?",
+      "options": ["Salary, Business, Agriculture, Capital Gains, Other Sources", "Salary, Property, Business, Capital Gains, Other Sources", "Salary, Property, Profession, Capital Gains, Gifts", "Wages, Rent, Trade, Investments, Miscellaneous"],
+      "correct": 1
+    },
+    {
+      "id": 61,
+      "text": "Income derived from the sale of a capital asset is chargeable to tax under:",
+      "options": ["Income from Business", "Income from Property", "Capital Gains", "Income from Other Sources"],
+      "correct": 2
+    },
+    {
+      "id": 62,
+      "text": "Rental income derived from letting out a house property is taxable under the head:",
+      "options": ["Income from Salary", "Income from Business", "Income from Property", "Income from Other Sources"],
+      "correct": 2
+    },
+    {
+      "id": 63,
+      "text": "Dividend income received from a Pakistani company is generally taxable under:",
+      "options": ["Income from Business", "Capital Gains", "Income from Other Sources", "Income from Salary"],
+      "correct": 2
+    },
+    {
+      "id": 64,
+      "text": "Royalty income derived from Pakistan is classified as:",
+      "options": ["Foreign Source Income", "Exempt Income", "Pakistan Source Income", "Capital Gain"],
+      "correct": 2
+    },
+    {
+      "id": 65,
+      "text": "The aggregate of income computed under all five heads of income is termed as:",
+      "options": ["Gross Income", "Total Income", "Taxable Income", "Net Wealth"],
+      "correct": 1
+    },
+    {
+      "id": 66,
+      "text": "Taxable Income under the Ordinance is defined in:",
+      "options": ["Section 2(62)", "Section 2(63)", "Section 2(64)", "Section 2(65)"],
+      "correct": 2
+    },
+    {
+      "id": 67,
+      "text": "Deductions and allowances permissible under the Ordinance are subtracted from:",
+      "options": ["Pakistan Source Income only", "Foreign Source Income only", "Total Income", "Tax Liability"],
+      "correct": 2
+    },
+    {
+      "id": 68,
+      "text": "The Normal Tax Year in Pakistan runs from:",
+      "options": ["1 January to 31 December", "1 April to 31 March", "1 July to 30 June", "1 October to 30 September"],
+      "correct": 2
+    },
+    {
+      "id": 69,
+      "text": "A Special Tax Year is granted to a taxpayer by:",
+      "options": ["The Federal Board of Revenue automatically", "The Federal Government on the request of the taxpayer", "The Securities and Exchange Commission", "The Supreme Court of Pakistan"],
+      "correct": 1
+    },
+    {
+      "id": 70,
+      "text": "Which industry is specifically cited as an example of having a Special Tax Year from 1st October to 30th September?",
+      "options": ["Banking", "Textile", "Insurance", "Real Estate"],
+      "correct": 1
+    },
+    {
+      "id": 71,
+      "text": "When a taxpayer changes from a Normal Tax Year to a Special Tax Year, the intervening gap period is known as:",
+      "options": ["Broken Period", "Transitional Tax Year", "Special Assessment Year", "Interim Tax Period"],
+      "correct": 1
+    },
+    {
+      "id": 72,
+      "text": "During a Transitional Tax Year, the taxpayer is required to:",
+      "options": ["Pay double tax", "File a separate tax return for the gap months", "Skip filing for that period", "File a combined return with the next year"],
+      "correct": 1
+    },
+    {
+      "id": 73,
+      "text": "The primary reason a company or AOP requires a Principal Officer is that it is:",
+      "options": ["A natural person", "An artificial person and cannot act by itself", "Required only for public companies", "Required only for listed companies"],
+      "correct": 1
+    },
+    {
+      "id": 74,
+      "text": "The Commissioner of Income Tax may declare any person connected with the management as a Principal Officer by:",
+      "options": ["Issuing a show-cause notice", "Passing an assessment order", "Issuing a notice treating him as a Principal Officer", "Imposing a penalty"],
+      "correct": 2
+    },
+    {
+      "id": 75,
+      "text": "Which of the following is NOT explicitly mentioned in the lecture as a potential Principal Officer?",
+      "options": ["Director", "Manager", "Secretary", "Marketing Executive"],
+      "correct": 3
+    },
+    {
+      "id": 76,
+      "text": "A company in which the Federal Government holds not less than 50% of the shares is classified as:",
+      "options": ["A Private Company", "A Public Company", "A Small Company", "A Foreign Company"],
+      "correct": 1
+    },
+    {
+      "id": 77,
+      "text": "A company in which a foreign government holds 50% or more shares through a foreign investment forum is treated as:",
+      "options": ["A Foreign Company", "A Private Company", "A Public Company", "A Small Company"],
+      "correct": 2
+    },
+    {
+      "id": 78,
+      "text": "A Unit Trust established under the Trust Act is treated as:",
+      "options": ["An Association of Persons", "A Public Company", "A Private Company", "An individual"],
+      "correct": 1
+    },
+    {
+      "id": 79,
+      "text": "A company whose shares are traded on the Pakistan Stock Exchange is categorized as:",
+      "options": ["A Private Company", "A Public Company", "A Small Company", "A Foreign Company"],
+      "correct": 1
+    },
+    {
+      "id": 80,
+      "text": "The criteria for a Small Company are primarily derived from:",
+      "options": ["The Income Tax Ordinance, 2001 alone", "The Companies Ordinance, 1984", "The Partnership Act, 1932", "The Constitution of Pakistan"],
+      "correct": 1
+    },
+    {
+      "id": 81,
+      "text": "For a company to qualify as a Small Company, its paid-up capital plus undistributed reserves must not exceed:",
+      "options": ["Rs. 25 million", "Rs. 50 million", "Rs. 100 million", "Rs. 250 million"],
+      "correct": 1
+    },
+    {
+      "id": 82,
+      "text": "The maximum number of employees a Small Company can have at any time during the year is:",
+      "options": ["100", "150", "250", "500"],
+      "correct": 2
+    },
+    {
+      "id": 83,
+      "text": "The annual turnover of a Small Company must not exceed:",
+      "options": ["Rs. 50 million", "Rs. 100 million", "Rs. 250 million", "Rs. 500 million"],
+      "correct": 2
+    },
+    {
+      "id": 84,
+      "text": "A company formed by the reconstruction of an already existing large company:",
+      "options": ["Qualifies as a Small Company if turnover is low", "Does not qualify as a Small Company", "Qualifies automatically", "Is treated as an AOP"],
+      "correct": 1
+    },
+    {
+      "id": 85,
+      "text": "An individual present in Pakistan for an aggregate of 183 days or more in a tax year qualifies as:",
+      "options": ["A Non-resident", "A Resident Individual", "An Ordinarily Resident", "Not taxable in Pakistan"],
+      "correct": 1
+    },
+    {
+      "id": 86,
+      "text": "The 183-day test for individual residency counts presence in Pakistan on:",
+      "options": ["A continuous basis only", "An aggregate basis", "Either continuous or aggregate basis", "Only in the last six months"],
+      "correct": 1
+    },
+    {
+      "id": 87,
+      "text": "Under the alternative test, an individual present for 120 days in the current year must have been present for how many days in the preceding four years to be resident?",
+      "options": ["120 days", "183 days", "365 days", "730 days"],
+      "correct": 2
+    },
+    {
+      "id": 88,
+      "text": "A federal government employee posted abroad on official duty during a tax year is treated as:",
+      "options": ["A Non-resident", "A Resident Individual", "Exempt from tax", "A Foreign National"],
+      "correct": 1
+    },
+    {
+      "id": 89,
+      "text": "For a company to be resident, its control and management must be situated:",
+      "options": ["Partly outside Pakistan", "Wholly in Pakistan", "In any Asian country", "In the country of incorporation"],
+      "correct": 1
+    },
+    {
+      "id": 90,
+      "text": "A company incorporated outside Pakistan but having its entire control and management in Pakistan is:",
+      "options": ["A Non-resident company", "A Resident company", "A Foreign company", "A Small company"],
+      "correct": 1
+    },
+    {
+      "id": 91,
+      "text": "A company owned by a Provincial Government of Pakistan is:",
+      "options": ["A Non-resident company", "A Resident company", "Exempt from tax", "A Foreign company"],
+      "correct": 1
+    },
+    {
+      "id": 92,
+      "text": "An Association of Persons is resident in Pakistan if its control and management is situated:",
+      "options": ["Wholly in Pakistan", "Wholly or partly in Pakistan", "Wholly outside Pakistan", "In any SAARC country"],
+      "correct": 1
+    },
+    {
+      "id": 93,
+      "text": "The key distinction between the residency rule for a Company and an AOP is that an AOP's control and management may be:",
+      "options": ["Only wholly in Pakistan", "Wholly or partly in Pakistan", "Only outside Pakistan", "Anywhere in the world"],
+      "correct": 1
+    },
+    {
+      "id": 94,
+      "text": "A person who does not meet the criteria of a resident person is defined as:",
+      "options": ["A Foreigner", "A Non-resident person", "An Expatriate", "An Immigrant"],
+      "correct": 1
+    },
+    {
+      "id": 95,
+      "text": "A resident person in Pakistan is chargeable to tax on:",
+      "options": ["Pakistan source income only", "Foreign source income only", "Both Pakistan and foreign source income", "Neither Pakistan nor foreign source income"],
+      "correct": 2
+    },
+    {
+      "id": 96,
+      "text": "A non-resident person is chargeable to tax in Pakistan on:",
+      "options": ["Global income", "Pakistan source income only", "Foreign source income only", "Capital gains only"],
+      "correct": 1
+    },
+    {
+      "id": 97,
+      "text": "The determination of residential status is critical because it defines:",
+      "options": ["The tax rate applicable", "The scope of income chargeable to tax", "The due date of filing returns", "The form of tax return to be used"],
+      "correct": 1
+    },
+    {
+      "id": 98,
+      "text": "Foreign Source Income under the Ordinance is defined in:",
+      "options": ["Section 2(10)", "Section 2(16)", "Section 2(17)", "Section 2(64)"],
+      "correct": 2
+    },
+    {
+      "id": 99,
+      "text": "A partnership firm registered under the Partnership Act, 1932 is treated as:",
+      "options": ["A company", "An Association of Persons", "An individual", "A local authority"],
+      "correct": 1
+    },
+    {
+      "id": 100,
+      "text": "The broad definition of 'Person' in the Income Tax Ordinance serves to:",
+      "options": ["Limit the tax base", "Widen the tax base by including all possible entities", "Exclude foreign entities", "Reduce the tax rates"],
+      "correct": 1
+    }
+  ]
+}
